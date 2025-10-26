@@ -1,0 +1,312 @@
+[
+  {
+    "requirement_title": "Implement and Maintain a Business Continuity Management System (BCMS)",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The organization should implement and maintain a BCMS that develops business continuity appropriate to the impact of disruptions.",
+    "requirement_description": "The BCMS should be tailored to the organization's needs, legal requirements, products, processes, size, structure, and interested parties.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop Business Impact Analysis (BIA)",
+        "control": "Conduct a thorough analysis to identify critical business functions, assets, and dependencies that would be impacted by disruptions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish BCMS Governance Structure",
+        "control": "Create a clear governance structure for the BCMS, including roles, responsibilities, and reporting lines."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Business Continuity Strategies",
+        "control": "Develop strategies to maintain business operations during disruptions, such as alternative work locations, remote access, or outsourcing."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain BCMS Documentation",
+        "control": "Regularly update and maintain documentation of the BCMS, including policies, procedures, plans, and training materials."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Establish Business Continuity Policies and Objectives",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The organization should understand its needs and establish business continuity policies and objectives.",
+    "requirement_description": "The organization should define its business continuity goals based on the potential impact of disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Business Impact Analysis Process",
+        "control": "Regularly assess the potential impact of various threats on critical business processes, systems, and data to prioritize resources for continuity planning."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Business Continuity Objectives",
+        "control": "Define specific goals for recovery time objectives (RTO), recovery point objectives (RPO), and maximum acceptable downtime to guide the development of business continuity plans."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Business Continuity Strategy",
+        "control": "Outline strategies for maintaining critical business functions during disruptions, including alternative methods for delivering products or services and communication with stakeholders."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Business Continuity Policies",
+        "control": "Create formal policies that outline the organization's approach to business continuity management, including roles, responsibilities, and procedures."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Operate and Maintain Processes, Capabilities, and Response Structures",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The organization should operate and maintain processes, capabilities, and response structures to ensure survival during disruptions.",
+    "requirement_description": "The organization should have mechanisms in place to respond effectively to disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop Business Continuity Plan",
+        "control": "Create a comprehensive plan outlining the organization's response to various disruptions, including recovery strategies and key personnel roles."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Disaster Recovery Site",
+        "control": "Maintain an off-site location with essential infrastructure and resources to ensure continuity of operations during a major disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Regular Backup and Offsite Storage",
+        "control": "Regularly backup critical data and store off-site to minimize data loss during disruptions."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Disaster Recovery Drills",
+        "control": "Periodically test the business continuity plan through simulated disruptions to ensure effectiveness and identify areas for improvement."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Monitor and Review BCMS Performance and Effectiveness",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The organization should monitor and review the performance and effectiveness of the BCMS.",
+    "requirement_description": "The organization should assess the efficiency and efficacy of its BCMS to ensure it meets its objectives.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Regular BCMS Performance Monitoring",
+        "control": "Establish a process to regularly monitor the performance of the Business Continuity Management System (BCMS) to ensure it is functioning effectively and efficiently."
+      },
+      {
+        "priority": "medium",
+        "control_title": "BCMS Effectiveness Review",
+        "control": "Conduct periodic reviews to assess the effectiveness of the BCMS in achieving its intended objectives, such as minimizing downtime and ensuring business continuity."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document BCMS Performance and Effectiveness Findings",
+        "control": "Maintain records of performance and effectiveness reviews to track improvements over time, identify trends, and make data-driven decisions about BCMS enhancements."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Continual Improvement Based on Qualitative and Quantitative Measures",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The organization should continuously improve based on qualitative and quantitative measures.",
+    "requirement_description": "The organization should strive for continuous improvement in its BCMS.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Continuous Improvement Program",
+        "control": "Develop, document, and implement a formal program to continuously evaluate and improve organizational performance based on both qualitative (e.g., customer feedback) and quantitative (e.g., key performance indicators) measures."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Regular Performance Reviews",
+        "control": "Conduct periodic reviews of organizational performance, identifying areas for improvement and setting targets for future performance."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish a Feedback Mechanism",
+        "control": "Create a system for customers and employees to provide feedback on products, services, and processes, using this information to drive improvements."
+      }
+    ]
+  },
+  {
+    "requirement_title": "BCMS Components",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "A BCMS includes a policy, competent people with defined responsibilities, management processes, documented information supporting operational control, and performance evaluation.",
+    "requirement_description": "The BCMS should have a clear structure with defined components to ensure effective operation.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish BCMS Policy",
+        "control": "Develop, document, and communicate a Business Continuity Management System policy that outlines the organization's approach to managing risks and ensuring business continuity."
+      },
+      {
+        "priority": "high",
+        "control_title": "Assign BCMS Responsibilities",
+        "control": "Define roles and responsibilities for individuals involved in the BCMS, including a BCMS Manager, Business Impact Analysts, and Test Managers."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop BCMS Processes",
+        "control": "Create documented processes that outline how the organization will identify, assess, manage, respond to, and recover from business disruptions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document BCMS Information",
+        "control": "Maintain up-to-date documentation of the BCMS, including policies, procedures, plans, and records of tests and exercises."
+      },
+      {
+        "priority": "low",
+        "control_title": "Perform BCMS Performance Evaluation",
+        "control": "Regularly review and evaluate the effectiveness of the BCMS to ensure it remains fit for purpose and is continually improved."
+      }
+    ]
+  },
+  {
+    "requirement_title": "BCMS Policy",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The BCMS should have a policy.",
+    "requirement_description": "The organization should have a written policy outlining its approach to business continuity.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop BCMS Policy Document",
+        "control": "Create a comprehensive policy document outlining the purpose, scope, roles and responsibilities, and procedures for the Business Continuity Management System (BCMS)"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish BCMS Policy Approval Process",
+        "control": "Define a clear approval process for the BCMS policy document, involving key stakeholders and ensuring that all necessary parties have reviewed and approved the policy"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement BCMS Policy Training",
+        "control": "Provide training to relevant staff members on the BCMS policy document, ensuring they understand their roles and responsibilities in maintaining business continuity"
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain BCMS Policy Review Schedule",
+        "control": "Establish a regular review schedule for the BCMS policy document to ensure its continued relevance and effectiveness, and make necessary updates as required"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Competent People with Defined Responsibilities",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The BCMS should have competent people with defined responsibilities.",
+    "requirement_description": "The organization should assign roles and responsibilities for managing business continuity.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define BCMS Roles and Responsibilities",
+        "control": "Clearly outline the roles, responsibilities, and authorities of each individual involved in the BCMS. This includes identifying a BCMS owner, coordinator, team members, and any other relevant positions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish BCMS Training Program",
+        "control": "Develop and implement a comprehensive training program to ensure that all personnel involved in the BCMS are competent and aware of their roles, responsibilities, and the BCMS procedures."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Regularly Review and Update BCMS Personnel",
+        "control": "Periodically review the personnel involved in the BCMS to ensure they still meet the competency requirements. Update roles, responsibilities, or authorities as necessary."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document BCMS Personnel Information",
+        "control": "Maintain up-to-date documentation of all personnel involved in the BCMS, including their roles, responsibilities, and contact information. This will facilitate effective communication and coordination during incidents."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Management Processes",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The BCMS should have management processes for policy, planning, implementation and operation, performance assessment, management review, and continual improvement.",
+    "requirement_description": "The organization should have defined processes for managing its business continuity.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish BCMS Policy",
+        "control": "Develop, document, communicate, and maintain a comprehensive Business Continuity Management System (BCMS) policy that outlines the organization's approach to managing risks and ensuring business continuity."
+      },
+      {
+        "priority": "high",
+        "control_title": "Create BCMS Plan",
+        "control": "Develop, document, communicate, and maintain a detailed Business Continuity Management System (BCMS) plan that outlines the steps to be taken in the event of a disruption."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement BCMS Procedures",
+        "control": "Develop, document, communicate, and maintain detailed procedures for each step outlined in the BCMS plan."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Assign BCMS Responsibilities",
+        "control": "Define roles and responsibilities for BCMS management, including a BCMS team, BCMS coordinator, and BCMS champion."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct BCMS Training",
+        "control": "Provide training to all relevant personnel on their roles and responsibilities in the BCMS, as well as any necessary technical skills."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Perform BCMS Testing",
+        "control": "Regularly test the BCMS plan and procedures to ensure they are effective and up-to-date."
+      },
+      {
+        "priority": "low",
+        "control_title": "Review BCMS Performance",
+        "control": "Regularly review the performance of the BCMS, identifying areas for improvement and implementing changes as necessary."
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement Continual Improvement Process",
+        "control": "Establish a process for ongoing evaluation, improvement, and updating of the BCMS to ensure it remains effective in managing risks and ensuring business continuity."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Documented Information Supporting Operational Control",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "The BCMS should have documented information supporting operational control and performance evaluation.",
+    "requirement_description": "The organization should maintain records to support the operation of its BCMS and for evaluating its performance.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Maintain BCMS Documentation",
+        "control": "Develop, maintain, and update a comprehensive documentation of the BCMS, including operational procedures, performance metrics, and evaluation methods."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Performance Evaluation Framework",
+        "control": "Create a framework for evaluating the effectiveness and efficiency of the BCMS, including key performance indicators (KPIs) and regular review schedules."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Operational Controls and Procedures",
+        "control": "Create detailed documentation for each operational control within the BCMS, including steps, responsibilities, and expected outcomes."
+      }
+    ]
+  }
+]

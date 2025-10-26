@@ -1,0 +1,1137 @@
+[
+  {
+    "requirement_title": "Implement and Maintain a Business Continuity Management System (BCMS)",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "This document specifies the structure and requirements for implementing and maintaining a business continuity management system (BCMS)...",
+    "requirement": "Implement and maintain a BCMS",
+    "requirement_description": "The organization should establish, implement, and maintain a BCMS to ensure survival during disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop BCMS Policy",
+        "control": "Create a comprehensive policy that outlines the organization's approach to business continuity, including roles and responsibilities, risk assessment, incident management, and recovery strategies."
+      },
+      {
+        "priority": "high",
+        "control_title": "Perform BCMS Risk Assessment",
+        "control": "Identify potential threats, vulnerabilities, and risks to the organization's critical functions and assets. Prioritize these risks based on their impact and likelihood of occurrence."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish BCMS Team",
+        "control": "Designate a BCMS team responsible for managing the BCMS, including a Business Continuity Manager, IT Manager, Facilities Manager, and other key personnel."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop BCMS Plans",
+        "control": "Create detailed plans for each critical function and asset, outlining steps to maintain operations during a disruption, recover from an incident, and resume normal operations."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct BCMS Training",
+        "control": "Provide training to the BCMS team and relevant personnel on their roles and responsibilities during a disruption, as well as the procedures outlined in the BCMS plans."
+      },
+      {
+        "priority": "low",
+        "control_title": "Test BCMS Regularly",
+        "control": "Regularly test the BCMS plans through exercises and drills to ensure their effectiveness and identify areas for improvement."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Understand the Organization's Needs and Establish Business Continuity Policies and Objectives",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Understand the organization’s needs and establish business continuity policies and objectives",
+    "requirement_description": "The organization should understand its needs and set appropriate business continuity policies and objectives.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop Business Impact Analysis (BIA)",
+        "control": "Identify critical functions, assets, and dependencies to determine the potential impact of disruptions on the organization's operations."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Business Continuity Objectives",
+        "control": "Define objectives that align with the organization's strategic goals and ensure the continuity of critical functions during disruptions."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Risk Assessments",
+        "control": "Assess potential threats, vulnerabilities, and risks to the organization's operations and develop strategies to mitigate them."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Business Continuity Plans (BCP)",
+        "control": "Create detailed plans that outline steps to be taken during a disruption, including recovery strategies and communication protocols."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement Regular Testing and Exercises",
+        "control": "Regularly test and exercise the business continuity plans to ensure their effectiveness and identify areas for improvement."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Operate and Maintain Processes, Capabilities, and Response Structures for Ensuring Survival During Disruptions",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Operate and maintain processes, capabilities and response structures for ensuring the organization will survive disruptions",
+    "requirement_description": "The organization should have processes, capabilities, and response structures in place to ensure its survival during disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop Business Continuity Plan (BCP)",
+        "control": "Create a comprehensive BCP that outlines procedures to maintain critical business functions during and after a disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Disaster Recovery Strategy",
+        "control": "Develop a strategy for recovering IT infrastructure, systems, and data in the event of a disaster."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Crisis Management Team (CMT)",
+        "control": "Create a cross-functional team responsible for managing the organization's response to disruptions and crises."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Risk Assessments",
+        "control": "Assess potential risks to the organization, prioritize them based on impact and likelihood, and develop strategies to mitigate those risks."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Off-site Backups",
+        "control": "Regularly backup critical data and store the backups off-site to ensure data availability in case of a disaster."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Monitor and Review the Performance and Effectiveness of the BCMS",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Monitor and review the performance and effectiveness of the BCMS",
+    "requirement_description": "The organization should monitor and review the performance and effectiveness of its BCMS to ensure continuous improvement.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Regular BCMS Performance Reviews",
+        "control": "Conduct regular reviews of the BCMS to assess its overall performance and effectiveness in maintaining business continuity."
+      },
+      {
+        "priority": "medium",
+        "control_title": "BCMS Effectiveness Metrics Tracking",
+        "control": "Establish key performance indicators (KPIs) for the BCMS to measure its effectiveness in responding to incidents and maintaining business continuity."
+      },
+      {
+        "priority": "medium",
+        "control_title": "BCMS Testing and Exercises",
+        "control": "Regularly test and exercise the BCMS to ensure it functions as intended during an incident and identify areas for improvement."
+      },
+      {
+        "priority": "low",
+        "control_title": "BCMS Documentation Review",
+        "control": "Periodically review and update BCMS documentation, such as plans, policies, and procedures, to ensure they remain current and relevant."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Continual Improvement Based on Qualitative and Quantitative Measures",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Continual improvement based on qualitative and quantitative measures",
+    "requirement_description": "The organization should continuously improve its BCMS using both qualitative and quantitative measures.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Continuous Improvement Program",
+        "control": "Develop, document, and implement a formal continuous improvement program that includes regular reviews of processes, systems, and services to identify areas for improvement."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Key Performance Indicators (KPIs)",
+        "control": "Define and track KPIs related to the organization's objectives, such as customer satisfaction, employee productivity, and operational efficiency."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Performance Reviews",
+        "control": "Schedule periodic performance reviews of key processes, systems, and services to assess their effectiveness and identify areas for improvement."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish a Feedback Mechanism",
+        "control": "Create mechanisms for employees, customers, and other stakeholders to provide feedback on processes, systems, and services, and use this feedback to drive improvements."
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement a Data Analysis Process",
+        "control": "Regularly analyze data related to the organization's operations to identify trends, patterns, and areas for improvement."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Develop Business Continuity Appropriate to the Amount and Type of Impact",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Develop business continuity appropriate to the amount and type of impact that the organization may or may not accept following a disruption",
+    "requirement_description": "The organization should develop business continuity plans based on the potential impact of disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop and Maintain Business Impact Analysis (BIA)",
+        "control": "Identify critical functions, assets, and dependencies within the organization. Determine the maximum acceptable downtime for each critical function and the impact of disruptions on business operations."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Business Continuity Plan (BCP)",
+        "control": "Develop a comprehensive plan that outlines procedures to maintain essential functions during and after a disruption. The plan should include recovery strategies, communication protocols, and resource allocation."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Regular Disaster Recovery Drills",
+        "control": "Conduct periodic tests of the BCP to ensure its effectiveness. Identify any gaps or weaknesses in the plan and make necessary adjustments."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Off-site Backups",
+        "control": "Store critical data off-site to minimize data loss during a disruption. Regularly test backups for integrity and recoverability."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish Communication Channels",
+        "control": "Develop communication protocols to ensure effective internal and external communication during a disruption. This includes contact information, roles, and responsibilities for key personnel."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Comply with Legal, Regulatory, Organizational and Industry Requirements",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Comply with the organization’s legal, regulatory, organizational and industry requirements",
+    "requirement_description": "The organization should comply with all relevant laws, regulations, organizational policies, and industry standards.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Compliance Program",
+        "control": "Develop, implement, and maintain a comprehensive compliance program to ensure adherence to all relevant laws, regulations, organizational policies, and industry standards."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Data Protection Measures",
+        "control": "Protect sensitive data by implementing appropriate technical and administrative safeguards, such as encryption, access controls, and regular backups."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Compliance Documentation",
+        "control": "Document all compliance-related activities, policies, procedures, and training records to demonstrate adherence to relevant laws, regulations, organizational policies, and industry standards."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Compliance Audits",
+        "control": "Regularly audit the organization's compliance with applicable laws, regulations, organizational policies, and industry standards to identify areas for improvement."
+      },
+      {
+        "priority": "high",
+        "control_title": "Provide Compliance Training",
+        "control": "Offer regular training programs to ensure that all employees are aware of the organization's compliance obligations and understand how to comply with them."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Provide Support for Strategic Objectives",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "The purpose of a BCMS is to prepare for, provide and maintain controls and capabilities for managing an organization’s overall ability to continue to operate during disruptions. In achieving this, the organization is: supporting its strategic objectives...",
+    "requirement": "Support strategic objectives",
+    "requirement_description": "The BCMS should support the organization's strategic objectives.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Strategic Goals and Objectives",
+        "control": "Clearly articulate the organization's long-term vision, mission, and specific goals to guide decision making and resource allocation."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Key Performance Indicators (KPIs)",
+        "control": "Develop measurable metrics that align with strategic objectives to track progress, identify areas for improvement, and make data-driven decisions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct SWOT Analysis Regularly",
+        "control": "Assess the organization's Strengths, Weaknesses, Opportunities, and Threats to identify strategic opportunities and address potential risks."
+      },
+      {
+        "priority": "low",
+        "control_title": "Develop Contingency Plans",
+        "control": "Create plans for various scenarios that could impact the organization's ability to achieve its strategic objectives, such as natural disasters, economic downturns, or changes in market conditions."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Create a Competitive Advantage",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Create a competitive advantage",
+    "requirement_description": "The BCMS should provide a competitive edge for the organization.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop Unique Product Features",
+        "control": "Invest in research and development to create innovative, differentiated product features that set your company apart from competitors."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Enhance Customer Experience",
+        "control": "Improve the overall customer journey by streamlining processes, offering personalized experiences, and providing excellent customer service."
+      },
+      {
+        "priority": "low",
+        "control_title": "Competitive Intelligence Gathering",
+        "control": "Regularly monitor competitors' strategies, products, and market position to identify opportunities for improvement and differentiation."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Protect and Enhance Reputation and Credibility",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Protect and enhance its reputation and credibility",
+    "requirement_description": "The BCMS should protect and enhance the organization's reputation and credibility.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Clear Privacy Policy",
+        "control": "Develop and publish a comprehensive privacy policy that outlines how personal data is collected, used, shared, and protected."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Data Protection by Design",
+        "control": "Integrate data protection measures into the design and development of products, services, and business processes."
+      },
+      {
+        "priority": "high",
+        "control_title": "Enforce Employee Training on Compliance",
+        "control": "Provide regular training to employees on compliance requirements, data protection, and ethical conduct."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Monitor and Respond to Customer Inquiries",
+        "control": "Establish a process for addressing customer inquiries related to privacy, security, and compliance, and respond promptly and professionally."
+      },
+      {
+        "priority": "low",
+        "control_title": "Regularly Review Compliance Program",
+        "control": "Conduct periodic reviews of the compliance program to ensure its effectiveness and make necessary updates or improvements."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Contribute to Organizational Resilience",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Contribute to organizational resilience",
+    "requirement_description": "The BCMS should contribute to the organization's overall resilience.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop and Maintain Business Continuity Plan",
+        "control": "Create, test, and maintain a comprehensive business continuity plan that covers all critical functions and systems."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Regular Backup and Disaster Recovery Processes",
+        "control": "Regularly backup data and systems, test recovery processes, and maintain off-site backups to minimize downtime in case of a disaster."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Redundancy and Fault Tolerance for Critical Systems",
+        "control": "Design systems with redundancy and fault tolerance to ensure continuity of operations in case of hardware or software failures."
+      },
+      {
+        "priority": "low",
+        "control_title": "Promote Employee Training and Awareness",
+        "control": "Provide regular training and awareness programs for employees on organizational resilience, including incident response, disaster recovery, and business continuity."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Risk Assessments",
+        "control": "Regularly assess the organization's risks and vulnerabilities to identify areas for improvement in resilience."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Reduce Legal and Financial Exposure",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Reduce legal and financial exposure",
+    "requirement_description": "The BCMS should minimize the organization's legal and financial risks.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Data Minimization",
+        "control": "Collect only necessary personal data and retain for limited periods"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish a Compliance Program",
+        "control": "Develop, implement, and maintain a comprehensive compliance program to ensure adherence to all relevant laws and regulations."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Access Controls",
+        "control": "Ensure that only authorized individuals have access to sensitive data and systems, using strong authentication methods."
+      },
+      {
+        "priority": "low",
+        "control_title": "Regularly Review Contracts",
+        "control": "Review all contracts with third parties for compliance with relevant laws and regulations, and ensure that appropriate indemnification clauses are included."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Reduce Direct and Indirect Costs of Disruptions",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Reduce direct and indirect costs of disruptions",
+    "requirement_description": "The BCMS should minimize the financial impact of disruptions on the organization.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Disaster Recovery Plan",
+        "control": "Develop, document, and regularly test a disaster recovery plan that covers all critical systems and data"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Redundancy for Critical Systems",
+        "control": "Implement redundant systems to minimize downtime in case of failure or disruption"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Regular System Maintenance",
+        "control": "Schedule regular system maintenance and updates to prevent unexpected failures and disruptions"
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement Employee Training Programs",
+        "control": "Provide training programs for employees on best practices for handling equipment, data, and potential threats"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Protect Life, Property, and the Environment",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Protect life, property and the environment",
+    "requirement_description": "The BCMS should ensure the safety of people, protect property, and minimize environmental impact during disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Emergency Response Plan",
+        "control": "Develop and maintain a comprehensive emergency response plan that covers all potential hazards, including natural disasters, fires, chemical spills, and other emergencies. Regularly train employees on the plan."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Maintain Equipment Safety Standards",
+        "control": "Ensure all equipment is regularly inspected, maintained, and repaired to prevent malfunctions that could cause harm. Implement safety protocols for the operation of all machinery."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Environmental Management System",
+        "control": "Develop, implement, and maintain an environmental management system to minimize waste, reduce emissions, and prevent pollution. Regularly monitor and report on the system's performance."
+      },
+      {
+        "priority": "low",
+        "control_title": "Promote Safe Work Practices",
+        "control": "Regularly communicate safe work practices to employees, including proper lifting techniques, use of personal protective equipment (PPE), and safe handling of hazardous materials."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Risk Assessments",
+        "control": "Regularly conduct risk assessments to identify potential hazards, evaluate their likelihood and impact, and implement controls to mitigate the risks."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Consider the Expectations of Interested Parties",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Consider the expectations of interested parties",
+    "requirement_description": "The BCMS should meet the expectations of all relevant stakeholders.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Clear Communication Channels",
+        "control": "Create multiple channels for communication with interested parties, such as email, phone, and physical mail. Ensure these channels are secure, reliable, and regularly monitored."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Regularly Solicit Feedback from Interested Parties",
+        "control": "Implement a feedback mechanism to gather opinions and suggestions from interested parties. Use this feedback to improve services, products, or processes."
+      },
+      {
+        "priority": "low",
+        "control_title": "Provide Regular Updates on Key Performance Indicators (KPIs)",
+        "control": "Share relevant KPIs with interested parties to demonstrate transparency and accountability. This can help build trust and foster a sense of collaboration."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Provide Confidence in the Organization's Ability to Succeed",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Provide confidence in the organization’s ability to succeed",
+    "requirement_description": "The BCMS should instill confidence in the organization's ability to withstand and recover from disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Strategic Goals and Objectives",
+        "control": "Develop clear, measurable, and achievable goals and objectives that align with the organization's mission and vision."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Performance Metrics",
+        "control": "Establish key performance indicators (KPIs) to measure progress towards achieving strategic goals and objectives."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Risk Assessments",
+        "control": "Assess potential risks and vulnerabilities that may impact the organization's ability to achieve its goals, and implement appropriate mitigation strategies."
+      },
+      {
+        "priority": "low",
+        "control_title": "Develop Contingency Plans",
+        "control": "Create contingency plans for various scenarios, including unexpected events or disruptions, to ensure business continuity and minimize downtime."
+      },
+      {
+        "priority": "low",
+        "control_title": "Promote Employee Training and Development",
+        "control": "Provide ongoing training and development opportunities for employees to enhance their skills and knowledge, thereby increasing the organization's overall capabilities."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Improve Capability to Remain Effective During Disruptions",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "",
+    "requirement": "Improve its capability to remain effective during disruptions",
+    "requirement_description": "The BCMS should enhance the organization's ability to continue operations during disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Disaster Recovery Plan",
+        "control": "Develop, document, and test a disaster recovery plan that outlines procedures for restoring critical IT infrastructure and systems in the event of a disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Business Continuity Plan",
+        "control": "Develop, document, and test a business continuity plan that outlines procedures for maintaining essential business functions during and after a disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Ensure Redundancy of Critical Systems",
+        "control": "Implement redundant systems to minimize the impact of hardware or software failures, ensuring that critical business functions can continue during a disruption."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Disaster Recovery Drills",
+        "control": "Regularly test and exercise the disaster recovery plan to ensure its effectiveness and identify areas for improvement."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Off-site Backups of Critical Data",
+        "control": "Store off-site backups of critical data to minimize the risk of data loss due to a disruption at the primary location."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Life, Property and Environmental Protection",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "Protect life, property and the environment",
+    "requirement_description": "The organization must ensure safety of lives, properties, and the environment",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Emergency Response Plan",
+        "control": "Develop and maintain a comprehensive emergency response plan that includes evacuation procedures, first aid training, and regular drills."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Maintain Equipment Safety Standards",
+        "control": "Regularly inspect and maintain all equipment to ensure they are in safe working condition and comply with relevant safety standards."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Environmental Management System",
+        "control": "Establish an environmental management system to monitor, control, and improve the environmental impact of operations."
+      },
+      {
+        "priority": "low",
+        "control_title": "Promote Safe Work Practices",
+        "control": "Provide regular safety training for employees, enforce safe work practices, and encourage a culture of safety awareness."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Consideration of Interested Parties' Expectations",
+    "article_number": null,
+    "priority": "medium",
+    "article_text": null,
+    "requirement": "Consider the expectations of interested parties",
+    "requirement_description": "The organization must take into account the expectations of its stakeholders",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Clear Communication Channels",
+        "control": "Develop and maintain open, transparent, and timely communication with all interested parties to ensure their needs and expectations are understood and addressed."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Regularly Solicit Feedback",
+        "control": "Implement a feedback mechanism that allows interested parties to provide input on the organization's products, services, or operations, and use this feedback to make improvements."
+      },
+      {
+        "priority": "low",
+        "control_title": "Periodic Review of Interested Parties' Expectations",
+        "control": "Conduct periodic reviews of the expectations of interested parties to ensure they are still relevant and up-to-date, and adjust organizational practices accordingly."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Building Confidence in Organization's Ability to Succeed",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "Provide confidence in the organization’s ability to succeed",
+    "requirement_description": "The organization must demonstrate its capability to achieve success",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Strategic Goals and Objectives",
+        "control": "Develop clear, measurable, and achievable goals and objectives that align with the organization's mission and vision."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Performance Metrics",
+        "control": "Establish key performance indicators (KPIs) to measure progress towards achieving strategic goals and objectives."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Risk Assessments",
+        "control": "Identify, assess, and manage potential risks that could impact the organization's ability to achieve its goals."
+      },
+      {
+        "priority": "low",
+        "control_title": "Develop Contingency Plans",
+        "control": "Create plans for responding to unexpected events or disruptions that may impact the organization's operations."
+      },
+      {
+        "priority": "low",
+        "control_title": "Promote Continuous Improvement",
+        "control": "Encourage a culture of continuous improvement by soliciting feedback, implementing improvements, and regularly reviewing processes and procedures."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Internal Processes Improvement during Disruptions",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "Improve its capability to remain effective during disruptions",
+    "requirement_description": "The organization must enhance its resilience during unexpected events",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Disaster Recovery Plan",
+        "control": "Develop, document, and regularly test a disaster recovery plan that covers all critical systems and data."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Redundancy for Critical Systems",
+        "control": "Implement redundant systems to ensure continuity of operations in case of failure or disruption."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular System Maintenance and Updates",
+        "control": "Regularly maintain and update all systems, including software and hardware, to minimize the risk of system failures during disruptions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Multi-Factor Authentication (MFA)",
+        "control": "Enforce MFA for all users accessing critical systems to prevent unauthorized access during disruptions."
+      },
+      {
+        "priority": "high",
+        "control_title": "Establish Offsite Backup of Critical Data",
+        "control": "Regularly backup critical data offsite and ensure the backups are secure, accessible, and recoverable in case of a disruption."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Proactive Risk Control",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "Demonstrate proactive control of risks effectively and efficiently",
+    "requirement_description": "The organization must manage risks in a timely and resource-efficient manner",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Risk Assessment and Prioritization",
+        "control": "Regularly perform risk assessments to identify, prioritize, and mitigate potential risks. This includes both IT and business risks."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Security Awareness Training",
+        "control": "Provide regular security awareness training for all employees to ensure they understand the importance of cybersecurity and are aware of common threats and best practices."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Incident Response Plan",
+        "control": "Develop, document, and regularly update an incident response plan to ensure a swift and effective response to any security incidents."
+      },
+      {
+        "priority": "low",
+        "control_title": "Regular System Updates",
+        "control": "Regularly apply system updates to ensure that all systems are running the latest, secure versions. This includes operating systems, applications, and software libraries."
+      },
+      {
+        "priority": "low",
+        "control_title": "Backup and Disaster Recovery Plan",
+        "control": "Implement a backup and disaster recovery plan to ensure that data can be quickly restored in the event of a system failure or other disaster."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Establish BCMS Context and Scope",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "This document applies the Plan (establish), Do (implement and operate), Check (monitor and review) and Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the effectiveness of an organization’s BCMS. This ensures a degree of consistency with other management systems standards, such as ISO 9001, ISO 14001, ISO/IEC 20000-1, ISO/IEC 27001 and ISO 28000, thereby supporting consistent and integrated implementation and operation with related management systems.",
+    "requirement": "Establish the context of the BCMS applicable to the organization, as well as needs, requirements and scope.",
+    "requirement_description": "The organization must define the applicability, relevance, and scope of its Business Continuity Management System (BCMS).",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define BCMS Scope",
+        "control": "Clearly outline the areas, processes, and systems within the organization that fall under the Business Continuity Management System (BCMS)"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Identify BCMS Needs",
+        "control": "Assess the potential threats, vulnerabilities, and impacts to the organization's critical functions and assets, and determine the necessary controls for effective BCMS"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document BCMS Applicability",
+        "control": "Prepare a document that explains the context of the BCMS within the organization, including its purpose, objectives, and boundaries"
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish BCMS Review Process",
+        "control": "Schedule regular reviews of the BCMS to ensure it remains relevant, effective, and up-to-date in response to changes within the organization or external environment"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Top Management's Role in BCMS",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "This document applies the Plan (establish), Do (implement and operate), Check (monitor and review) and Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the effectiveness of an organization’s BCMS. In accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. Clause 5 summarizes the requirements specific to top management’s role in the BCMS, and how leadership articulates its expectations to the organization via a policy statement.",
+    "requirement": "Define the role of top management in the Business Continuity Management System (BCMS) and articulate their expectations through a policy statement.",
+    "requirement_description": "Top management must define their role in the BCMS, communicate their expectations, and establish a policy to guide the system.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Top Management BCMS Policy Statement",
+        "control": "Develop a clear, concise, and communicated policy statement outlining the role of top management in the Business Continuity Management System (BCMS), including their responsibilities, expectations, and commitment to ensuring business continuity."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Top Management BCMS Oversight",
+        "control": "Establish a designated top management representative responsible for the oversight of the BCMS, ensuring its implementation, maintenance, and continuous improvement."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Top Management BCMS Training",
+        "control": "Provide regular training to top management on their roles and responsibilities in the BCMS, as well as any changes or updates to the system."
+      },
+      {
+        "priority": "low",
+        "control_title": "Top Management BCMS Communication",
+        "control": "Regularly communicate the importance of the BCMS to all employees and stakeholders, emphasizing top management's commitment to business continuity."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Set Strategic Objectives for BCMS",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "This document applies the Plan (establish), Do (implement and operate), Check (monitor and review) and Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the effectiveness of an organization’s BCMS. In accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. Clause 6 describes the requirements for establishing strategic objectives and guiding principles for the BCMS as a whole.",
+    "requirement": "Establish strategic objectives and guiding principles for the Business Continuity Management System (BCMS).",
+    "requirement_description": "The organization must set strategic goals and principles to guide the overall operation of its BCMS.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Strategic Objectives for BCMS",
+        "control": "Establish clear, measurable, and time-bound objectives that align with the organization's overall goals."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Guiding Principles for BCMS",
+        "control": "Create a set of principles that guide decision-making, resource allocation, and actions related to business continuity management."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Strategic Objectives and Guiding Principles",
+        "control": "Prepare a formal document detailing the strategic objectives and guiding principles for the BCMS, ensuring it is easily accessible to relevant stakeholders."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Competence and Communication in BCMS Operations",
+    "article_number": null,
+    "priority": "medium",
+    "article_text": "This document applies the Plan (establish), Do (implement and operate), Check (monitor and review) and Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the effectiveness of an organization’s BCMS. In accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. Clause 7 supports BCMS operations related to establishing competence and communication on a recurring/as-needed basis with interested parties, while documenting, controlling, maintaining and retaining required documented information.",
+    "requirement": "Establish competence and maintain communication with interested parties in BCMS operations, while documenting, controlling, maintaining, and retaining required information.",
+    "requirement_description": "The organization must ensure that competent personnel are involved in the BCMS and maintain effective communication with relevant stakeholders. Additionally, they should manage and retain necessary documentation.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Competent BCMS Team",
+        "control": "Assign roles and responsibilities to team members based on their skills, knowledge, and experience in business continuity management."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Maintain Interested Parties Contact List",
+        "control": "Create and regularly update a list of all parties with an interest in the BCMS operations, including their contact information and roles."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement Regular Communication Channels",
+        "control": "Establish formal communication channels for regular updates on BCMS operations, incidents, and improvements."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document BCMS Procedures",
+        "control": "Create and maintain written procedures for all aspects of the BCMS, including incident management, testing, and improvement processes."
+      },
+      {
+        "priority": "high",
+        "control_title": "Control Access to BCMS Information",
+        "control": "Implement access controls to ensure that only authorized personnel can view or modify BCMS information."
+      },
+      {
+        "priority": "low",
+        "control_title": "Retain Required BCMS Documentation",
+        "control": "Store all BCMS documentation securely and retain it for the required period, as specified in relevant regulations."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Address Business Continuity Needs",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "This document applies the Plan (establish), Do (implement and operate), Check (monitor and review) and Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the effectiveness of an organization’s BCMS. In accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. Clause 8 defines business continuity needs, determines how to address them and develops procedures to manage the organization during a disruption.",
+    "requirement": "Identify business continuity needs, determine appropriate responses, and develop procedures for managing the organization during a disruption.",
+    "requirement_description": "The organization must identify its critical functions and processes, assess potential threats, and develop plans to ensure continuity in the event of a disruption.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop Business Impact Analysis Plan",
+        "control": "Identify critical business functions, processes, systems, and resources required to maintain operations during a disruption. Prioritize them based on their impact on the organization."
+      },
+      {
+        "priority": "high",
+        "control_title": "Create Disaster Recovery Plan",
+        "control": "Develop a comprehensive plan that outlines steps for restoring critical business functions and systems in case of a disruption. The plan should include roles, responsibilities, communication procedures, and recovery time objectives."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Off-site Backup Locations",
+        "control": "Store critical data and systems in multiple locations to ensure their availability during a disruption. Regularly test the backup systems for functionality."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Communication Plan",
+        "control": "Create a communication plan that outlines how information will be shared with employees, customers, and stakeholders during a disruption. The plan should include roles, responsibilities, communication channels, and messaging."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Drills and Exercises",
+        "control": "Regularly test the business continuity plans through drills and exercises to ensure their effectiveness. Document lessons learned and make necessary improvements."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Measure BCMS Performance and Conformity",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "This document applies the Plan (establish), Do (implement and operate), Check (monitor and review) and Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the effectiveness of an organization’s BCMS. In accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. Clause 9 summarizes the requirements necessary to measure business continuity performance, BCMS conformity with this document, and to conduct management review.",
+    "requirement": "Measure business continuity performance, assess BCMS conformity with this document, and perform a management review.",
+    "requirement_description": "The organization must monitor the effectiveness of its BCMS, verify compliance with this standard, and conduct regular reviews to identify areas for improvement.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Perform Regular Business Continuity Tests",
+        "control": "Regularly test the Business Continuity Management System (BCMS) to ensure its effectiveness in maintaining business operations during disruptions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document BCMS Conformity",
+        "control": "Maintain a record of how the BCMS conforms to the established business continuity plan and document any deviations or improvements."
+      },
+      {
+        "priority": "low",
+        "control_title": "Schedule Management Review",
+        "control": "Establish a schedule for management review of the BCMS, assessing its performance and making necessary adjustments to ensure continued effectiveness."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Act on BCMS Nonconformity and Continual Improvement",
+    "article_number": null,
+    "priority": "high",
+    "article_text": "This document applies the Plan (establish), Do (implement and operate), Check (monitor and review) and Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the effectiveness of an organization’s BCMS. In accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. Clause 10 identifies and acts on BCMS nonconformity and continual improvement through corrective action.",
+    "requirement": "Identify and address BCMS nonconformities and continuously improve the system through corrective actions.",
+    "requirement_description": "The organization must identify deviations from the expected performance of its BCMS, take corrective actions to address these issues, and continually strive for improvement.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish BCMS Nonconformity Reporting Mechanism",
+        "control": "Develop a system for employees to report potential nonconformities, ensuring anonymity and confidentiality."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Corrective Action Plan",
+        "control": "Create a structured process for addressing identified nonconformities, including investigation, root cause analysis, and resolution."
+      },
+      {
+        "priority": "high",
+        "control_title": "Regular BCMS Audits",
+        "control": "Conduct periodic audits of the BCMS to ensure compliance and identify areas for improvement."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Corrective Actions Taken",
+        "control": "Maintain records of all corrective actions taken, including the nonconformity identified, root cause analysis, and resolution."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish BCMS Improvement Team",
+        "control": "Form a team responsible for reviewing the BCMS regularly and proposing improvements based on lessons learned from nonconformities and audits."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Self-Determination and Self-Declaration",
+    "article_number": null,
+    "priority": "medium",
+    "article_text": null,
+    "requirement": "An organization can make a self-determination and self-declaration of conformity.",
+    "requirement_description": "The organization has the option to assess its own conformity with the document.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Compliance Management System",
+        "control": "Develop, implement, maintain, and continually improve a compliance management system to ensure ongoing adherence to all applicable laws, regulations, and industry standards."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Define Compliance Roles and Responsibilities",
+        "control": "Assign clear roles and responsibilities for compliance within the organization, ensuring that all employees understand their obligations and are accountable for adhering to relevant regulations."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Compliance Policies and Procedures",
+        "control": "Create written policies and procedures that outline the organization's approach to compliance, including guidelines for self-determination and self-declaration of conformity."
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement Compliance Training Program",
+        "control": "Provide regular training and awareness programs to employees on relevant compliance matters, ensuring they are knowledgeable about the organization's policies and procedures."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Confirmation by Interested Parties",
+    "article_number": null,
+    "priority": "medium",
+    "article_text": null,
+    "requirement": "An organization can seek confirmation of its conformity from interested parties such as customers.",
+    "requirement_description": "The organization can seek validation of its conformity from relevant stakeholders.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Conformity Confirmation Process",
+        "control": "Develop a formal process to seek and manage conformity confirmations from interested parties such as customers"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Create Conformity Confirmation Template",
+        "control": "Design a standardized template for seeking and receiving conformity confirmations, ensuring clarity and consistency"
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Conformity Confirmation Records",
+        "control": "Keep records of all received conformity confirmations for future reference and auditing purposes"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Confirmation by External Party",
+    "article_number": null,
+    "priority": "medium",
+    "article_text": null,
+    "requirement": "An organization can seek confirmation of its self-declaration by a party external to the organization.",
+    "requirement_description": "The organization can seek validation from an external entity for its self-declared conformity.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "External Confirmation of Self-Declaration",
+        "control": "Establish a process to seek confirmation from an external party regarding the organization's self-declaration, ensuring accuracy and transparency."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Designate External Confirmation Officer",
+        "control": "Appoint a dedicated officer responsible for coordinating with external parties to confirm the organization's self-declaration."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document External Confirmation Process",
+        "control": "Create and maintain documentation detailing the process of seeking confirmation from external parties, including roles, responsibilities, and timelines."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Certification/Registration",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "An organization can seek certification/registration of its BCMS by an external organization.",
+    "requirement_description": "The organization can obtain official certification or registration for its Business Continuity Management System.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Engage External BCMS Certification/Registration Body",
+        "control": "Identify a reputable and recognized external organization for the certification/registration of the Business Continuity Management System (BCMS)."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Prepare BCMS Documentation",
+        "control": "Develop comprehensive documentation of the BCMS, including policies, procedures, and plans, to present for certification/registration."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Designate a BCMS Coordinator",
+        "control": "Assign a responsible individual or team to oversee the BCMS and coordinate with the external certification/registration body."
+      },
+      {
+        "priority": "low",
+        "control_title": "Schedule BCMS Audit",
+        "control": "Arrange for periodic audits of the BCMS by the external organization to ensure ongoing compliance and continuous improvement."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Assessing Conformity (Clauses 4-10)",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "An organization must use the requirements in clauses 4 to 10 to assess conformity with this document.",
+    "requirement_description": "The organization must use the specified requirements to evaluate its compliance with the document.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Assess Conformity with Clauses 4-10",
+        "control": "Establish a process to review and evaluate the organization's compliance with clauses 4 to 10 of this document."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Conformity Assessment Findings",
+        "control": "Create and maintain records detailing the results of the conformity assessment, including any identified non-conformities and corrective actions taken."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish a Conformity Assessment Schedule",
+        "control": "Develop a schedule for periodic review of conformity with clauses 4 to 10, ensuring that reviews are conducted at regular intervals."
+      },
+      {
+        "priority": "low",
+        "control_title": "Train Personnel on Conformity Requirements",
+        "control": "Provide training and awareness programs for personnel to ensure understanding of the requirements in clauses 4 to 10 and their role in maintaining compliance."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Scope, Normative References and Terms (Clauses 1-3)",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "An organization must understand the scope, normative references, and terms defined in clauses 1 to 3.",
+    "requirement_description": "The organization must familiarize itself with the document's scope, referenced standards, and defined terms.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Understand Scope, Normative References, and Defined Terms",
+        "control": "Conduct a thorough review of clauses 1 to 3 to understand the scope, normative references, and terms defined. Document this understanding for future reference."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Create a Glossary of Defined Terms",
+        "control": "Create a glossary or reference document that clearly defines all terms used in clauses 1 to 3. Distribute this document to relevant stakeholders."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Map Normative References",
+        "control": "Identify and map all normative references mentioned in clauses 1 to 3, ensuring understanding of their relevance and applicability."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish a Knowledge Repository",
+        "control": "Create a centralized knowledge repository or wiki where all information related to clauses 1 to 3 can be easily accessed and updated by relevant personnel."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Requirement (Clause X)",
+    "article_number": null,
+    "priority": "high",
+    "article_text": null,
+    "requirement": "A requirement specified in clause X must be met.",
+    "requirement_description": "The organization must comply with the specific requirement as stated in the document.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Ensure Compliance with Clause X",
+        "control": "Develop, implement, and maintain a robust system to ensure full compliance with the requirements specified in clause X. This includes regular audits and reviews."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Compliance Measures",
+        "control": "Maintain comprehensive documentation detailing all measures taken to ensure compliance with clause X, including policies, procedures, and evidence of implementation."
+      },
+      {
+        "priority": "low",
+        "control_title": "Training and Awareness Program",
+        "control": "Implement a training and awareness program for all relevant staff members to educate them about the requirements in clause X and their responsibilities in ensuring compliance."
+      }
+    ]
+  }
+]

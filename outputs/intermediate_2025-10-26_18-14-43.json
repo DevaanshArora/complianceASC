@@ -1,0 +1,917 @@
+[
+  {
+    "requirement_title": "Life, Property and Environmental Protection",
+    "article_number": "section_2",
+    "priority": "high",
+    "article_text": "o 1) protecting life, property and the environment; \no 2) considering the expectations of interested parties; \no 3) providing confidence in the organization’s ability to succeed; \n• d) from an internal processes perspective: \no 1) improving its capability to remain effective during disruptions; \no 2) demonstrating proactive control of risks effectively and efficiently;",
+    "requirement": "The organization must protect life, property, and the environment.",
+    "requirement_description": "The organization is obligated to ensure safety for human lives, preserve properties, and maintain environmental integrity.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Emergency Response Plan",
+        "control": "Develop a comprehensive plan to respond effectively and efficiently to emergencies, including natural disasters, fires, and health crises."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Safety Training Programs",
+        "control": "Provide regular safety training for all employees to ensure they are aware of potential hazards and know how to respond appropriately."
+      },
+      {
+        "priority": "low",
+        "control_title": "Regular Equipment Maintenance",
+        "control": "Establish a routine maintenance schedule for all equipment to minimize the risk of malfunction or failure that could potentially harm life, property, or the environment."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Environmental Impact Assessment",
+        "control": "Conduct regular environmental impact assessments to identify and mitigate any negative effects of organizational activities on the environment."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Consideration of Interested Parties' Expectations",
+    "article_number": "section_2",
+    "priority": "medium",
+    "article_text": "o 1) protecting life, property and the environment; \no 2) considering the expectations of interested parties; \no 3) providing confidence in the organization’s ability to succeed; \n• d) from an internal processes perspective: \no 1) improving its capability to remain effective during disruptions; \no 2) demonstrating proactive control of risks effectively and efficiently;",
+    "requirement": "The organization must consider the expectations of its interested parties.",
+    "requirement_description": "The organization should take into account the views and needs of stakeholders who have an interest in its operations.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Interested Parties Communication Channel",
+        "control": "Create a dedicated communication channel to regularly engage with interested parties, understand their expectations, and address any concerns or feedback"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Interested Parties Expectations",
+        "control": "Develop a documented process for identifying, categorizing, and recording the expectations of interested parties to ensure consistency in meeting their needs"
+      },
+      {
+        "priority": "low",
+        "control_title": "Train Staff on Interested Parties Expectations",
+        "control": "Provide training to staff members on understanding and addressing the expectations of interested parties, ensuring a culture of customer-centricity"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Building Confidence in Organizational Success",
+    "article_number": "section_2",
+    "priority": "medium",
+    "article_text": "o 1) protecting life, property and the environment; \no 2) considering the expectations of interested parties; \no 3) providing confidence in the organization’s ability to succeed; \n• d) from an internal processes perspective: \no 1) improving its capability to remain effective during disruptions; \no 2) demonstrating proactive control of risks effectively and efficiently;",
+    "requirement": "The organization must instill confidence in its ability to achieve success.",
+    "requirement_description": "The organization is expected to demonstrate its competence and reliability to stakeholders.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Clear Strategic Goals",
+        "control": "Develop measurable, achievable objectives that align with the organization's mission and vision"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Effective Communication Strategy",
+        "control": "Ensure consistent, transparent, and timely communication to all stakeholders about the organization's progress and achievements"
+      },
+      {
+        "priority": "low",
+        "control_title": "Regularly Review and Update Business Continuity Plan",
+        "control": "Maintain a comprehensive business continuity plan that addresses potential risks and ensures smooth operations during crises"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Improving Internal Processes Resilience",
+    "article_number": "section_2",
+    "priority": "high",
+    "article_text": "o 1) protecting life, property and the environment; \no 2) considering the expectations of interested parties; \no 3) providing confidence in the organization’s ability to succeed; \n• d) from an internal processes perspective: \no 1) improving its capability to remain effective during disruptions; \no 2) demonstrating proactive control of risks effectively and efficiently;",
+    "requirement": "The organization must enhance its ability to continue operations during disruptions.",
+    "requirement_description": "The organization should strive for business continuity and disaster recovery preparedness.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop and Maintain Business Continuity Plan (BCP)",
+        "control": "Create, maintain, and regularly test a comprehensive BCP that includes critical business functions, key personnel, facilities, technology infrastructure, and suppliers."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Remote Work Capabilities",
+        "control": "Provide secure remote access to employees for essential work tasks during disruptions. Ensure that remote work policies, procedures, and equipment are in place."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Redundant Infrastructure",
+        "control": "Maintain redundant IT infrastructure, such as servers, storage systems, and network devices, to minimize downtime during disruptions."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Disaster Recovery Drills",
+        "control": "Regularly conduct disaster recovery drills to test the effectiveness of the BCP and identify areas for improvement."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Proactive Risk Control",
+    "article_number": "section_2",
+    "priority": "high",
+    "article_text": "o 1) protecting life, property and the environment; \no 2) considering the expectations of interested parties; \no 3) providing confidence in the organization’s ability to succeed; \n• d) from an internal processes perspective: \no 1) improving its capability to remain effective during disruptions; \no 2) demonstrating proactive control of risks effectively and efficiently;",
+    "requirement": "The organization must demonstrate effective and efficient risk management.",
+    "requirement_description": "The organization is required to identify, assess, and mitigate risks in a timely and appropriate manner.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Risk Management Framework",
+        "control": "Develop, document, and implement a comprehensive risk management framework that includes identification, assessment, mitigation, monitoring, and reporting of risks."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Risk Assessment Process",
+        "control": "Regularly assess the organization's operations, systems, and assets to identify potential risks and their impact on the business."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Risk Response Strategies",
+        "control": "Create strategies for responding to identified risks, including avoidance, transfer, mitigation, or acceptance."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish Risk Reporting Mechanisms",
+        "control": "Develop and implement a process for reporting risk findings, status, and recommendations to relevant stakeholders on a regular basis."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Establish BCMS Context and Scope",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "o 3) addressing operational vulnerabilities. \n0.3   Plan-Do-Check-Act (PDCA) cycle \nThis document applies the Plan (establish), Do (implement and operate), Check (monitor and review) \nand Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the \neffectiveness of an organization’s BCMS. \nThis ensures a degree of consistency with other management systems standards, such as ISO  9001, \nISO 14001, ISO/IEC 20000-1, ISO/IEC 27001 and ISO 28000, thereby supporting consistent and \nintegrated implementation and operation with related management systems. \nIn accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. \n• — Clause 4 introduces the requirements necessary to establish the context of the BCMS \napplicable to the organization, as well as needs, requirements and scope.  \n• — Clause 5 summarizes the requirements specific to top management’s role in the BCMS, \nand how leadership articulates its expectations to the organization via a policy statement.  \n• — Clause 6 describes the requirements for establishing strategic objectives and guiding \nprinciples for the BCMS as a whole. \n• — Clause 7 supports BCMS operations related to establishing competence and \ncommunication on a recurring/as-needed basis with interested parties, while documenting, \ncontrolling, maintaining and retaining required documented information. \n• — Clause 8 defines business continuity needs, determines how to address them and \ndevelops procedures to manage the organization during a disruption. \n• — Clause 9 summarizes the requirements necessary to measure business continuity \nperformance, BCMS conformity with this document, and to conduct management review.  \n• — Clause 10 identifies and acts on BCMS nonconformity and continual improvement through \ncorrective action. \n0.5   Contents of this document \nThis document conforms to ISO’s requirements for management system standards. These \nrequirements include a high level structure, identical core text and common terms with core \ndefinitions, designed to benefit users implementing multiple ISO management system standards.  \nThis document does not include requirements specific to other management systems, though its \nelements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do",
+    "requirement": "The organization shall establish the context of the BCMS applicable to it.",
+    "requirement_description": "The organization must define the aspects and interested parties relevant to its business continuity management system.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define BCMS Scope",
+        "control": "Clearly outline the areas, locations, and activities within the organization that will be covered by the Business Continuity Management System (BCMS)"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Identify BCMS Stakeholders",
+        "control": "List all internal and external parties who may impact, or be impacted by, the organization's ability to prepare for, respond to, and recover from a business disruption"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Determine BCMS Objectives",
+        "control": "Establish specific goals and targets for the BCMS that align with the organization's overall objectives and risk appetite"
+      },
+      {
+        "priority": "low",
+        "control_title": "Document BCMS Context",
+        "control": "Prepare a written statement describing the organization, its locations, operations, external providers, customers, suppliers, and any other parties that are essential to the functioning of the BCMS"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Define Top Management's Role in BCMS",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "o 3) addressing operational vulnerabilities. \n0.3   Plan-Do-Check-Act (PDCA) cycle \nThis document applies the Plan (establish), Do (implement and operate), Check (monitor and review) \nand Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the \neffectiveness of an organization’s BCMS. \nThis ensures a degree of consistency with other management systems standards, such as ISO  9001, \nISO 14001, ISO/IEC 20000-1, ISO/IEC 27001 and ISO 28000, thereby supporting consistent and \nintegrated implementation and operation with related management systems. \nIn accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. \n• — Clause 4 introduces the requirements necessary to establish the context of the BCMS \napplicable to the organization, as well as needs, requirements and scope.  \n• — Clause 5 summarizes the requirements specific to top management’s role in the BCMS, \nand how leadership articulates its expectations to the organization via a policy statement.  \n• — Clause 6 describes the requirements for establishing strategic objectives and guiding \nprinciples for the BCMS as a whole. \n• — Clause 7 supports BCMS operations related to establishing competence and \ncommunication on a recurring/as-needed basis with interested parties, while documenting, \ncontrolling, maintaining and retaining required documented information. \n• — Clause 8 defines business continuity needs, determines how to address them and \ndevelops procedures to manage the organization during a disruption. \n• — Clause 9 summarizes the requirements necessary to measure business continuity \nperformance, BCMS conformity with this document, and to conduct management review.  \n• — Clause 10 identifies and acts on BCMS nonconformity and continual improvement through \ncorrective action. \n0.5   Contents of this document \nThis document conforms to ISO’s requirements for management system standards. These \nrequirements include a high level structure, identical core text and common terms with core \ndefinitions, designed to benefit users implementing multiple ISO management system standards.  \nThis document does not include requirements specific to other management systems, though its \nelements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do",
+    "requirement": "The organization's top management shall define its role in the Business Continuity Management System (BCMS) and communicate its expectations through a policy statement.",
+    "requirement_description": "Top management is responsible for setting the direction, tone, and resources for the BCMS.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Top Management's Role in BCMS",
+        "control": "Develop a clear and concise policy statement outlining the role of top management in the Business Continuity Management System (BCMS), including their responsibilities, expectations, and commitment."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Communicate BCMS Policy to Employees",
+        "control": "Disseminate the policy statement to all employees, ensuring they understand their role in the BCMS and the importance of adhering to it."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Review and Update BCMS Policy Periodically",
+        "control": "Regularly review and update the BCMS policy statement as necessary, taking into account changes in the organization's operations, risks, and regulatory requirements."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document BCMS Policy",
+        "control": "Maintain a documented version of the BCMS policy statement, ensuring it is easily accessible to relevant personnel and can be referred to in the event of a business disruption."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Set Strategic Objectives for BCMS",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "o 3) addressing operational vulnerabilities. \n0.3   Plan-Do-Check-Act (PDCA) cycle \nThis document applies the Plan (establish), Do (implement and operate), Check (monitor and review) \nand Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the \neffectiveness of an organization’s BCMS. \nThis ensures a degree of consistency with other management systems standards, such as ISO  9001, \nISO 14001, ISO/IEC 20000-1, ISO/IEC 27001 and ISO 28000, thereby supporting consistent and \nintegrated implementation and operation with related management systems. \nIn accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. \n• — Clause 4 introduces the requirements necessary to establish the context of the BCMS \napplicable to the organization, as well as needs, requirements and scope.  \n• — Clause 5 summarizes the requirements specific to top management’s role in the BCMS, \nand how leadership articulates its expectations to the organization via a policy statement.  \n• — Clause 6 describes the requirements for establishing strategic objectives and guiding \nprinciples for the BCMS as a whole. \n• — Clause 7 supports BCMS operations related to establishing competence and \ncommunication on a recurring/as-needed basis with interested parties, while documenting, \ncontrolling, maintaining and retaining required documented information. \n• — Clause 8 defines business continuity needs, determines how to address them and \ndevelops procedures to manage the organization during a disruption. \n• — Clause 9 summarizes the requirements necessary to measure business continuity \nperformance, BCMS conformity with this document, and to conduct management review.  \n• — Clause 10 identifies and acts on BCMS nonconformity and continual improvement through \ncorrective action. \n0.5   Contents of this document \nThis document conforms to ISO’s requirements for management system standards. These \nrequirements include a high level structure, identical core text and common terms with core \ndefinitions, designed to benefit users implementing multiple ISO management system standards.  \nThis document does not include requirements specific to other management systems, though its \nelements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do",
+    "requirement": "The organization shall set strategic objectives and guiding principles for its Business Continuity Management System (BCMS).",
+    "requirement_description": "Strategic objectives provide direction for the BCMS, while guiding principles establish the values and beliefs that will guide decision-making.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Strategic Objectives for BCMS",
+        "control": "Establish clear, measurable, and time-bound objectives that align with the organization's overall goals and risk appetite."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Guiding Principles for BCMS",
+        "control": "Create a set of principles that reflect the organization's values, culture, and commitment to business continuity."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Strategic Objectives and Guiding Principles",
+        "control": "Prepare a formal document outlining the strategic objectives and guiding principles for the BCMS, ensuring it is easily accessible to relevant stakeholders."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Establish Competence and Communication",
+    "article_number": "section_3",
+    "priority": "medium",
+    "article_text": "o 3) addressing operational vulnerabilities. \n0.3   Plan-Do-Check-Act (PDCA) cycle \nThis document applies the Plan (establish), Do (implement and operate), Check (monitor and review) \nand Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the \neffectiveness of an organization’s BCMS. \nThis ensures a degree of consistency with other management systems standards, such as ISO  9001, \nISO 14001, ISO/IEC 20000-1, ISO/IEC 27001 and ISO 28000, thereby supporting consistent and \nintegrated implementation and operation with related management systems. \nIn accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. \n• — Clause 4 introduces the requirements necessary to establish the context of the BCMS \napplicable to the organization, as well as needs, requirements and scope.  \n• — Clause 5 summarizes the requirements specific to top management’s role in the BCMS, \nand how leadership articulates its expectations to the organization via a policy statement.  \n• — Clause 6 describes the requirements for establishing strategic objectives and guiding \nprinciples for the BCMS as a whole. \n• — Clause 7 supports BCMS operations related to establishing competence and \ncommunication on a recurring/as-needed basis with interested parties, while documenting, \ncontrolling, maintaining and retaining required documented information. \n• — Clause 8 defines business continuity needs, determines how to address them and \ndevelops procedures to manage the organization during a disruption. \n• — Clause 9 summarizes the requirements necessary to measure business continuity \nperformance, BCMS conformity with this document, and to conduct management review.  \n• — Clause 10 identifies and acts on BCMS nonconformity and continual improvement through \ncorrective action. \n0.5   Contents of this document \nThis document conforms to ISO’s requirements for management system standards. These \nrequirements include a high level structure, identical core text and common terms with core \ndefinitions, designed to benefit users implementing multiple ISO management system standards.  \nThis document does not include requirements specific to other management systems, though its \nelements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do",
+    "requirement": "The organization shall establish competence and maintain effective communication with interested parties, while managing and retaining necessary documented information.",
+    "requirement_description": "Competent personnel are essential for the effective operation of the BCMS, and communication ensures that all relevant parties are informed.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Competence Management System",
+        "control": "Develop a system to ensure all employees have the necessary skills, knowledge, and experience required for their roles"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Interested Parties Communication Plan",
+        "control": "Create a plan to maintain regular, effective communication with all interested parties"
+      },
+      {
+        "priority": "high",
+        "control_title": "Document Information Management Policy",
+        "control": "Develop and enforce a policy for managing and retaining necessary documented information"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Documented Procedure for Data Access",
+        "control": "Create a procedure outlining how data is accessed, updated, and deleted to ensure data integrity and security"
+      },
+      {
+        "priority": "low",
+        "control_title": "Regularly Review and Update Competence Records",
+        "control": "Periodically review and update employee competence records to ensure they remain current"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Identify and Address Business Continuity Needs",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "o 3) addressing operational vulnerabilities. \n0.3   Plan-Do-Check-Act (PDCA) cycle \nThis document applies the Plan (establish), Do (implement and operate), Check (monitor and review) \nand Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the \neffectiveness of an organization’s BCMS. \nThis ensures a degree of consistency with other management systems standards, such as ISO  9001, \nISO 14001, ISO/IEC 20000-1, ISO/IEC 27001 and ISO 28000, thereby supporting consistent and \nintegrated implementation and operation with related management systems. \nIn accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. \n• — Clause 4 introduces the requirements necessary to establish the context of the BCMS \napplicable to the organization, as well as needs, requirements and scope.  \n• — Clause 5 summarizes the requirements specific to top management’s role in the BCMS, \nand how leadership articulates its expectations to the organization via a policy statement.  \n• — Clause 6 describes the requirements for establishing strategic objectives and guiding \nprinciples for the BCMS as a whole. \n• — Clause 7 supports BCMS operations related to establishing competence and \ncommunication on a recurring/as-needed basis with interested parties, while documenting, \ncontrolling, maintaining and retaining required documented information. \n• — Clause 8 defines business continuity needs, determines how to address them and \ndevelops procedures to manage the organization during a disruption. \n• — Clause 9 summarizes the requirements necessary to measure business continuity \nperformance, BCMS conformity with this document, and to conduct management review.  \n• — Clause 10 identifies and acts on BCMS nonconformity and continual improvement through \ncorrective action. \n0.5   Contents of this document \nThis document conforms to ISO’s requirements for management system standards. These \nrequirements include a high level structure, identical core text and common terms with core \ndefinitions, designed to benefit users implementing multiple ISO management system standards.  \nThis document does not include requirements specific to other management systems, though its \nelements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do",
+    "requirement": "The organization shall identify its business continuity needs, determine appropriate actions to address these needs, and establish procedures for managing the organization during a disruption.",
+    "requirement_description": "Business continuity planning helps an organization prepare for and respond effectively to disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Business Impact Analysis",
+        "control": "Conduct a thorough analysis to identify critical business functions, assets, and dependencies. This will help prioritize resources during a disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Business Continuity Plan",
+        "control": "Create a comprehensive plan that outlines the steps to be taken in case of a disruption. This includes recovery strategies, communication plans, and resource allocation."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Regular Testing and Exercises",
+        "control": "Regularly test and exercise the business continuity plan to ensure its effectiveness. This will help identify any gaps or weaknesses that need to be addressed."
+      },
+      {
+        "priority": "low",
+        "control_title": "Documentation and Training",
+        "control": "Maintain up-to-date documentation of the business continuity plan and ensure all relevant staff are trained on its contents. This will help ensure a smooth response during a disruption."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Measure BCMS Performance",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "o 3) addressing operational vulnerabilities. \n0.3   Plan-Do-Check-Act (PDCA) cycle \nThis document applies the Plan (establish), Do (implement and operate), Check (monitor and review) \nand Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the \neffectiveness of an organization’s BCMS. \nThis ensures a degree of consistency with other management systems standards, such as ISO  9001, \nISO 14001, ISO/IEC 20000-1, ISO/IEC 27001 and ISO 28000, thereby supporting consistent and \nintegrated implementation and operation with related management systems. \nIn accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. \n• — Clause 4 introduces the requirements necessary to establish the context of the BCMS \napplicable to the organization, as well as needs, requirements and scope.  \n• — Clause 5 summarizes the requirements specific to top management’s role in the BCMS, \nand how leadership articulates its expectations to the organization via a policy statement.  \n• — Clause 6 describes the requirements for establishing strategic objectives and guiding \nprinciples for the BCMS as a whole. \n• — Clause 7 supports BCMS operations related to establishing competence and \ncommunication on a recurring/as-needed basis with interested parties, while documenting, \ncontrolling, maintaining and retaining required documented information. \n• — Clause 8 defines business continuity needs, determines how to address them and \ndevelops procedures to manage the organization during a disruption. \n• — Clause 9 summarizes the requirements necessary to measure business continuity \nperformance, BCMS conformity with this document, and to conduct management review.  \n• — Clause 10 identifies and acts on BCMS nonconformity and continual improvement through \ncorrective action. \n0.5   Contents of this document \nThis document conforms to ISO’s requirements for management system standards. These \nrequirements include a high level structure, identical core text and common terms with core \ndefinitions, designed to benefit users implementing multiple ISO management system standards.  \nThis document does not include requirements specific to other management systems, though its \nelements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do",
+    "requirement": "The organization shall measure its Business Continuity Management System (BCMS) performance, assess conformity with this document, and conduct regular management reviews.",
+    "requirement_description": "Performance measurement helps the organization identify areas for improvement and ensure ongoing compliance with the BCMS.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Perform Regular BCMS Performance Measurement",
+        "control": "Establish key performance indicators (KPIs) to measure the effectiveness and efficiency of the BCMS, and regularly review these KPIs."
+      },
+      {
+        "priority": "high",
+        "control_title": "Conduct Regular Management Reviews",
+        "control": "Schedule periodic reviews of the BCMS to assess its conformity with this document and identify areas for improvement."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish a BCMS Conformity Assessment Process",
+        "control": "Develop a process to verify that the BCMS is being implemented as intended, and that all relevant procedures are being followed."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document BCMS Performance and Conformity Findings",
+        "control": "Maintain records of BCMS performance and conformity assessments, including any identified issues and corrective actions taken."
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement a Continuous Improvement Approach",
+        "control": "Encourage a culture of continuous improvement within the organization, where lessons learned from BCMS performance and conformity assessments are used to enhance the BCMS over time."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Identify and Act on BCMS Nonconformities",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "o 3) addressing operational vulnerabilities. \n0.3   Plan-Do-Check-Act (PDCA) cycle \nThis document applies the Plan (establish), Do (implement and operate), Check (monitor and review) \nand Act (maintain and improve) (PDCA) cycle to implement, maintain and continually improve the \neffectiveness of an organization’s BCMS. \nThis ensures a degree of consistency with other management systems standards, such as ISO  9001, \nISO 14001, ISO/IEC 20000-1, ISO/IEC 27001 and ISO 28000, thereby supporting consistent and \nintegrated implementation and operation with related management systems. \nIn accordance with the PDCA cycle, Clauses 4 to 10 cover the following components. \n• — Clause 4 introduces the requirements necessary to establish the context of the BCMS \napplicable to the organization, as well as needs, requirements and scope.  \n• — Clause 5 summarizes the requirements specific to top management’s role in the BCMS, \nand how leadership articulates its expectations to the organization via a policy statement.  \n• — Clause 6 describes the requirements for establishing strategic objectives and guiding \nprinciples for the BCMS as a whole. \n• — Clause 7 supports BCMS operations related to establishing competence and \ncommunication on a recurring/as-needed basis with interested parties, while documenting, \ncontrolling, maintaining and retaining required documented information. \n• — Clause 8 defines business continuity needs, determines how to address them and \ndevelops procedures to manage the organization during a disruption. \n• — Clause 9 summarizes the requirements necessary to measure business continuity \nperformance, BCMS conformity with this document, and to conduct management review.  \n• — Clause 10 identifies and acts on BCMS nonconformity and continual improvement through \ncorrective action. \n0.5   Contents of this document \nThis document conforms to ISO’s requirements for management system standards. These \nrequirements include a high level structure, identical core text and common terms with core \ndefinitions, designed to benefit users implementing multiple ISO management system standards.  \nThis document does not include requirements specific to other management systems, though its \nelements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do",
+    "requirement": "The organization shall identify nonconformities within its Business Continuity Management System (BCMS) and take corrective action to improve the system.",
+    "requirement_description": "Continuous improvement is essential for the ongoing effectiveness of the BCMS.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Regular BCMS Audit",
+        "control": "Conduct regular audits of the Business Continuity Management System to identify any nonconformities and ensure compliance with established policies and procedures."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Corrective Action Plan",
+        "control": "Develop a corrective action plan for addressing identified nonconformities within the BCMS, including timelines, responsibilities, and resources required."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Nonconformity Identification Process",
+        "control": "Document the process used to identify nonconformities within the BCMS, ensuring clarity and consistency in the identification of issues."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Implementation of a Business Continuity Management System (BCMS)",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "elements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do \nso by: \n• — making a self-determination and self-declaration; or \n• — seeking confirmation of its conformity by parties having an interest in the organization, \nsuch as customers; or \n• — seeking confirmation of its self-declaration by a party external to the organization; or \n• — seeking certification/registration of its BCMS by an external organization.  \nClauses 1 to 3 in this document set out the scope, normative references and terms and definitions \nthat apply to the use of this document. Clauses 4 to 10 contain the requirements to be used to assess \nconformity to this document. \nIn this document, the following verbal forms are used: \n• a) “shall” indicates a requirement; \n• b) “should” indicates a recommendation; \n• c) “may” indicates a permission; \n• d) “can” indicates a possibility or a capability.",
+    "requirement": "An organization shall implement a Business Continuity Management System (BCMS)",
+    "requirement_description": "Organizations must establish a BCMS to manage potential disruptions and ensure business continuity.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish BCMS Policy",
+        "control": "Develop, document, and communicate a comprehensive BCMS policy that outlines the organization's approach to business continuity and disaster recovery."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Identify Critical Functions",
+        "control": "Identify essential business functions and processes, as well as any dependencies, that must be maintained during a disruption to ensure the organization can continue operations."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop BCMS Plans",
+        "control": "Create detailed plans for each critical function, outlining steps to maintain operations during a disruption, including alternative methods, resources, and personnel."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Testing",
+        "control": "Regularly test BCMS plans through exercises, drills, or simulations to ensure their effectiveness and identify areas for improvement."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Documentation",
+        "control": "Maintain up-to-date documentation of the BCMS policy, plans, procedures, and any changes made over time."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Assessment of Conformity",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "elements can be aligned or integrated with those of other management systems.  \nThis document contains requirements that can be used by an organization to implement a BCMS and \nto assess conformity. An organization that wishes to demonstrate conformity to this document can do \nso by: \n• — making a self-determination and self-declaration; or \n• — seeking confirmation of its conformity by parties having an interest in the organization, \nsuch as customers; or \n• — seeking confirmation of its self-declaration by a party external to the organization; or \n• — seeking certification/registration of its BCMS by an external organization.  \nClauses 1 to 3 in this document set out the scope, normative references and terms and definitions \nthat apply to the use of this document. Clauses 4 to 10 contain the requirements to be used to assess \nconformity to this document. \nIn this document, the following verbal forms are used: \n• a) “shall” indicates a requirement; \n• b) “should” indicates a recommendation; \n• c) “may” indicates a permission; \n• d) “can” indicates a possibility or a capability.",
+    "requirement": "An organization shall assess its conformity to this document",
+    "requirement_description": "Organizations must evaluate their adherence to the requirements outlined in the document.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Conduct Regular Compliance Assessment",
+        "control": "Establish a regular schedule for conducting comprehensive compliance assessments against the requirements of this document. The assessment should cover all relevant processes, systems, and personnel."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Compliance Checklist",
+        "control": "Create a checklist that outlines the specific requirements of this document and map them to relevant processes, systems, and personnel. Use this checklist during the compliance assessment."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Compliance Findings",
+        "control": "Document the findings from each compliance assessment, including any areas of non-conformity, corrective actions taken, and evidence of implementation. Maintain these records for future reference."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Implement, Maintain and Improve a BCMS",
+    "article_number": "section_5",
+    "priority": "high",
+    "article_text": "Information marked as “NOTE” is for guidance in understanding or clarifying the associated \nrequirement. “Notes to entry” used in Clause 3 provide additional information that supplements the \nterminological data and can contain provisions relating to the use of a term. \n1   Scope \nThis document specifies requirements to implement, maintain and improve a management system to \nprotect against, reduce the likelihood of the occurrence of, prepare for, respond to and recover from \ndisruptions when they arise. \nThe requirements specified in this document are generic and intended to be applicable to all \norganizations, or parts thereof, regardless of type, size and nature of the organization. The extent of \napplication of these requirements depends on the organization’s operating environment and \ncomplexity. \nThis document is applicable to all types and sizes of organizations that: \n• a) implement, maintain and improve a BCMS; \n• b) seek to ensure conformity with stated business continuity policy; \n• c) need to be able to continue to deliver products and services at an acceptable predefined \ncapacity during a disruption; \n• d) seek to enhance their resilience through the effective application of the BCMS.  \nThis document can be used to assess an organization’s ability to meet its own business continuity \nneeds and obligations. \n2   Normative references \nThe following documents are referred to in the text in such a way that some or all of their content \nconstitutes requirements of this document. For dated references, only the edition cited applies. For \nundated references, the latest edition of the referenced document (including any amendments) \napplies. \n• ISO 22300, Security and resilience — Vocabulary \n3   Terms and definitions \nFor the purposes of this document, the terms and definitions given in ISO 22300 and the following \napply. \nNOTE The terms and definitions given below supersede those given in ISO 22300:2018. \n3.1 \nactivity \nset of one or more tasks with a defined output \n[SOURCE:ISO 22300:2018, 3.1, modified — The definition has been replaced and the example has \nbeen deleted.] \n3.2 \naudit \nsystematic, independent and documented process (3.26) for obtaining audit evidence and evaluating \nit objectively to determine the extent to which the audit criteria are fulfilled  \nNote 1 to entry: An audit can be an internal audit (first party) or an external audit (second party or third \nparty), and it can be a combined audit (combining two or more disciplines).",
+    "requirement": "Implement, maintain and improve a BCMS",
+    "requirement_description": "Organizations must establish, maintain, and continuously improve their Business Continuity Management System (BCMS) to ensure preparedness for potential disruptions.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish BCMS Policy",
+        "control": "Develop and document a comprehensive BCMS policy that outlines the organization's approach to business continuity."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Identify Critical Functions",
+        "control": "Identify essential business functions, processes, and systems required for the organization to continue operations during a disruption."
+      },
+      {
+        "priority": "high",
+        "control_title": "Develop BCMS Plans",
+        "control": "Create detailed plans for each identified critical function, outlining steps to maintain or quickly resume operations in the event of a disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Assign BCMS Responsibilities",
+        "control": "Designate specific individuals or teams responsible for managing the BCMS, including incident response and recovery activities."
+      },
+      {
+        "priority": "high",
+        "control_title": "Conduct BCMS Training",
+        "control": "Provide regular training to employees on their roles and responsibilities in the BCMS, as well as any necessary procedures for responding to disruptions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Test BCMS Effectiveness",
+        "control": "Regularly test the BCMS plans through exercises and drills to ensure their effectiveness in real-world scenarios."
+      },
+      {
+        "priority": "high",
+        "control_title": "Maintain BCMS Documentation",
+        "control": "Keep BCMS documentation current, including policies, plans, procedures, and contact lists, to reflect changes within the organization or its environment."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Ensure Conformity with Stated Business Continuity Policy",
+    "article_number": "section_5",
+    "priority": "medium",
+    "article_text": "Information marked as “NOTE” is for guidance in understanding or clarifying the associated \nrequirement. “Notes to entry” used in Clause 3 provide additional information that supplements the \nterminological data and can contain provisions relating to the use of a term. \n1   Scope \nThis document specifies requirements to implement, maintain and improve a management system to \nprotect against, reduce the likelihood of the occurrence of, prepare for, respond to and recover from \ndisruptions when they arise. \nThe requirements specified in this document are generic and intended to be applicable to all \norganizations, or parts thereof, regardless of type, size and nature of the organization. The extent of \napplication of these requirements depends on the organization’s operating environment and \ncomplexity. \nThis document is applicable to all types and sizes of organizations that: \n• a) implement, maintain and improve a BCMS; \n• b) seek to ensure conformity with stated business continuity policy; \n• c) need to be able to continue to deliver products and services at an acceptable predefined \ncapacity during a disruption; \n• d) seek to enhance their resilience through the effective application of the BCMS.  \nThis document can be used to assess an organization’s ability to meet its own business continuity \nneeds and obligations. \n2   Normative references \nThe following documents are referred to in the text in such a way that some or all of their content \nconstitutes requirements of this document. For dated references, only the edition cited applies. For \nundated references, the latest edition of the referenced document (including any amendments) \napplies. \n• ISO 22300, Security and resilience — Vocabulary \n3   Terms and definitions \nFor the purposes of this document, the terms and definitions given in ISO 22300 and the following \napply. \nNOTE The terms and definitions given below supersede those given in ISO 22300:2018. \n3.1 \nactivity \nset of one or more tasks with a defined output \n[SOURCE:ISO 22300:2018, 3.1, modified — The definition has been replaced and the example has \nbeen deleted.] \n3.2 \naudit \nsystematic, independent and documented process (3.26) for obtaining audit evidence and evaluating \nit objectively to determine the extent to which the audit criteria are fulfilled  \nNote 1 to entry: An audit can be an internal audit (first party) or an external audit (second party or third \nparty), and it can be a combined audit (combining two or more disciplines).",
+    "requirement": "Ensure conformity with stated business continuity policy",
+    "requirement_description": "Organizations must adhere to their established business continuity policies.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop and Maintain Business Continuity Plan",
+        "control": "Create, document, and regularly update a comprehensive business continuity plan that outlines procedures for responding to various types of disruptions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Regularly Test Business Continuity Plan",
+        "control": "Conduct periodic testing of the business continuity plan to ensure its effectiveness and identify any areas for improvement."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish a Communication Protocol",
+        "control": "Develop and implement a communication protocol that outlines how information will be shared during a disruption, including with employees, customers, and stakeholders."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Maintain Off-site Backups",
+        "control": "Regularly backup critical data and store off-site to ensure its availability during a disruption."
+      },
+      {
+        "priority": "high",
+        "control_title": "Identify Critical Functions and Systems",
+        "control": "Identify the critical functions and systems that are essential for business operations, and prioritize their protection and recovery in the event of a disruption."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Maintain Ability to Deliver Products and Services During a Disruption",
+    "article_number": "section_5",
+    "priority": "high",
+    "article_text": "Information marked as “NOTE” is for guidance in understanding or clarifying the associated \nrequirement. “Notes to entry” used in Clause 3 provide additional information that supplements the \nterminological data and can contain provisions relating to the use of a term. \n1   Scope \nThis document specifies requirements to implement, maintain and improve a management system to \nprotect against, reduce the likelihood of the occurrence of, prepare for, respond to and recover from \ndisruptions when they arise. \nThe requirements specified in this document are generic and intended to be applicable to all \norganizations, or parts thereof, regardless of type, size and nature of the organization. The extent of \napplication of these requirements depends on the organization’s operating environment and \ncomplexity. \nThis document is applicable to all types and sizes of organizations that: \n• a) implement, maintain and improve a BCMS; \n• b) seek to ensure conformity with stated business continuity policy; \n• c) need to be able to continue to deliver products and services at an acceptable predefined \ncapacity during a disruption; \n• d) seek to enhance their resilience through the effective application of the BCMS.  \nThis document can be used to assess an organization’s ability to meet its own business continuity \nneeds and obligations. \n2   Normative references \nThe following documents are referred to in the text in such a way that some or all of their content \nconstitutes requirements of this document. For dated references, only the edition cited applies. For \nundated references, the latest edition of the referenced document (including any amendments) \napplies. \n• ISO 22300, Security and resilience — Vocabulary \n3   Terms and definitions \nFor the purposes of this document, the terms and definitions given in ISO 22300 and the following \napply. \nNOTE The terms and definitions given below supersede those given in ISO 22300:2018. \n3.1 \nactivity \nset of one or more tasks with a defined output \n[SOURCE:ISO 22300:2018, 3.1, modified — The definition has been replaced and the example has \nbeen deleted.] \n3.2 \naudit \nsystematic, independent and documented process (3.26) for obtaining audit evidence and evaluating \nit objectively to determine the extent to which the audit criteria are fulfilled  \nNote 1 to entry: An audit can be an internal audit (first party) or an external audit (second party or third \nparty), and it can be a combined audit (combining two or more disciplines).",
+    "requirement": "Maintain ability to deliver products and services during a disruption",
+    "requirement_description": "Organizations must ensure they can continue delivering their products and services at an acceptable level during a disruption.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Business Continuity Plan (BCP)",
+        "control": "Develop, document, and regularly test a comprehensive BCP that includes procedures for maintaining essential functions during disruptions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Remote Access Capabilities",
+        "control": "Provide secure remote access to critical systems and applications for employees, ensuring business continuity even when physical access is limited or impossible."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Maintain Off-site Backups",
+        "control": "Regularly backup essential data and store backups off-site to ensure quick recovery in the event of a disruption at the primary location."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Disaster Recovery Drills",
+        "control": "Periodically test the BCP and disaster recovery procedures to identify any gaps or weaknesses and ensure that employees are familiar with their roles and responsibilities during a disruption."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish Redundant Infrastructure",
+        "control": "Implement redundant infrastructure for critical systems, such as servers, networking equipment, and power supplies, to minimize the impact of hardware failures or other disruptions."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Enhance Resilience through Effective Application of BCMS",
+    "article_number": "section_5",
+    "priority": "high",
+    "article_text": "Information marked as “NOTE” is for guidance in understanding or clarifying the associated \nrequirement. “Notes to entry” used in Clause 3 provide additional information that supplements the \nterminological data and can contain provisions relating to the use of a term. \n1   Scope \nThis document specifies requirements to implement, maintain and improve a management system to \nprotect against, reduce the likelihood of the occurrence of, prepare for, respond to and recover from \ndisruptions when they arise. \nThe requirements specified in this document are generic and intended to be applicable to all \norganizations, or parts thereof, regardless of type, size and nature of the organization. The extent of \napplication of these requirements depends on the organization’s operating environment and \ncomplexity. \nThis document is applicable to all types and sizes of organizations that: \n• a) implement, maintain and improve a BCMS; \n• b) seek to ensure conformity with stated business continuity policy; \n• c) need to be able to continue to deliver products and services at an acceptable predefined \ncapacity during a disruption; \n• d) seek to enhance their resilience through the effective application of the BCMS.  \nThis document can be used to assess an organization’s ability to meet its own business continuity \nneeds and obligations. \n2   Normative references \nThe following documents are referred to in the text in such a way that some or all of their content \nconstitutes requirements of this document. For dated references, only the edition cited applies. For \nundated references, the latest edition of the referenced document (including any amendments) \napplies. \n• ISO 22300, Security and resilience — Vocabulary \n3   Terms and definitions \nFor the purposes of this document, the terms and definitions given in ISO 22300 and the following \napply. \nNOTE The terms and definitions given below supersede those given in ISO 22300:2018. \n3.1 \nactivity \nset of one or more tasks with a defined output \n[SOURCE:ISO 22300:2018, 3.1, modified — The definition has been replaced and the example has \nbeen deleted.] \n3.2 \naudit \nsystematic, independent and documented process (3.26) for obtaining audit evidence and evaluating \nit objectively to determine the extent to which the audit criteria are fulfilled  \nNote 1 to entry: An audit can be an internal audit (first party) or an external audit (second party or third \nparty), and it can be a combined audit (combining two or more disciplines).",
+    "requirement": "Enhance resilience through effective application of BCMS",
+    "requirement_description": "Organizations should aim to improve their resilience by effectively implementing and utilizing their Business Continuity Management System (BCMS).",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop and Maintain BCMS Document",
+        "control": "Create, maintain, and regularly update a comprehensive BCMS document that outlines the organization's approach to business continuity."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Identify Critical Functions and Processes",
+        "control": "Identify essential business functions, processes, and systems required for the organization to continue operations during a disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish BCMS Team and Roles",
+        "control": "Designate key personnel responsible for managing the BCMS, including incident management, communication, and recovery efforts."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular BCMS Training",
+        "control": "Provide training to employees on their roles and responsibilities in the event of a disruption, as well as any necessary procedures for business continuity."
+      },
+      {
+        "priority": "low",
+        "control_title": "Perform BCMS Exercises and Drills",
+        "control": "Regularly test the BCMS through exercises and drills to ensure its effectiveness and identify areas for improvement."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Conduct Audit",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "it objectively to determine the extent to which the audit criteria are fulfilled  \nNote 1 to entry: An audit can be an internal audit (first party) or an external audit (second party or third \nparty), and it can be a combined audit (combining two or more disciplines). \nNote 2 to entry: An internal audit is conducted by the organization (3.21) itself, or by an external \nparty on its behalf. \nNote 3 to entry: “Audit evidence” and “audit criteria” are defined in ISO 19011.",
+    "requirement": "An organization must conduct an audit",
+    "requirement_description": "The audit can be internal, external, or combined. The purpose is to objectively determine the fulfillment of the audit criteria.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Conduct Annual Audit",
+        "control": "Perform a comprehensive review of the organization's operations, systems, and processes to ensure compliance with all applicable laws, regulations, and policies."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Audit Committee",
+        "control": "Create an internal committee responsible for overseeing the audit process, providing guidance, and ensuring the independence of the auditor."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Audit Findings",
+        "control": "Prepare a report detailing the results of the audit, including any identified issues, recommendations for improvement, and progress made on previous findings."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Internal Audit Conduction",
+    "article_number": "section_6",
+    "priority": "medium",
+    "article_text": "it objectively to determine the extent to which the audit criteria are fulfilled  \nNote 1 to entry: An audit can be an internal audit (first party) or an external audit (second party or third \nparty), and it can be a combined audit (combining two or more disciplines). \nNote 2 to entry: An internal audit is conducted by the organization (3.21) itself, or by an external \nparty on its behalf. \nNote 3 to entry: “Audit evidence” and “audit criteria” are defined in ISO 19011.",
+    "requirement": "An organization must conduct an internal audit if needed, either by themselves or through a designated third party.",
+    "requirement_description": "Internal audits are part of the overall audit process and can be performed by the organization or outsourced.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Conduct Regular Internal Audits",
+        "control": "Perform periodic internal audits to ensure compliance with all relevant regulations and organizational policies. If resources are limited, consider engaging a third-party auditor."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Audit Committee",
+        "control": "Create an internal audit committee responsible for overseeing the audit process and ensuring its effectiveness."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Audit Findings and Recommendations",
+        "control": "Prepare a report detailing the findings, issues, and recommendations from each internal audit. This will serve as a reference for future audits and continuous improvement."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Understand Audit Terms",
+    "article_number": "section_6",
+    "priority": "low",
+    "article_text": "it objectively to determine the extent to which the audit criteria are fulfilled  \nNote 1 to entry: An audit can be an internal audit (first party) or an external audit (second party or third \nparty), and it can be a combined audit (combining two or more disciplines). \nNote 2 to entry: An internal audit is conducted by the organization (3.21) itself, or by an external \nparty on its behalf. \nNote 3 to entry: “Audit evidence” and “audit criteria” are defined in ISO 19011.",
+    "requirement": "The organization must understand the terms 'audit evidence' and 'audit criteria' as defined in ISO 19011.",
+    "requirement_description": "Understanding these terms is essential for a successful audit process.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Conduct Training on Audit Criteria and Evidence",
+        "control": "Organize training sessions for all employees to ensure they understand the concepts of audit criteria and evidence as defined in ISO 19011. This can be done through workshops, online courses, or seminars."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Audit Criteria and Evidence Collection Procedures",
+        "control": "Develop clear procedures for defining audit criteria and collecting audit evidence. This should include the types of evidence required, how to collect it, and who is responsible for its collection."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Audit Evidence Documentation",
+        "control": "Create a system for documenting all audit evidence collected. This documentation should be easily accessible, searchable, and secure to ensure its integrity."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Conformity Determination",
+    "article_number": "section_7",
+    "priority": "high",
+    "article_text": "Note 4 to entry: The fundamental elements of an audit include the determination of \nthe conformity (3.7) of an object according to a procedure carried out by personnel not being \nresponsible for the object audited. \nNote 5 to entry: An internal audit can be for management review and other internal purposes and can \nform the basis for an organization’s declaration of conformity. Independence can be demonstrated by \nthe freedom from responsibility for the activity (3.1) being audited. External audits include second- \nand third-party audits. Second-party audits are conducted by parties having an interest in the \norganization, such as customers, or by other persons on their behalf. Third-party audits are conducted \nby external, independent auditing organizations, such as those providing certification/registration of \nconformity or government agencies. \nNote 6 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. The original definition has been modified by adding \nNotes 4 and 5 to entry. \n3.3 \nbusiness continuity \ncapability of an organization (3.21) to continue the delivery of products and services (3.27) within \nacceptable time frames at predefined capacity during a disruption (3.10) \n[SOURCE:ISO 22300:2018, 3.24, modified — The definition has been replaced.] \n3.4 \nbusiness continuity plan \ndocumented information (3.11) that guides an organization (3.21) to respond to \na disruption (3.10) and resume, recover and restore the delivery of products and \nservices (3.27) consistent with its business continuity (3.3)objectives (3.20) \n[SOURCE:ISO 22300:2018, 3.27, modified — The definition has been replaced and Note 1 to entry \nhas been deleted.] \n3.5 \nbusiness impact analysis \nprocess (3.26) of analysing the impact (3.13) over time of a disruption (3.10) on \nthe organization (3.21) \nNote 1 to entry: The outcome is a statement and justification of business \ncontinuity (3.3)requirements (3.28). \n[SOURCE:ISO 22300:2018, 3.29, modified — The definition has been replaced and Note 1 to entry \nhas been added.] \n3.6 \ncompetence \nability to apply knowledge and skills to achieve intended results \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level",
+    "requirement": "Determine the conformity of an object according to a procedure carried out by personnel not responsible for the object audited",
+    "requirement_description": "Ensure that audits are conducted by unbiased parties to verify compliance with established procedures or requirements",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "External Audit by Independent Personnel",
+        "control": "Assign an independent auditor from a different department or external entity to review the object's conformity"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Procedure for Object Conformity Check",
+        "control": "Create and maintain a documented procedure for the conformity check process, including roles and responsibilities"
+      },
+      {
+        "priority": "low",
+        "control_title": "Training for Auditing Personnel",
+        "control": "Provide training to personnel responsible for auditing objects on the conformity procedures and expectations"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Internal Audit Independence",
+    "article_number": "section_7",
+    "priority": "medium",
+    "article_text": "Note 4 to entry: The fundamental elements of an audit include the determination of \nthe conformity (3.7) of an object according to a procedure carried out by personnel not being \nresponsible for the object audited. \nNote 5 to entry: An internal audit can be for management review and other internal purposes and can \nform the basis for an organization’s declaration of conformity. Independence can be demonstrated by \nthe freedom from responsibility for the activity (3.1) being audited. External audits include second- \nand third-party audits. Second-party audits are conducted by parties having an interest in the \norganization, such as customers, or by other persons on their behalf. Third-party audits are conducted \nby external, independent auditing organizations, such as those providing certification/registration of \nconformity or government agencies. \nNote 6 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. The original definition has been modified by adding \nNotes 4 and 5 to entry. \n3.3 \nbusiness continuity \ncapability of an organization (3.21) to continue the delivery of products and services (3.27) within \nacceptable time frames at predefined capacity during a disruption (3.10) \n[SOURCE:ISO 22300:2018, 3.24, modified — The definition has been replaced.] \n3.4 \nbusiness continuity plan \ndocumented information (3.11) that guides an organization (3.21) to respond to \na disruption (3.10) and resume, recover and restore the delivery of products and \nservices (3.27) consistent with its business continuity (3.3)objectives (3.20) \n[SOURCE:ISO 22300:2018, 3.27, modified — The definition has been replaced and Note 1 to entry \nhas been deleted.] \n3.5 \nbusiness impact analysis \nprocess (3.26) of analysing the impact (3.13) over time of a disruption (3.10) on \nthe organization (3.21) \nNote 1 to entry: The outcome is a statement and justification of business \ncontinuity (3.3)requirements (3.28). \n[SOURCE:ISO 22300:2018, 3.29, modified — The definition has been replaced and Note 1 to entry \nhas been added.] \n3.6 \ncompetence \nability to apply knowledge and skills to achieve intended results \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level",
+    "requirement": "Ensure independence of internal auditors by avoiding their direct involvement in the activity being audited",
+    "requirement_description": "Maintain the objectivity and impartiality of internal audits by separating audit personnel from those responsible for the activities under review",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Audit Committee",
+        "control": "Create an independent audit committee to oversee the internal auditors, ensuring they are not involved in the activities being audited"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Rotate Internal Auditors Regularly",
+        "control": "Ensure that internal auditors are rotated to different departments and roles periodically, reducing the likelihood of conflicts of interest"
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement Confidentiality Agreements",
+        "control": "Have all internal auditors sign confidentiality agreements that prohibit them from disclosing sensitive information related to the activities they are auditing"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Business Continuity Capability",
+    "article_number": "section_7",
+    "priority": "high",
+    "article_text": "Note 4 to entry: The fundamental elements of an audit include the determination of \nthe conformity (3.7) of an object according to a procedure carried out by personnel not being \nresponsible for the object audited. \nNote 5 to entry: An internal audit can be for management review and other internal purposes and can \nform the basis for an organization’s declaration of conformity. Independence can be demonstrated by \nthe freedom from responsibility for the activity (3.1) being audited. External audits include second- \nand third-party audits. Second-party audits are conducted by parties having an interest in the \norganization, such as customers, or by other persons on their behalf. Third-party audits are conducted \nby external, independent auditing organizations, such as those providing certification/registration of \nconformity or government agencies. \nNote 6 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. The original definition has been modified by adding \nNotes 4 and 5 to entry. \n3.3 \nbusiness continuity \ncapability of an organization (3.21) to continue the delivery of products and services (3.27) within \nacceptable time frames at predefined capacity during a disruption (3.10) \n[SOURCE:ISO 22300:2018, 3.24, modified — The definition has been replaced.] \n3.4 \nbusiness continuity plan \ndocumented information (3.11) that guides an organization (3.21) to respond to \na disruption (3.10) and resume, recover and restore the delivery of products and \nservices (3.27) consistent with its business continuity (3.3)objectives (3.20) \n[SOURCE:ISO 22300:2018, 3.27, modified — The definition has been replaced and Note 1 to entry \nhas been deleted.] \n3.5 \nbusiness impact analysis \nprocess (3.26) of analysing the impact (3.13) over time of a disruption (3.10) on \nthe organization (3.21) \nNote 1 to entry: The outcome is a statement and justification of business \ncontinuity (3.3)requirements (3.28). \n[SOURCE:ISO 22300:2018, 3.29, modified — The definition has been replaced and Note 1 to entry \nhas been added.] \n3.6 \ncompetence \nability to apply knowledge and skills to achieve intended results \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level",
+    "requirement": "Maintain the ability to continue delivering products and services during disruptions within acceptable timeframes and capacities",
+    "requirement_description": "Ensure business continuity by having plans, resources, and processes in place to maintain operations during unexpected events or disruptions",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Disaster Recovery Plan",
+        "control": "Develop a comprehensive disaster recovery plan that outlines steps to recover critical IT infrastructure, systems, and data in the event of a disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Business Continuity Team",
+        "control": "Create a dedicated team responsible for managing business continuity planning, testing, and execution during disruptions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Maintain Off-site Backups",
+        "control": "Regularly backup critical data to an off-site location or cloud service to ensure accessibility in the event of a disruption at the primary site."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Disaster Recovery Drills",
+        "control": "Regularly test and exercise the disaster recovery plan to identify any gaps or weaknesses, and ensure that the team is prepared to execute the plan effectively during a real disruption."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Redundant Systems and Infrastructure",
+        "control": "Implement redundant systems and infrastructure where possible, to minimize the impact of any single point of failure during a disruption."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Business Continuity Plan",
+    "article_number": "section_7",
+    "priority": "high",
+    "article_text": "Note 4 to entry: The fundamental elements of an audit include the determination of \nthe conformity (3.7) of an object according to a procedure carried out by personnel not being \nresponsible for the object audited. \nNote 5 to entry: An internal audit can be for management review and other internal purposes and can \nform the basis for an organization’s declaration of conformity. Independence can be demonstrated by \nthe freedom from responsibility for the activity (3.1) being audited. External audits include second- \nand third-party audits. Second-party audits are conducted by parties having an interest in the \norganization, such as customers, or by other persons on their behalf. Third-party audits are conducted \nby external, independent auditing organizations, such as those providing certification/registration of \nconformity or government agencies. \nNote 6 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. The original definition has been modified by adding \nNotes 4 and 5 to entry. \n3.3 \nbusiness continuity \ncapability of an organization (3.21) to continue the delivery of products and services (3.27) within \nacceptable time frames at predefined capacity during a disruption (3.10) \n[SOURCE:ISO 22300:2018, 3.24, modified — The definition has been replaced.] \n3.4 \nbusiness continuity plan \ndocumented information (3.11) that guides an organization (3.21) to respond to \na disruption (3.10) and resume, recover and restore the delivery of products and \nservices (3.27) consistent with its business continuity (3.3)objectives (3.20) \n[SOURCE:ISO 22300:2018, 3.27, modified — The definition has been replaced and Note 1 to entry \nhas been deleted.] \n3.5 \nbusiness impact analysis \nprocess (3.26) of analysing the impact (3.13) over time of a disruption (3.10) on \nthe organization (3.21) \nNote 1 to entry: The outcome is a statement and justification of business \ncontinuity (3.3)requirements (3.28). \n[SOURCE:ISO 22300:2018, 3.29, modified — The definition has been replaced and Note 1 to entry \nhas been added.] \n3.6 \ncompetence \nability to apply knowledge and skills to achieve intended results \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level",
+    "requirement": "Develop and maintain a business continuity plan that outlines steps to respond to disruptions, resume operations, and recover/restore service delivery",
+    "requirement_description": "Create a comprehensive plan detailing actions to be taken during disruptions to minimize downtime and ensure the resumption of normal operations",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Business Continuity Team",
+        "control": "Designate key personnel responsible for developing, implementing, and maintaining the business continuity plan"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Disaster Recovery Strategy",
+        "control": "Identify critical systems, data, and processes, and outline steps to recover them in case of a disruption"
+      },
+      {
+        "priority": "high",
+        "control_title": "Create Incident Response Procedure",
+        "control": "Develop a step-by-step process for identifying, assessing, containing, and recovering from incidents that could disrupt operations"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Maintain Offsite Backups",
+        "control": "Regularly backup critical data and store offsite to ensure availability in case of a site-wide disruption"
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Testing and Exercises",
+        "control": "Periodically test the business continuity plan to identify areas for improvement and validate its effectiveness"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Business Impact Analysis",
+    "article_number": "section_7",
+    "priority": "high",
+    "article_text": "Note 4 to entry: The fundamental elements of an audit include the determination of \nthe conformity (3.7) of an object according to a procedure carried out by personnel not being \nresponsible for the object audited. \nNote 5 to entry: An internal audit can be for management review and other internal purposes and can \nform the basis for an organization’s declaration of conformity. Independence can be demonstrated by \nthe freedom from responsibility for the activity (3.1) being audited. External audits include second- \nand third-party audits. Second-party audits are conducted by parties having an interest in the \norganization, such as customers, or by other persons on their behalf. Third-party audits are conducted \nby external, independent auditing organizations, such as those providing certification/registration of \nconformity or government agencies. \nNote 6 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. The original definition has been modified by adding \nNotes 4 and 5 to entry. \n3.3 \nbusiness continuity \ncapability of an organization (3.21) to continue the delivery of products and services (3.27) within \nacceptable time frames at predefined capacity during a disruption (3.10) \n[SOURCE:ISO 22300:2018, 3.24, modified — The definition has been replaced.] \n3.4 \nbusiness continuity plan \ndocumented information (3.11) that guides an organization (3.21) to respond to \na disruption (3.10) and resume, recover and restore the delivery of products and \nservices (3.27) consistent with its business continuity (3.3)objectives (3.20) \n[SOURCE:ISO 22300:2018, 3.27, modified — The definition has been replaced and Note 1 to entry \nhas been deleted.] \n3.5 \nbusiness impact analysis \nprocess (3.26) of analysing the impact (3.13) over time of a disruption (3.10) on \nthe organization (3.21) \nNote 1 to entry: The outcome is a statement and justification of business \ncontinuity (3.3)requirements (3.28). \n[SOURCE:ISO 22300:2018, 3.29, modified — The definition has been replaced and Note 1 to entry \nhas been added.] \n3.6 \ncompetence \nability to apply knowledge and skills to achieve intended results \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level",
+    "requirement": "Analyze the impact of disruptions on the organization over time",
+    "requirement_description": "Assess potential risks and vulnerabilities to the organization due to disruptions, enabling informed decision-making and resource allocation",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Disaster Recovery Plan",
+        "control": "Develop and maintain a comprehensive disaster recovery plan that outlines steps to recover critical systems, data, and operations in the event of a disruption."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Business Continuity Planning",
+        "control": "Develop and maintain business continuity plans that outline procedures for maintaining essential functions during and after a disruption."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor Key Performance Indicators (KPIs)",
+        "control": "Establish and monitor key performance indicators to measure the organization's ability to recover from disruptions over time."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Competence",
+    "article_number": "section_7",
+    "priority": "high",
+    "article_text": "Note 4 to entry: The fundamental elements of an audit include the determination of \nthe conformity (3.7) of an object according to a procedure carried out by personnel not being \nresponsible for the object audited. \nNote 5 to entry: An internal audit can be for management review and other internal purposes and can \nform the basis for an organization’s declaration of conformity. Independence can be demonstrated by \nthe freedom from responsibility for the activity (3.1) being audited. External audits include second- \nand third-party audits. Second-party audits are conducted by parties having an interest in the \norganization, such as customers, or by other persons on their behalf. Third-party audits are conducted \nby external, independent auditing organizations, such as those providing certification/registration of \nconformity or government agencies. \nNote 6 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. The original definition has been modified by adding \nNotes 4 and 5 to entry. \n3.3 \nbusiness continuity \ncapability of an organization (3.21) to continue the delivery of products and services (3.27) within \nacceptable time frames at predefined capacity during a disruption (3.10) \n[SOURCE:ISO 22300:2018, 3.24, modified — The definition has been replaced.] \n3.4 \nbusiness continuity plan \ndocumented information (3.11) that guides an organization (3.21) to respond to \na disruption (3.10) and resume, recover and restore the delivery of products and \nservices (3.27) consistent with its business continuity (3.3)objectives (3.20) \n[SOURCE:ISO 22300:2018, 3.27, modified — The definition has been replaced and Note 1 to entry \nhas been deleted.] \n3.5 \nbusiness impact analysis \nprocess (3.26) of analysing the impact (3.13) over time of a disruption (3.10) on \nthe organization (3.21) \nNote 1 to entry: The outcome is a statement and justification of business \ncontinuity (3.3)requirements (3.28). \n[SOURCE:ISO 22300:2018, 3.29, modified — The definition has been replaced and Note 1 to entry \nhas been added.] \n3.6 \ncompetence \nability to apply knowledge and skills to achieve intended results \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level",
+    "requirement": "Develop and maintain competence in applying knowledge and skills to achieve desired outcomes",
+    "requirement_description": "Ensure that personnel have the necessary skills, knowledge, and abilities to perform their roles effectively",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Regular Training and Development Program",
+        "control": "Establish a comprehensive training program that covers all relevant skills and knowledge required for the job role. Regularly update the program to reflect changes in technology, industry best practices, and regulatory requirements."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Skills Assessment and Gap Analysis",
+        "control": "Conduct periodic skills assessments to identify gaps between current competencies and those required for the job role. Develop individualized training plans to address these gaps."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Mentoring and Coaching",
+        "control": "Provide opportunities for mentoring and coaching to help employees develop their skills and knowledge. Pair experienced staff with less experienced ones to facilitate knowledge transfer."
+      },
+      {
+        "priority": "low",
+        "control_title": "Knowledge Management System",
+        "control": "Implement a knowledge management system that allows employees to easily access and share relevant information, best practices, and lessons learned. This can help ensure that all staff have access to the most up-to-date information."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Fulfilling a Requirement",
+    "article_number": "section_8",
+    "priority": "high",
+    "article_text": "Note 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.8 \ncontinual improvement \nrecurring activity (3.1) to enhance performance (3.23) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.9 \ncorrective action \naction to eliminate the cause(s) of a nonconformity (3.19) and to prevent recurrence \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.10 \ndisruption",
+    "requirement": "The organization must fulfill any given requirement",
+    "requirement_description": "The organization is obligated to meet the specified requirements as defined in the document",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Requirement Management System",
+        "control": "Develop, implement, and maintain a system for identifying, tracking, and addressing all requirements in a timely manner."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Create a Centralized Requirement Repository",
+        "control": "Establish a single source of truth for all organizational requirements, accessible to relevant stakeholders."
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement Regular Review and Update Processes",
+        "control": "Schedule periodic reviews of organizational requirements to ensure they remain current and relevant."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Enhancing Performance through Continual Improvement",
+    "article_number": "section_8",
+    "priority": "high",
+    "article_text": "Note 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.8 \ncontinual improvement \nrecurring activity (3.1) to enhance performance (3.23) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.9 \ncorrective action \naction to eliminate the cause(s) of a nonconformity (3.19) and to prevent recurrence \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.10 \ndisruption",
+    "requirement": "The organization must engage in continuous improvement activities to enhance its overall performance",
+    "requirement_description": "The organization is expected to consistently work on improving its processes and outcomes",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Continuous Improvement Program",
+        "control": "Develop and implement a formal program for ongoing evaluation, analysis, and enhancement of organizational processes and performance"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Performance Metrics Tracking",
+        "control": "Establish key performance indicators (KPIs) to measure the effectiveness of various business functions and regularly review and analyze these metrics to identify areas for improvement"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Employee Feedback Mechanisms",
+        "control": "Implement mechanisms for employees to provide feedback on processes, workflows, and overall performance, and use this feedback to drive improvements"
+      },
+      {
+        "priority": "low",
+        "control_title": "Continuous Learning and Development",
+        "control": "Provide opportunities for employees to engage in ongoing learning and development activities to enhance their skills and knowledge, which can contribute to organizational improvement"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Eliminating Nonconformities and Preventing Recurrence",
+    "article_number": "section_8",
+    "priority": "high",
+    "article_text": "Note 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.8 \ncontinual improvement \nrecurring activity (3.1) to enhance performance (3.23) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.9 \ncorrective action \naction to eliminate the cause(s) of a nonconformity (3.19) and to prevent recurrence \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.10 \ndisruption",
+    "requirement": "The organization must take corrective actions to address nonconformities and prevent their reoccurrence",
+    "requirement_description": "The organization is required to identify, rectify, and prevent the occurrence of any deviations from established standards or procedures",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Nonconformity Reporting Mechanism",
+        "control": "Create a formal process for reporting nonconformities, ensuring all employees know how and where to report them"
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop Corrective Action Plan",
+        "control": "Establish a systematic approach to investigate nonconformities, define corrective actions, and implement them in a timely manner"
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement Preventive Maintenance Program",
+        "control": "Regularly review and update processes to prevent recurrence of nonconformities, addressing root causes where possible"
+      }
+    ]
+  },
+  {
+    "requirement_title": "Understanding the Term 'Disruption'",
+    "article_number": "section_8",
+    "priority": "low",
+    "article_text": "Note 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.7 \nconformity \nfulfilment of a requirement (3.28) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.8 \ncontinual improvement \nrecurring activity (3.1) to enhance performance (3.23) \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.9 \ncorrective action \naction to eliminate the cause(s) of a nonconformity (3.19) and to prevent recurrence \nNote 1 to entry: This constitutes one of the common terms and core definitions of the high level \nstructure for ISO management system standards. \n3.10 \ndisruption",
+    "requirement": "The organization should understand the term 'disruption'",
+    "requirement_description": "While not a directive or obligation, understanding the term 'disruption' is important for effective communication and decision-making within the organization",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Conduct Awareness Training on Disruption Terminology",
+        "control": "Organize regular training sessions for all employees to ensure a clear understanding of the term 'disruption', its implications, and potential impacts on business operations."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish a Glossary of Key Terms",
+        "control": "Create and maintain an internal glossary that includes definitions for key terms such as 'disruption', to ensure consistency in communication across the organization."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor Industry Publications and News",
+        "control": "Subscribe to relevant industry publications, newsletters, or RSS feeds to stay updated on the latest developments and discussions related to disruptions in the market."
+      }
+    ]
+  }
+]
