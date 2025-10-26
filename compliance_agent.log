@@ -1655,3 +1655,422 @@
 2025-10-26 19:13:04,149 - INFO - Processing chunk 15: Section section_15
 2025-10-26 19:13:04,152 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 9/57 chunks
 2025-10-26 19:13:04,322 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:13:09,256 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:13:16,097 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:13:25,778 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:13:30,858 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:13:40,356 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:13:50,199 - INFO - Extracted 3 requirements from chunk 15
+2025-10-26 19:13:50,425 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:13:58,380 - INFO - Processed 2 requirements from chunk 14
+2025-10-26 19:13:58,380 - INFO - Processing chunk 16: Section section_16
+2025-10-26 19:13:58,386 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 10/57 chunks
+2025-10-26 19:13:58,551 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:14:03,325 - INFO - Processed 3 requirements from chunk 12
+2025-10-26 19:14:03,326 - INFO - Processing chunk 17: Section 8. (1) A Data Fiduciary shall, irrespective of any agreement to the contrary or failure of
+2025-10-26 19:14:03,333 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 11/57 chunks
+2025-10-26 19:14:03,499 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:14:11,421 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:14:17,115 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:14:26,502 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:14:34,212 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:14:58,743 - INFO - Extracted 6 requirements from chunk 16
+2025-10-26 19:14:59,463 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:15:30,956 - INFO - Extracted 7 requirements from chunk 17
+2025-10-26 19:15:31,096 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:15:35,869 - INFO - Processed 4 requirements from chunk 13
+2025-10-26 19:15:35,870 - INFO - Processing chunk 18: Section section_18
+2025-10-26 19:15:35,876 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 12/57 chunks
+2025-10-26 19:15:35,959 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:15:42,551 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:15:51,361 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:15:56,783 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:16:05,671 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:16:14,667 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:16:37,205 - INFO - Extracted 5 requirements from chunk 18
+2025-10-26 19:16:37,324 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:16:42,032 - INFO - Processed 12 requirements from chunk 5
+2025-10-26 19:16:42,032 - INFO - Processing chunk 19: Section Section_19
+2025-10-26 19:16:42,036 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 13/57 chunks
+2025-10-26 19:16:42,176 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:16:46,767 - INFO - Processed 12 requirements from chunk 3
+2025-10-26 19:16:46,768 - INFO - Processing chunk 20: Section 9. (1) The Data Fiduciary shall, before processing any personal data of a child or a
+2025-10-26 19:16:46,772 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 14/57 chunks
+2025-10-26 19:16:46,922 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:16:54,151 - INFO - Processed 3 requirements from chunk 15
+2025-10-26 19:16:54,152 - INFO - Processing chunk 21: Section section_21
+2025-10-26 19:16:54,160 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 15/57 chunks
+2025-10-26 19:16:54,308 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:17:00,346 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:17:05,115 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:17:11,088 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:17:16,228 - INFO - Extracted 1 requirements from chunk 19
+2025-10-26 19:17:17,029 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:17:29,593 - INFO - Extracted 3 requirements from chunk 20
+2025-10-26 19:17:30,284 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:17:47,504 - INFO - Extracted 5 requirements from chunk 21
+2025-10-26 19:17:47,687 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:17:53,803 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:17:59,626 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:18:09,444 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:18:14,014 - INFO - Processed 1 requirements from chunk 19
+2025-10-26 19:18:14,014 - INFO - Processing chunk 22: Section section_22
+2025-10-26 19:18:14,021 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 16/57 chunks
+2025-10-26 19:18:14,163 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:18:19,487 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:18:24,389 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:18:30,102 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:18:37,817 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:18:44,477 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:18:52,292 - INFO - Extracted 2 requirements from chunk 22
+2025-10-26 19:18:52,439 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:00,672 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:08,175 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:14,875 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:22,030 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:27,867 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:35,727 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:42,367 - INFO - Processed 3 requirements from chunk 20
+2025-10-26 19:19:42,367 - INFO - Processing chunk 23: Section section_23
+2025-10-26 19:19:42,371 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 17/57 chunks
+2025-10-26 19:19:42,519 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:48,598 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:19:54,615 - INFO - Processed 6 requirements from chunk 16
+2025-10-26 19:19:54,615 - INFO - Processing chunk 24: Section 12. (1) A Data Principal shall have the right to correction, completion, updating and
+2025-10-26 19:19:54,624 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 18/57 chunks
+2025-10-26 19:19:54,756 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:20:01,552 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:20:09,756 - INFO - Processed 5 requirements from chunk 18
+2025-10-26 19:20:09,757 - INFO - Processing chunk 25: Section 13. (1) A Data Principal shall have the right to have readily available means of grievance
+2025-10-26 19:20:09,763 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 19/57 chunks
+2025-10-26 19:20:09,919 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:20:16,975 - INFO - Processed 2 requirements from chunk 22
+2025-10-26 19:20:16,975 - INFO - Processing chunk 26: Section 14. (1) A Data Principal shall have the right to nominate, in such manner as may be
+2025-10-26 19:20:16,986 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 20/57 chunks
+2025-10-26 19:20:17,374 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:20:21,456 - INFO - Extracted 1 requirements from chunk 23
+2025-10-26 19:20:21,668 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:20:28,721 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:20:43,532 - INFO - Extracted 3 requirements from chunk 24
+2025-10-26 19:20:43,724 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:20:50,668 - INFO - Processed 7 requirements from chunk 17
+2025-10-26 19:20:50,668 - INFO - Processing chunk 27: Section section_27
+2025-10-26 19:20:50,678 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 21/57 chunks
+2025-10-26 19:20:51,147 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:21:04,318 - INFO - Extracted 3 requirements from chunk 25
+2025-10-26 19:21:04,973 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:21:21,180 - INFO - Extracted 3 requirements from chunk 26
+2025-10-26 19:21:21,350 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:21:27,150 - INFO - Processed 1 requirements from chunk 23
+2025-10-26 19:21:27,150 - INFO - Processing chunk 28: Section section_28
+2025-10-26 19:21:27,160 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 22/57 chunks
+2025-10-26 19:21:27,288 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:21:32,531 - INFO - Processed 5 requirements from chunk 21
+2025-10-26 19:21:32,531 - INFO - Processing chunk 29: Section 16. (1) The Central Government may, by notification, restrict the transfer of personal
+2025-10-26 19:21:32,538 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 23/57 chunks
+2025-10-26 19:21:32,699 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:21:40,503 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:21:46,429 - INFO - Extracted 2 requirements from chunk 27
+2025-10-26 19:21:46,602 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:21:53,266 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:01,700 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:09,523 - INFO - Extracted 3 requirements from chunk 28
+2025-10-26 19:22:09,997 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:17,863 - INFO - Extracted 2 requirements from chunk 29
+2025-10-26 19:22:18,034 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:24,984 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:31,260 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:37,377 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:44,642 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:50,752 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:22:57,570 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:23:03,927 - INFO - Processed 3 requirements from chunk 24
+2025-10-26 19:23:03,928 - INFO - Processing chunk 30: Section Section_30
+2025-10-26 19:23:03,937 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 24/57 chunks
+2025-10-26 19:23:04,096 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:23:10,464 - INFO - Processed 2 requirements from chunk 27
+2025-10-26 19:23:10,464 - INFO - Processing chunk 31: Section section_31
+2025-10-26 19:23:10,476 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 25/57 chunks
+2025-10-26 19:23:10,618 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:23:17,857 - INFO - Processed 3 requirements from chunk 25
+2025-10-26 19:23:17,858 - INFO - Processing chunk 32: Section section_32
+2025-10-26 19:23:17,868 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 26/57 chunks
+2025-10-26 19:23:18,015 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:23:22,805 - INFO - Processed 3 requirements from chunk 26
+2025-10-26 19:23:22,806 - INFO - Processing chunk 33: Section section_33
+2025-10-26 19:23:22,815 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 27/57 chunks
+2025-10-26 19:23:22,902 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:23:31,079 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:23:38,358 - INFO - Processed 2 requirements from chunk 29
+2025-10-26 19:23:38,358 - INFO - Processing chunk 34: Section section_34
+2025-10-26 19:23:38,370 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 28/57 chunks
+2025-10-26 19:23:39,187 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:24:08,042 - INFO - Extracted 6 requirements from chunk 30
+2025-10-26 19:24:08,573 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:24:22,513 - INFO - Extracted 3 requirements from chunk 31
+2025-10-26 19:24:23,320 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:24:44,566 - INFO - Extracted 4 requirements from chunk 32
+2025-10-26 19:24:45,338 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:25:07,889 - INFO - Extracted 6 requirements from chunk 33
+2025-10-26 19:25:08,038 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:25:16,128 - INFO - Processed 3 requirements from chunk 28
+2025-10-26 19:25:16,128 - INFO - Processing chunk 35: Section 21. (1) A person shall be disqualified for being appointed and continued as the
+2025-10-26 19:25:16,135 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 29/57 chunks
+2025-10-26 19:25:16,467 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:25:19,334 - INFO - Extracted 1 requirements from chunk 34
+2025-10-26 19:25:19,505 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:25:26,131 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:25:31,557 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:25:38,633 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:25:45,608 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:25:55,541 - INFO - Extracted 2 requirements from chunk 35
+2025-10-26 19:25:55,712 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:26:01,690 - INFO - Processed 1 requirements from chunk 34
+2025-10-26 19:26:01,690 - INFO - Processing chunk 36: Section 22. (1) The Chairperson or any other Member may give notice in writing to the Central
+2025-10-26 19:26:01,696 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 30/57 chunks
+2025-10-26 19:26:01,885 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:26:07,710 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:26:15,340 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:26:22,293 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:26:28,911 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:26:33,693 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:26:52,522 - INFO - Extracted 4 requirements from chunk 36
+2025-10-26 19:26:52,693 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:26:59,095 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:27:03,498 - INFO - Processed 3 requirements from chunk 31
+2025-10-26 19:27:03,498 - INFO - Processing chunk 37: Section 23. ( 1) The Board shall observe such procedure in regard to the holding of and
+2025-10-26 19:27:03,510 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 31/57 chunks
+2025-10-26 19:27:03,662 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:27:08,083 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:27:16,895 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:27:21,846 - INFO - Processed 2 requirements from chunk 35
+2025-10-26 19:27:21,847 - INFO - Processing chunk 38: Section section_38
+2025-10-26 19:27:21,859 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 32/57 chunks
+2025-10-26 19:27:21,974 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:27:27,324 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:27:34,706 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:27:57,611 - INFO - Extracted 5 requirements from chunk 37
+2025-10-26 19:27:57,780 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:28:04,533 - INFO - Processed 4 requirements from chunk 32
+2025-10-26 19:28:04,534 - INFO - Processing chunk 39: Section section_39
+2025-10-26 19:28:04,547 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 33/57 chunks
+2025-10-26 19:28:04,672 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:28:12,348 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:28:22,621 - INFO - Extracted 3 requirements from chunk 38
+2025-10-26 19:28:22,796 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:28:28,985 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:28:36,062 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:28:44,417 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:28:52,379 - INFO - Extracted 3 requirements from chunk 39
+2025-10-26 19:28:52,671 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:00,018 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:04,951 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:13,951 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:20,571 - INFO - Processed 6 requirements from chunk 30
+2025-10-26 19:29:20,571 - INFO - Processing chunk 40: Section 27. (1) The Board shall exercise and perform the following powers and functions,
+2025-10-26 19:29:20,584 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 34/57 chunks
+2025-10-26 19:29:20,760 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:28,068 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:33,593 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:38,356 - INFO - Processed 6 requirements from chunk 33
+2025-10-26 19:29:38,356 - INFO - Processing chunk 41: Section section_41
+2025-10-26 19:29:38,367 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 35/57 chunks
+2025-10-26 19:29:38,528 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:43,687 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:29:51,563 - INFO - Processed 4 requirements from chunk 36
+2025-10-26 19:29:51,563 - INFO - Processing chunk 42: Section 28. (1) The Board shall function as an independent body and shall, as far as practicable,
+2025-10-26 19:29:51,572 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 36/57 chunks
+2025-10-26 19:29:52,312 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:30:23,164 - INFO - Extracted 6 requirements from chunk 40
+2025-10-26 19:30:23,336 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:30:30,566 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:30:38,903 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:30:47,776 - INFO - Extracted 2 requirements from chunk 41
+2025-10-26 19:30:47,967 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:30:54,583 - INFO - Processed 3 requirements from chunk 38
+2025-10-26 19:30:54,583 - INFO - Processing chunk 43: Section section_43
+2025-10-26 19:30:54,597 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 37/57 chunks
+2025-10-26 19:30:55,104 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:31:07,064 - INFO - Extracted 4 requirements from chunk 42
+2025-10-26 19:31:07,255 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:31:13,113 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:31:19,714 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:31:24,016 - INFO - Processed 3 requirements from chunk 39
+2025-10-26 19:31:24,017 - INFO - Processing chunk 44: Section section_44
+2025-10-26 19:31:24,031 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 38/57 chunks
+2025-10-26 19:31:24,196 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:31:29,816 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:02,981 - INFO - Extracted 9 requirements from chunk 43
+2025-10-26 19:32:03,150 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:07,675 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:16,758 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:21,293 - INFO - Processed 5 requirements from chunk 37
+2025-10-26 19:32:21,293 - INFO - Processing chunk 45: Section section_45
+2025-10-26 19:32:21,307 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 39/57 chunks
+2025-10-26 19:32:21,734 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:32,432 - INFO - Extracted 3 requirements from chunk 44
+2025-10-26 19:32:32,602 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:39,516 - INFO - Processed 2 requirements from chunk 41
+2025-10-26 19:32:39,516 - INFO - Processing chunk 46: Section section_46
+2025-10-26 19:32:39,531 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 40/57 chunks
+2025-10-26 19:32:39,682 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:44,345 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:48,587 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:32:59,624 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:33:13,400 - INFO - Extracted 3 requirements from chunk 45
+2025-10-26 19:33:13,571 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:33:19,485 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:33:38,834 - INFO - Extracted 5 requirements from chunk 46
+2025-10-26 19:33:39,002 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:33:43,124 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:33:50,118 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:33:56,558 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:01,205 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:06,081 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:12,209 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:16,673 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:21,287 - INFO - Processed 4 requirements from chunk 42
+2025-10-26 19:34:21,288 - INFO - Processing chunk 47: Section 30. (1) An order passed by the Appellate Tribunal under this Act shall be executable
+2025-10-26 19:34:21,303 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 41/57 chunks
+2025-10-26 19:34:21,451 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:30,340 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:35,327 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:43,660 - INFO - Processed 3 requirements from chunk 44
+2025-10-26 19:34:43,660 - INFO - Processing chunk 48: Section section_48
+2025-10-26 19:34:43,669 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 42/57 chunks
+2025-10-26 19:34:43,790 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:49,696 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:34:56,054 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:35:24,809 - INFO - Extracted 7 requirements from chunk 47
+2025-10-26 19:35:24,976 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:35:29,644 - INFO - Processed 6 requirements from chunk 40
+2025-10-26 19:35:29,644 - INFO - Processing chunk 49: Section section_49
+2025-10-26 19:35:29,659 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 43/57 chunks
+2025-10-26 19:35:29,810 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:35:37,292 - INFO - Processed 3 requirements from chunk 45
+2025-10-26 19:35:37,293 - INFO - Processing chunk 50: Section section_50
+2025-10-26 19:35:37,309 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 44/57 chunks
+2025-10-26 19:35:37,381 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:35:50,367 - INFO - Extracted 4 requirements from chunk 48
+2025-10-26 19:35:50,514 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:35:57,492 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:36:02,290 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:36:09,574 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:36:21,256 - INFO - Extracted 3 requirements from chunk 49
+2025-10-26 19:36:22,068 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:36:38,172 - INFO - Extracted 4 requirements from chunk 50
+2025-10-26 19:36:38,345 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:36:44,736 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:36:50,814 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:36:55,434 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:01,616 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:07,831 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:15,578 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:22,266 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:30,061 - INFO - Processed 5 requirements from chunk 46
+2025-10-26 19:37:30,062 - INFO - Processing chunk 51: Section section_51
+2025-10-26 19:37:30,071 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 45/57 chunks
+2025-10-26 19:37:30,220 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:35,439 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:41,935 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:46,796 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:37:53,384 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:01,600 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:13,981 - INFO - Extracted 5 requirements from chunk 51
+2025-10-26 19:38:14,154 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:20,749 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:25,461 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:30,264 - INFO - Processed 3 requirements from chunk 49
+2025-10-26 19:38:30,264 - INFO - Processing chunk 52: Section section_52
+2025-10-26 19:38:30,277 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 46/57 chunks
+2025-10-26 19:38:30,430 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:37,028 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:41,798 - INFO - Processed 4 requirements from chunk 48
+2025-10-26 19:38:41,799 - INFO - Processing chunk 53: Section Section_53
+2025-10-26 19:38:41,816 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 47/57 chunks
+2025-10-26 19:38:41,955 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:46,781 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:51,475 - INFO - Processed 9 requirements from chunk 43
+2025-10-26 19:38:51,476 - INFO - Processing chunk 54: Section section_54
+2025-10-26 19:38:51,492 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 48/57 chunks
+2025-10-26 19:38:51,628 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:38:59,558 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:39:18,416 - INFO - Extracted 5 requirements from chunk 52
+2025-10-26 19:39:18,533 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:39:24,502 - INFO - Processed 4 requirements from chunk 50
+2025-10-26 19:39:24,502 - INFO - Processing chunk 55: Section section_55
+2025-10-26 19:39:24,508 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 49/57 chunks
+2025-10-26 19:39:25,261 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:40:05,767 - INFO - Extracted 11 requirements from chunk 53
+2025-10-26 19:40:05,876 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:40:11,443 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:40:58,077 - INFO - Extracted 11 requirements from chunk 54
+2025-10-26 19:40:58,190 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:02,795 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:10,734 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:24,853 - INFO - Extracted 3 requirements from chunk 55
+2025-10-26 19:41:24,998 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:30,966 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:34,839 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:39,257 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:45,584 - INFO - Processed 7 requirements from chunk 47
+2025-10-26 19:41:45,585 - INFO - Processing chunk 56: Section section_56
+2025-10-26 19:41:45,602 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 50/57 chunks
+2025-10-26 19:41:45,754 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:49,962 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:41:54,379 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:00,429 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:05,009 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:13,093 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:20,925 - INFO - Extracted 2 requirements from chunk 56
+2025-10-26 19:42:21,116 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:26,224 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:30,723 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:39,103 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:48,794 - INFO - Processed 5 requirements from chunk 51
+2025-10-26 19:42:48,794 - INFO - Processing chunk 57: Section section_57
+2025-10-26 19:42:48,802 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 51/57 chunks
+2025-10-26 19:42:48,950 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:42:56,845 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:43:03,261 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:43:07,526 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:43:12,576 - INFO - Processed 3 requirements from chunk 55
+2025-10-26 19:43:12,592 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 52/57 chunks
+2025-10-26 19:43:12,705 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:43:24,494 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:43:48,524 - INFO - Extracted 7 requirements from chunk 57
+2025-10-26 19:43:48,674 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:43:55,868 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:44:04,438 - INFO - Processed 2 requirements from chunk 56
+2025-10-26 19:44:04,449 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 53/57 chunks
+2025-10-26 19:44:04,524 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:44:09,669 - INFO - Processed 5 requirements from chunk 52
+2025-10-26 19:44:09,683 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 54/57 chunks
+2025-10-26 19:44:09,763 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:44:15,444 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:44:23,582 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:44:28,938 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:44:36,860 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:44:45,646 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:44:52,856 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:01,805 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:09,751 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:13,761 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:20,887 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:28,664 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:34,061 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:40,087 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:46,828 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:51,722 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:45:56,569 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:46:05,192 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:46:11,733 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:46:16,445 - INFO - Processed 11 requirements from chunk 53
+2025-10-26 19:46:16,456 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 55/57 chunks
+2025-10-26 19:46:16,594 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:46:24,017 - INFO - Processed 7 requirements from chunk 57
+2025-10-26 19:46:24,034 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 56/57 chunks
+2025-10-26 19:46:24,193 - INFO - HTTP Request: POST https://ollama-serve.ascentbusiness.com/api/generate "HTTP/1.1 200 OK"
+2025-10-26 19:46:29,926 - INFO - Processed 11 requirements from chunk 54
+2025-10-26 19:46:29,942 - INFO - Updated intermediate results in intermediate_2025-10-26_19-04-51.json after 57/57 chunks
+2025-10-26 19:46:29,954 - INFO - Analysis complete. Results saved to compliance_output.json, intermediate at intermediate_2025-10-26_19-04-51.json

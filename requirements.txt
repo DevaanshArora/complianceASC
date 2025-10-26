@@ -2,7 +2,12 @@ langchain
 langchain-community
 langchain-core
 langchain-ollama
+langchain-groq
 langchain-text-splitters
 pypdf
 pydantic
+pydantic-settings
 python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
