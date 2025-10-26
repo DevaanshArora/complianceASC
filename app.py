@@ -15,7 +15,7 @@ def main():
     uvicorn.run(
         "compliance_agent.api:app",
         host="0.0.0.0",
-        port=8009,
+        port=6333,
         reload=True,  # Set to False in production
         log_level="info",
         access_log=True
