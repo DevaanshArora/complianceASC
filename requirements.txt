@@ -11,3 +11,5 @@ python-dotenv
 fastapi
 uvicorn[standard]
 python-multipart
+cors
+python-multipart

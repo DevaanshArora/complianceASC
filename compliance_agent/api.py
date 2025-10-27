@@ -7,6 +7,7 @@ import os
 
 from fastapi import FastAPI, File, UploadFile, BackgroundTasks, HTTPException
 from fastapi.responses import FileResponse
+from fastapi.middleware.cors import CORSMiddleware
 
 from .models import TaskStatus, AnalysisResult
 from .extractor import orchestrate_compliance_analysis
@@ -40,6 +41,15 @@ app = FastAPI(
     title="Ascent Compliance Agent Network API",
     description="AI-powered compliance document analysis for requirements extraction and control suggestions",
     version="1.0.0"
+)
+
+# Add CORS middleware to allow all origins
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allow all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all methods (GET, POST, etc.)
+    allow_headers=["*"],  # Allow all headers
 )
 
 # Configure logging
