@@ -63,16 +63,14 @@ def load_and_chunk_pdf(pdf_path: str) -> tuple[str, str, List[Document]]:
 
     # Document-specific chunking strategy
     if doc_type == "DPDP":
-        # DPDP has sections like 18. (1), chapters, sec. markers
+        # DPDP chunking: Use large chunks with natural breaks to avoid over-fragmentation
         separators = [
-            "\nSEC. ", "\nSection ", "\nCHAPTER ", "\nChapter ",
-            "\n\d+\. \(\d+\) ", "\n\d+\. ",  # "18. (1)", "12 "
-            "\n1. ", "\n2. ", "\n3. ", "\n4. ", "\n5. ", "\n6. ", "\n7. ", "\n8. ", "\n9. ", "\n10. ",
-            "\n11. ", "\n12. ", "\n13. ", "\n14. ", "\n15. ", "\n16. ", "\n17. ", "\n18. ", "\n19. ", "\n20. ",
-            "\n21. ", "\n22. ", "\n23. ", "\n24. ", "\n25. ", "\n26. ", "\n27. ", "\n28. ", "\n29. ", "\n30. ",
-            "\nAnnex ", "\nBibliography ", "\nAppendix "
+            "\nCHAPTER ", "\nChapter ",     # Major chapter divisions only
+            "\nAnnex ", "\nBibliography ",  # End matter breaks
+            "\nAppendix "                   # Appendix breaks
+            # REMOVED: Individual section numbers to prevent over-splitting
         ] + separators
-        chunk_size = 2000  # Moderate chunk size for legal content
+        chunk_size = 3500  # Larger chunks to group related sections
     elif doc_type == "ISO":
         # ISO standards have systematic numbering with subsections
         separators = [

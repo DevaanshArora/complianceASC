@@ -1,0 +1,812 @@
+[
+  {
+    "requirement_title": "Proprietary Information Protection",
+    "article_number": "section_1",
+    "priority": "high",
+    "article_text": "BIBA Cloth Collection Account\nBIBA Cloth Collection Lob\nBUSINESS IMPACT ANALYSIS\n \n \nVersion 1.0\nDate:\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThis document contains proprietary information of HCL Technologies Ltd. No part of this document may be\nreproduced, stored, copied, or transmitted in any form or by means of electronic, mechanical, photocopying or\notherwise, without the express consent of HCL Technologies Ltd. This document is intended for internal circulation\nonly and not meant for external distribution.",
+    "requirement": "No part of this document may be reproduced, stored, copied, or transmitted without express consent.",
+    "requirement_description": "Organizations must protect proprietary information by not reproducing, storing, copying, or transmitting it without explicit permission from HCL Technologies Ltd.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Access Control Mechanisms",
+        "control": "Implement access control mechanisms, such as digital rights management (DRM) or encryption, to prevent unauthorized reproduction, storage, copying, or transmission of the document."
+      },
+      {
+        "priority": "high",
+        "control_title": "Use Watermarking or Fingerprinting",
+        "control": "Use watermarking or fingerprinting techniques to identify and track unauthorized copies of the document."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Include Copyright Notice",
+        "control": "Include a clear and prominent copyright notice in the document, stating that reproduction, storage, copying, or transmission without express consent is prohibited."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Use Secure File Sharing",
+        "control": "Use secure file sharing methods, such as password-protected links or encrypted files, to share the document with authorized parties."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor Document Usage",
+        "control": "Monitor document usage and track any unauthorized access or reproduction of the document."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish Document Distribution Policy",
+        "control": "Establish a clear policy for distributing the document, including procedures for obtaining express consent from recipients before sharing the document."
+      }
+    ]
+  },
+  {
+    "requirement_title": "",
+    "article_number": "section_2",
+    "priority": "",
+    "article_text": "Table of contents\n1.  Introduction \n2.  Summary of Activity Level Recovery Targets \n3.  Activity Wise Impact Assessment  \n4.  Interdependencies \n \n  Appendix \n  Acronyms \n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 2 of\nClassification - Internal",
+    "requirement": "",
+    "requirement_description": "",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Access Control Lists (ACLs)",
+        "control_description": "Implement Access Control Lists (ACLs) to restrict access to sensitive data and systems. Ensure that ACLs are regularly reviewed and updated to reflect changes in user roles and permissions."
+      },
+      {
+        "priority": "high",
+        "control_title": "Use Strong Password Policies",
+        "control_description": "Implement strong password policies that require complex passwords, regular password changes, and account lockout policies. Ensure that passwords are stored securely and not in plaintext."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Security Audits",
+        "control_description": "Conduct regular security audits to identify vulnerabilities and weaknesses in systems and applications. Ensure that audits are performed by qualified security professionals and that findings are addressed in a timely manner."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Encryption for Sensitive Data",
+        "control_description": "Implement encryption for sensitive data both in transit and at rest. Ensure that encryption algorithms and keys are secure and regularly updated."
+      },
+      {
+        "priority": "low",
+        "control_title": "Use Secure Protocols for Communication",
+        "control_description": "Use secure protocols such as HTTPS and SFTP for communication and data transfer. Ensure that all communication is encrypted and that certificates are regularly updated."
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement Incident Response Plan",
+        "control_description": "Implement an incident response plan to quickly respond to security incidents. Ensure that the plan is regularly reviewed and updated to reflect changes in threat landscape and business needs."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Identify Enforceable Compliance Requirements",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "Version History \n  \nBCP is not submitted for review. So version is not available. \n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 3 of\nClassification - Internal",
+    "requirement": "Organizations must identify enforceable compliance requirements.",
+    "requirement_description": "Organizations must only identify requirements that are mandatory and have enforcement language.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Compliance Program",
+        "control": "Develop and implement a comprehensive compliance program that includes policies, procedures, and training to ensure adherence to enforceable compliance requirements."
+      },
+      {
+        "priority": "high",
+        "control_title": "Identify Enforceable Compliance Requirements",
+        "control": "Conduct a thorough review of relevant laws, regulations, and industry standards to identify enforceable compliance requirements applicable to the organization."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Compliance Requirements",
+        "control": "Maintain accurate and up-to-date documentation of identified compliance requirements, including relevant laws, regulations, and industry standards."
+      },
+      {
+        "priority": "low",
+        "control_title": "Review Compliance Requirements Periodically",
+        "control": "Regularly review and update compliance requirements to ensure they remain relevant and enforceable, and to identify any changes or updates to applicable laws, regulations, or industry standards."
+      },
+      {
+        "priority": "high",
+        "control_title": "Assign Compliance Responsibilities",
+        "control": "Clearly define and assign compliance responsibilities to designated personnel, including the development and implementation of compliance policies and procedures."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Provide Compliance Training",
+        "control": "Provide regular training and awareness programs to ensure that employees understand and comply with enforceable compliance requirements."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Exclude Non-Enforceable Text",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "Version History \n  \nBCP is not submitted for review. So version is not available. \n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 3 of\nClassification - Internal",
+    "requirement": "Organizations must exclude non-enforceable text from compliance requirements.",
+    "requirement_description": "Organizations must exclude text that is not mandatory or does not have enforcement language.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Review Compliance Requirements for Non-Enforceable Text",
+        "control": "Regularly review compliance requirements to identify and exclude non-enforceable text. This includes reviewing policies, procedures, and regulatory requirements to ensure that only enforceable text is included."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish a Process for Identifying Non-Enforceable Text",
+        "control": "Establish a process for identifying non-enforceable text in compliance requirements. This includes training employees on how to identify non-enforceable text and establishing a review process to ensure that non-enforceable text is excluded."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document the Exclusion of Non-Enforceable Text",
+        "control": "Document the exclusion of non-enforceable text in compliance requirements. This includes maintaining a record of the review process and the text that was excluded."
+      },
+      {
+        "priority": "high",
+        "control_title": "Communicate the Exclusion of Non-Enforceable Text to Stakeholders",
+        "control": "Communicate the exclusion of non-enforceable text to stakeholders, including employees, customers, and regulatory bodies. This includes providing clear and concise information about the exclusion of non-enforceable text and the reasons for it."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Monitor Compliance Requirements for Changes to Non-Enforceable Text",
+        "control": "Monitor compliance requirements for changes to non-enforceable text. This includes regularly reviewing updates to policies, procedures, and regulatory requirements to ensure that non-enforceable text is excluded."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Examples of Enforceable Requirements",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "Version History \n  \nBCP is not submitted for review. So version is not available. \n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 3 of\nClassification - Internal",
+    "requirement": "Organizations must implement access controls.",
+    "requirement_description": "Organizations must implement access controls to ensure security and compliance.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Role-Based Access Control (RBAC)",
+        "control": "Assign users to roles and grant access to resources based on their role. This ensures that users only have access to resources they need to perform their job functions."
+      },
+      {
+        "priority": "high",
+        "control_title": "Use Strong Authentication and Authorization",
+        "control": "Implement strong authentication and authorization mechanisms, such as multi-factor authentication, to ensure that only authorized users can access resources."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Limit User Privileges",
+        "control": "Limit user privileges to the minimum required to perform their job functions. This reduces the risk of unauthorized access and malicious activity."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Use Access Control Lists (ACLs)",
+        "control": "Use ACLs to control access to resources, such as files and folders, based on user identity and group membership."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor Access Attempts",
+        "control": "Monitor access attempts to resources and systems to detect and respond to potential security incidents."
+      },
+      {
+        "priority": "low",
+        "control_title": "Implement Access Expiration",
+        "control": "Implement access expiration policies to automatically revoke access to resources when it is no longer needed."
+      },
+      {
+        "priority": "high",
+        "control_title": "Conduct Regular Access Reviews",
+        "control": "Conduct regular access reviews to ensure that user access is still necessary and that access is properly managed."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Examples to Exclude",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "Version History \n  \nBCP is not submitted for review. So version is not available. \n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 3 of\nClassification - Internal",
+    "requirement": "Organizations must exclude titles and names from compliance requirements.",
+    "requirement_description": "Organizations must exclude text that is not mandatory or does not have enforcement language.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Exclude Titles from Compliance Requirements",
+        "control": "Develop a policy that excludes titles from compliance requirements, ensuring that all employees are held to the same standards regardless of their position or title."
+      },
+      {
+        "priority": "high",
+        "control_title": "Remove Titles from Compliance Documentation",
+        "control": "Review and update all compliance documentation to remove titles and focus on the individual's responsibilities and actions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Train Employees on Title-Neutral Language",
+        "control": "Provide regular training to employees on the use of title-neutral language in all communication, including emails, reports, and meetings."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor and Enforce Title-Neutral Language",
+        "control": "Regularly monitor employee communication and enforce the use of title-neutral language, providing feedback and coaching as needed."
+      },
+      {
+        "priority": "high",
+        "control_title": "Update Job Descriptions to Focus on Responsibilities",
+        "control": "Review and update job descriptions to focus on the individual's responsibilities and actions, rather than their title or position."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Business Continuity Strategy",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "1     Introduction\n \nThe BIBA Cloth Collection Account Business Impact Analysis is undertaken to help, identify the appropriate recovery\nobjectives that provide guidance for defining the appropriate Business Continuity strategy for resumption of critical\nservices during or after a disruption and ensuring a full recovery of all services provided by the unit.\n \n \n2  Summary of Activity Level Recovery Targets \n \n \n3.  Activity Wise Impact Assessment \n  \n3.1. Activity Name: Critical Product Line Impact Analysis\n \n \n   Activity Description: Critical Product Line Impact Analysis \nClient Name BIBA Cloth Collection\nPrimary Site Mumbai-Andheri MIDC-Arena House-\nPlot103,Mumbai,India,51000176\nOther Locations NA\nBusiness Owner Prakash BO--77703\nBackup Business Owner Ascent India--040\nBCM HD Kiran 123--543\nSubject Matter Expert Prakash SME--77702\nBackup Subject Matter Expert Jo SME--2222\nBusiness Continuity Coordinator Dolly Bachle--101008\nBackup Business Continuity Coordinator Arul g--0988\nTotal Headcount 36\nScope [Provide a brief description of the Services that\nare covered under this BIA]\nA formal name for a BIA covering production, supply\nchain, retail operations, and e-commerce for BIBA?s\napparel lines.\nList of all Project codes that are covered under this\nEngagement BIA\nAuto_BCM25\nActivity Name MAO/MTPD RTO RPO MBCO Recovery Priority\nCritical Product\nLine Impact\nAnalysis\n3h 2h 15min 3m 55% R1\nImpact\nCategory\nActivity Impact\n3h 10h 12h 1d 3d 1w 2w 4m 5m\nFinancial\nLoss\nHigh High High High High High High High High\nImpact on\nother\nprocesse\ns\nHigh High High High High High High High High\nLegal\nImpact\nMedium Medium Medium Medium Medium Medium Medium Medium Medium\nQuality of\nservice to\nclients\nHigh High High High High High High High High\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 4 of\nClassification - Internal",
+    "requirement": "Organizations shall define a Business Continuity strategy for resumption of critical services.",
+    "requirement_description": "This requirement mandates the development of a Business Continuity strategy to ensure the resumption of critical services during or after a disruption.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Develop a Business Continuity Plan (BCP)",
+        "control": "Develop a comprehensive Business Continuity Plan (BCP) that outlines procedures for resuming critical services in the event of a disaster or disruption. The plan should include risk assessments, impact analyses, and recovery strategies for all critical services."
+      },
+      {
+        "priority": "high",
+        "control_title": "Identify Critical Services and Assets",
+        "control": "Identify and document all critical services and assets that are essential for the organization's operations. This includes IT systems, infrastructure, personnel, and other resources that are critical to the organization's ability to resume operations."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Business Impact Analyses (BIAs)",
+        "control": "Conduct regular Business Impact Analyses (BIAs) to identify potential risks and impacts on critical services and assets. This will help the organization to prioritize its recovery efforts and allocate resources effectively."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Develop a Communication Plan",
+        "control": "Develop a communication plan that outlines procedures for communicating with stakeholders, including employees, customers, and suppliers, in the event of a disaster or disruption. This plan should include contact information, notification procedures, and emergency contact details."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Business Continuity Exercises",
+        "control": "Conduct regular business continuity exercises, such as tabletop exercises or simulations, to test the organization's Business Continuity Plan (BCP) and identify areas for improvement. This will help the organization to ensure that its BCP is effective and up-to-date."
+      },
+      {
+        "priority": "high",
+        "control_title": "Establish a Business Continuity Management Team",
+        "control": "Establish a Business Continuity Management team that is responsible for developing, implementing, and maintaining the organization's Business Continuity Plan (BCP). This team should include representatives from all departments and functions, including IT, operations, and management."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Recovery Objectives",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "1     Introduction\n \nThe BIBA Cloth Collection Account Business Impact Analysis is undertaken to help, identify the appropriate recovery\nobjectives that provide guidance for defining the appropriate Business Continuity strategy for resumption of critical\nservices during or after a disruption and ensuring a full recovery of all services provided by the unit.\n \n \n2  Summary of Activity Level Recovery Targets \n \n \n3.  Activity Wise Impact Assessment \n  \n3.1. Activity Name: Critical Product Line Impact Analysis\n \n \n   Activity Description: Critical Product Line Impact Analysis \nClient Name BIBA Cloth Collection\nPrimary Site Mumbai-Andheri MIDC-Arena House-\nPlot103,Mumbai,India,51000176\nOther Locations NA\nBusiness Owner Prakash BO--77703\nBackup Business Owner Ascent India--040\nBCM HD Kiran 123--543\nSubject Matter Expert Prakash SME--77702\nBackup Subject Matter Expert Jo SME--2222\nBusiness Continuity Coordinator Dolly Bachle--101008\nBackup Business Continuity Coordinator Arul g--0988\nTotal Headcount 36\nScope [Provide a brief description of the Services that\nare covered under this BIA]\nA formal name for a BIA covering production, supply\nchain, retail operations, and e-commerce for BIBA?s\napparel lines.\nList of all Project codes that are covered under this\nEngagement BIA\nAuto_BCM25\nActivity Name MAO/MTPD RTO RPO MBCO Recovery Priority\nCritical Product\nLine Impact\nAnalysis\n3h 2h 15min 3m 55% R1\nImpact\nCategory\nActivity Impact\n3h 10h 12h 1d 3d 1w 2w 4m 5m\nFinancial\nLoss\nHigh High High High High High High High High\nImpact on\nother\nprocesse\ns\nHigh High High High High High High High High\nLegal\nImpact\nMedium Medium Medium Medium Medium Medium Medium Medium Medium\nQuality of\nservice to\nclients\nHigh High High High High High High High High\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 4 of\nClassification - Internal",
+    "requirement": "Organizations shall identify and define recovery objectives for critical services.",
+    "requirement_description": "This requirement mandates the identification and definition of recovery objectives for critical services to ensure a full recovery of all services provided by the unit.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Recovery Objectives for Critical Services",
+        "control": "Establish a process to identify and define recovery objectives for critical services. This includes identifying the maximum tolerable downtime (MTD) and the recovery time objective (RTO) for each critical service. The recovery objectives should be documented and communicated to relevant stakeholders."
+      },
+      {
+        "priority": "high",
+        "control_title": "Involve Stakeholders in Recovery Objective Definition",
+        "control": "Involve relevant stakeholders, including business owners, IT teams, and end-users, in the definition of recovery objectives for critical services. This ensures that the recovery objectives align with business needs and are achievable."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Review and Update Recovery Objectives Regularly",
+        "control": "Regularly review and update recovery objectives for critical services to ensure they remain relevant and effective. This includes reviewing changes to business needs, technology, and risk profiles."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Recovery Objectives",
+        "control": "Document recovery objectives for critical services in a centralized repository, such as a service catalog or a disaster recovery plan. This ensures that recovery objectives are easily accessible and can be shared with relevant stakeholders."
+      },
+      {
+        "priority": "high",
+        "control_title": "Establish Metrics to Measure Recovery Objectives",
+        "control": "Establish metrics to measure the achievement of recovery objectives for critical services. This includes metrics such as mean time to recover (MTTR), mean time between failures (MTBF), and service level agreements (SLAs)."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Risk Assessment",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "1     Introduction\n \nThe BIBA Cloth Collection Account Business Impact Analysis is undertaken to help, identify the appropriate recovery\nobjectives that provide guidance for defining the appropriate Business Continuity strategy for resumption of critical\nservices during or after a disruption and ensuring a full recovery of all services provided by the unit.\n \n \n2  Summary of Activity Level Recovery Targets \n \n \n3.  Activity Wise Impact Assessment \n  \n3.1. Activity Name: Critical Product Line Impact Analysis\n \n \n   Activity Description: Critical Product Line Impact Analysis \nClient Name BIBA Cloth Collection\nPrimary Site Mumbai-Andheri MIDC-Arena House-\nPlot103,Mumbai,India,51000176\nOther Locations NA\nBusiness Owner Prakash BO--77703\nBackup Business Owner Ascent India--040\nBCM HD Kiran 123--543\nSubject Matter Expert Prakash SME--77702\nBackup Subject Matter Expert Jo SME--2222\nBusiness Continuity Coordinator Dolly Bachle--101008\nBackup Business Continuity Coordinator Arul g--0988\nTotal Headcount 36\nScope [Provide a brief description of the Services that\nare covered under this BIA]\nA formal name for a BIA covering production, supply\nchain, retail operations, and e-commerce for BIBA?s\napparel lines.\nList of all Project codes that are covered under this\nEngagement BIA\nAuto_BCM25\nActivity Name MAO/MTPD RTO RPO MBCO Recovery Priority\nCritical Product\nLine Impact\nAnalysis\n3h 2h 15min 3m 55% R1\nImpact\nCategory\nActivity Impact\n3h 10h 12h 1d 3d 1w 2w 4m 5m\nFinancial\nLoss\nHigh High High High High High High High High\nImpact on\nother\nprocesse\ns\nHigh High High High High High High High High\nLegal\nImpact\nMedium Medium Medium Medium Medium Medium Medium Medium Medium\nQuality of\nservice to\nclients\nHigh High High High High High High High High\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 4 of\nClassification - Internal",
+    "requirement": "Organizations shall conduct a risk assessment to identify potential disruptions and their impact on critical services.",
+    "requirement_description": "This requirement mandates the conduct of a risk assessment to identify potential disruptions and their impact on critical services, ensuring the development of an effective Business Continuity strategy.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Risk Assessment Framework",
+        "control": "Develop a comprehensive risk assessment framework that outlines the process for identifying, assessing, and prioritizing potential disruptions to critical services. This framework should include clear guidelines for risk categorization, assessment criteria, and mitigation strategies."
+      },
+      {
+        "priority": "high",
+        "control_title": "Identify Critical Services and Assets",
+        "control": "Conduct a thorough inventory of critical services and assets that are essential to the organization's operations. This includes identifying key systems, infrastructure, and personnel that are critical to service delivery."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Risk Assessments",
+        "control": "Schedule regular risk assessments to identify potential disruptions and their impact on critical services. These assessments should be conducted at least annually, or as needed, to ensure that the risk assessment framework remains effective and up-to-date."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Engage Stakeholders in Risk Assessment",
+        "control": "Involve relevant stakeholders, including business leaders, IT personnel, and subject matter experts, in the risk assessment process to ensure that all potential disruptions are identified and assessed."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Risk Assessment Findings",
+        "control": "Maintain a record of risk assessment findings, including the results of risk assessments, mitigation strategies, and any changes to the risk assessment framework. This documentation should be accessible to authorized personnel and updated regularly."
+      },
+      {
+        "priority": "high",
+        "control_title": "Develop and Implement Mitigation Strategies",
+        "control": "Develop and implement mitigation strategies to address identified risks and minimize their impact on critical services. This may include implementing backup systems, developing business continuity plans, and providing training to personnel on risk management procedures."
+      }
+    ]
+  },
+  {
+    "requirement_title": "BCM Team Roles and Responsibilities",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "1     Introduction\n \nThe BIBA Cloth Collection Account Business Impact Analysis is undertaken to help, identify the appropriate recovery\nobjectives that provide guidance for defining the appropriate Business Continuity strategy for resumption of critical\nservices during or after a disruption and ensuring a full recovery of all services provided by the unit.\n \n \n2  Summary of Activity Level Recovery Targets \n \n \n3.  Activity Wise Impact Assessment \n  \n3.1. Activity Name: Critical Product Line Impact Analysis\n \n \n   Activity Description: Critical Product Line Impact Analysis \nClient Name BIBA Cloth Collection\nPrimary Site Mumbai-Andheri MIDC-Arena House-\nPlot103,Mumbai,India,51000176\nOther Locations NA\nBusiness Owner Prakash BO--77703\nBackup Business Owner Ascent India--040\nBCM HD Kiran 123--543\nSubject Matter Expert Prakash SME--77702\nBackup Subject Matter Expert Jo SME--2222\nBusiness Continuity Coordinator Dolly Bachle--101008\nBackup Business Continuity Coordinator Arul g--0988\nTotal Headcount 36\nScope [Provide a brief description of the Services that\nare covered under this BIA]\nA formal name for a BIA covering production, supply\nchain, retail operations, and e-commerce for BIBA?s\napparel lines.\nList of all Project codes that are covered under this\nEngagement BIA\nAuto_BCM25\nActivity Name MAO/MTPD RTO RPO MBCO Recovery Priority\nCritical Product\nLine Impact\nAnalysis\n3h 2h 15min 3m 55% R1\nImpact\nCategory\nActivity Impact\n3h 10h 12h 1d 3d 1w 2w 4m 5m\nFinancial\nLoss\nHigh High High High High High High High High\nImpact on\nother\nprocesse\ns\nHigh High High High High High High High High\nLegal\nImpact\nMedium Medium Medium Medium Medium Medium Medium Medium Medium\nQuality of\nservice to\nclients\nHigh High High High High High High High High\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 4 of\nClassification - Internal",
+    "requirement": "Organizations shall define roles and responsibilities for the Business Continuity Management (BCM) team.",
+    "requirement_description": "This requirement mandates the definition of roles and responsibilities for the BCM team to ensure effective management of Business Continuity activities.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Roles and Responsibilities for BCM Team Lead",
+        "control": "The organization shall define a clear role and responsibility for the Business Continuity Management (BCM) team lead. This includes identifying the individual responsible for overseeing the BCM program, ensuring compliance with BCM policies and procedures, and coordinating BCM activities across the organization."
+      },
+      {
+        "priority": "high",
+        "control_title": "Establish Roles and Responsibilities for BCM Team Members",
+        "control": "The organization shall define clear roles and responsibilities for each member of the BCM team. This includes identifying the specific tasks and activities each team member is responsible for, as well as their reporting lines and communication channels."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Roles and Responsibilities",
+        "control": "The organization shall maintain a written document that outlines the roles and responsibilities of the BCM team. This document shall be reviewed and updated regularly to ensure it remains accurate and relevant."
+      },
+      {
+        "priority": "low",
+        "control_title": "Communicate Roles and Responsibilities to Stakeholders",
+        "control": "The organization shall communicate the roles and responsibilities of the BCM team to relevant stakeholders, including employees, customers, and partners. This shall be done through regular updates, training sessions, and other communication channels."
+      },
+      {
+        "priority": "high",
+        "control_title": "Review and Update Roles and Responsibilities Regularly",
+        "control": "The organization shall regularly review and update the roles and responsibilities of the BCM team to ensure they remain relevant and effective. This shall be done at least annually, or as needed in response to changes in the organization or its BCM program."
+      }
+    ]
+  },
+  {
+    "requirement_title": "BCM Team Headcount",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "1     Introduction\n \nThe BIBA Cloth Collection Account Business Impact Analysis is undertaken to help, identify the appropriate recovery\nobjectives that provide guidance for defining the appropriate Business Continuity strategy for resumption of critical\nservices during or after a disruption and ensuring a full recovery of all services provided by the unit.\n \n \n2  Summary of Activity Level Recovery Targets \n \n \n3.  Activity Wise Impact Assessment \n  \n3.1. Activity Name: Critical Product Line Impact Analysis\n \n \n   Activity Description: Critical Product Line Impact Analysis \nClient Name BIBA Cloth Collection\nPrimary Site Mumbai-Andheri MIDC-Arena House-\nPlot103,Mumbai,India,51000176\nOther Locations NA\nBusiness Owner Prakash BO--77703\nBackup Business Owner Ascent India--040\nBCM HD Kiran 123--543\nSubject Matter Expert Prakash SME--77702\nBackup Subject Matter Expert Jo SME--2222\nBusiness Continuity Coordinator Dolly Bachle--101008\nBackup Business Continuity Coordinator Arul g--0988\nTotal Headcount 36\nScope [Provide a brief description of the Services that\nare covered under this BIA]\nA formal name for a BIA covering production, supply\nchain, retail operations, and e-commerce for BIBA?s\napparel lines.\nList of all Project codes that are covered under this\nEngagement BIA\nAuto_BCM25\nActivity Name MAO/MTPD RTO RPO MBCO Recovery Priority\nCritical Product\nLine Impact\nAnalysis\n3h 2h 15min 3m 55% R1\nImpact\nCategory\nActivity Impact\n3h 10h 12h 1d 3d 1w 2w 4m 5m\nFinancial\nLoss\nHigh High High High High High High High High\nImpact on\nother\nprocesse\ns\nHigh High High High High High High High High\nLegal\nImpact\nMedium Medium Medium Medium Medium Medium Medium Medium Medium\nQuality of\nservice to\nclients\nHigh High High High High High High High High\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 4 of\nClassification - Internal",
+    "requirement": "Organizations shall maintain a minimum headcount of 36 for the Business Continuity Management (BCM) team.",
+    "requirement_description": "This requirement mandates the maintenance of a minimum headcount of 36 for the BCM team to ensure effective management of Business Continuity activities.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a BCM Team with a Minimum of 36 Members",
+        "control": "The organization shall establish a Business Continuity Management (BCM) team with a minimum of 36 members, including representatives from all departments and functions. This team shall be responsible for developing, implementing, and maintaining the organization's business continuity plan."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Define Roles and Responsibilities within the BCM Team",
+        "control": "The organization shall define clear roles and responsibilities for each member of the BCM team, including the team lead, departmental representatives, and subject matter experts. This shall ensure that each team member understands their responsibilities and can contribute effectively to the development and implementation of the business continuity plan."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor and Review BCM Team Headcount",
+        "control": "The organization shall regularly monitor and review the headcount of the BCM team to ensure that it meets the minimum requirement of 36 members. This shall involve conducting regular audits and reviews to identify any gaps or deficiencies in the team's composition."
+      },
+      {
+        "priority": "high",
+        "control_title": "Develop a Plan for Maintaining the Minimum BCM Team Headcount",
+        "control": "The organization shall develop a plan for maintaining the minimum headcount of 36 members in the BCM team, including strategies for recruiting and retaining team members, and for addressing any gaps or deficiencies in the team's composition."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Provide Training and Development Opportunities for BCM Team Members",
+        "control": "The organization shall provide regular training and development opportunities for BCM team members to ensure that they have the necessary skills and knowledge to perform their roles effectively. This shall include training on business continuity planning, risk management, and crisis management."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Interdependencies Recovery Priority",
+    "article_number": "4",
+    "priority": "high",
+    "article_text": "4. Interdependencies\n \nRegulator\ny Impact\nLow Low Low Low Low Low Low Low Low\nRevenue\nLoss\nHigh High High High High High High High High\nMAO/MTPD RTO RPO MBCO Recovery Priority\n3h 2h 15min 3m 55% R1\nS.No List of activity\nperformed\nRTO at activity\nlevel Interdependencies Recovery Priority Remarks\n1 Critical Product Line\nImpact Analysis\n2h 15min Not Applicable RP1 Remarks\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 5 of\nClassification - Internal",
+    "requirement": "Recovery Priority shall be set to 55% R1",
+    "requirement_description": "The recovery priority for MAO/MTPD RTO RPO MBCO shall be set to 55% R1",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Recovery Priority Policy",
+        "control": "Establish a policy that defines the recovery priority for critical systems and data, ensuring that 55% of resources are prioritized for R1 (Recovery Time Objective of 1 hour). The policy should be reviewed and updated annually or as needed."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Identify Critical Systems and Data",
+        "control": "Conduct a thorough risk assessment to identify critical systems and data that require R1 recovery priority. This includes systems and data that are essential for business operations, customer satisfaction, and regulatory compliance."
+      },
+      {
+        "priority": "high",
+        "control_title": "Develop Recovery Plans for Critical Systems and Data",
+        "control": "Create detailed recovery plans for critical systems and data that require R1 recovery priority. These plans should include procedures for restoring systems and data, as well as testing and validation of the plans."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Train Staff on Recovery Procedures",
+        "control": "Provide regular training to staff on recovery procedures for critical systems and data. This includes training on the recovery plans, procedures for restoring systems and data, and the importance of timely recovery."
+      },
+      {
+        "priority": "low",
+        "control_title": "Review and Update Recovery Plans",
+        "control": "Regularly review and update recovery plans for critical systems and data to ensure they remain relevant and effective. This includes reviewing changes to systems and data, as well as updates to recovery procedures and technologies."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Identify Enforceable Compliance Requirements",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "Organizations must identify enforceable compliance requirements.",
+    "requirement_description": "Organizations are required to identify and follow only the enforceable compliance requirements.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Compliance Program",
+        "control": "Develop and implement a comprehensive compliance program that includes policies, procedures, and training to ensure adherence to enforceable compliance requirements. This program should be regularly reviewed and updated to reflect changes in laws, regulations, and industry standards."
+      },
+      {
+        "priority": "high",
+        "control_title": "Identify Enforceable Compliance Requirements",
+        "control": "Conduct a thorough review of relevant laws, regulations, industry standards, and contractual obligations to identify enforceable compliance requirements. This includes, but is not limited to, federal, state, and local laws, as well as industry-specific regulations and standards."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Compliance Requirements",
+        "control": "Maintain accurate and up-to-date documentation of identified compliance requirements, including relevant laws, regulations, industry standards, and contractual obligations. This documentation should be easily accessible to relevant personnel and updated regularly to reflect changes in compliance requirements."
+      },
+      {
+        "priority": "low",
+        "control_title": "Conduct Regular Compliance Audits",
+        "control": "Perform regular compliance audits to ensure adherence to identified compliance requirements. These audits should be conducted at least annually and may be more frequent depending on the organization's risk profile and industry requirements."
+      },
+      {
+        "priority": "high",
+        "control_title": "Designate a Compliance Officer",
+        "control": "Appoint a qualified compliance officer responsible for overseeing the organization's compliance program, including identifying and enforcing compliance requirements. This officer should have the necessary authority and resources to ensure effective compliance."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Requirements are Mandatory Obligations",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "Requirements must contain enforcement language like 'shall', 'must', 'will', or 'is required to'.",
+    "requirement_description": "Requirements must include specific language that indicates they are mandatory obligations.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Review Requirements for Enforcement Language",
+        "control": "Review all requirements to ensure they contain enforcement language like 'shall', 'must', 'will', or 'is required to'. This includes reviewing all text, tables, and figures to ensure compliance with this requirement."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Verify Requirements Are Complete and Accurate",
+        "control": "Verify that all requirements are complete, accurate, and unambiguous. This includes ensuring that all requirements are properly formatted and free of errors."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain Requirements Documentation",
+        "control": "Maintain a record of all requirements, including any changes or updates. This includes storing requirements in a secure and accessible location, such as a requirements management tool or a version control system."
+      },
+      {
+        "priority": "high",
+        "control_title": "Conduct Regular Requirements Audits",
+        "control": "Conduct regular audits of requirements to ensure they continue to meet the enforcement language requirement. This includes reviewing requirements against the enforcement language and identifying any areas for improvement."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Train Requirements Authors on Enforcement Language",
+        "control": "Train all requirements authors on the importance of using enforcement language like 'shall', 'must', 'will', or 'is required to'. This includes providing guidance on how to properly use enforcement language and ensuring that all authors understand its importance."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Do Not Include Act Titles, Names, or Introductory Statements",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "Act titles, names, and introductory statements must not be included.",
+    "requirement_description": "Act titles, names, and introductory statements are not allowed in the requirements.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Remove Act Titles from Text",
+        "control": "Implement a text processing function that removes act titles from the text. This can be achieved by using regular expressions to identify and replace act titles with an empty string."
+      },
+      {
+        "priority": "high",
+        "control_title": "Remove Names from Text",
+        "control": "Implement a text processing function that removes names from the text. This can be achieved by using regular expressions to identify and replace names with an empty string."
+      },
+      {
+        "priority": "high",
+        "control_title": "Remove Introductory Statements from Text",
+        "control": "Implement a text processing function that removes introductory statements from the text. This can be achieved by using regular expressions to identify and replace introductory statements with an empty string."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Configure Text Processing Function",
+        "control": "Configure the text processing function to handle different types of act titles, names, and introductory statements. This can be achieved by using a dictionary or a database to store the patterns to be removed."
+      },
+      {
+        "priority": "low",
+        "control_title": "Test Text Processing Function",
+        "control": "Test the text processing function with sample data to ensure it is working correctly and removing the required information."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Do Not Include Section Headers, Chapter Titles, or Numbering",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "Section headers, chapter titles, and numbering must not be included.",
+    "requirement_description": "Section headers, chapter titles, and numbering are not allowed in the requirements.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Remove Section Headers",
+        "control": "Remove all section headers from the document to ensure compliance. This includes headers such as 'Introduction', 'Methodology', and 'Conclusion'."
+      },
+      {
+        "priority": "high",
+        "control_title": "Remove Chapter Titles",
+        "control": "Remove all chapter titles from the document to ensure compliance. This includes titles such as 'Chapter 1: Introduction' and 'Chapter 2: Literature Review'."
+      },
+      {
+        "priority": "high",
+        "control_title": "Remove Numbering",
+        "control": "Remove all numbering from the document, including headings, paragraphs, and lists. This will ensure that the document does not include any section or chapter numbers."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Review Document Structure",
+        "control": "Review the document structure to ensure that it is clear and concise, and that the content is organized in a logical manner. This will help to minimize the need for section headers and chapter titles."
+      },
+      {
+        "priority": "low",
+        "control_title": "Train Authors on Compliance",
+        "control": "Train authors on the compliance requirements and provide guidance on how to remove section headers, chapter titles, and numbering from the document."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Do Not Include Definitions or Explanatory Text Without Enforcement Language",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "Definitions and explanatory text without enforcement language must not be included.",
+    "requirement_description": "Definitions and explanatory text without enforcement language are not allowed in the requirements.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Remove Definitions and Explanatory Text",
+        "control": "Remove all definitions and explanatory text from the compliance requirement document to ensure that only enforceable language remains. This includes removing any text that begins with 'shall', 'must', 'should', or 'may' unless it is part of a specific requirement."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Review and Edit Compliance Requirement Document",
+        "control": "Review the compliance requirement document to identify and remove any definitions and explanatory text. Edit the document to ensure that only enforceable language remains and that the language is clear and concise."
+      },
+      {
+        "priority": "low",
+        "control_title": "Establish a Review Process",
+        "control": "Establish a review process to ensure that compliance requirement documents are reviewed regularly for definitions and explanatory text. This process should include a checklist or other tool to help reviewers identify and remove non-enforceable language."
+      },
+      {
+        "priority": "high",
+        "control_title": "Train Personnel on Compliance Requirement Document Review",
+        "control": "Train personnel on the importance of reviewing compliance requirement documents for definitions and explanatory text. Provide training on how to identify and remove non-enforceable language and how to use the review process checklist or other tool."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Do Not Include Historical Context or Procedural Descriptions",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "Historical context and procedural descriptions must not be included.",
+    "requirement_description": "Historical context and procedural descriptions are not allowed in the requirements.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Remove Historical Context from Content",
+        "control": "Ensure that all content, including documents, emails, and chat logs, is reviewed and edited to remove any historical context or procedural descriptions that are not relevant to the current task or decision."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Content Filtering",
+        "control": "Implement content filtering tools or plugins to automatically detect and remove historical context or procedural descriptions from content before it is shared or stored."
+      },
+      {
+        "priority": "low",
+        "control_title": "Train Staff on Content Editing",
+        "control": "Provide regular training to staff on how to edit and review content to remove historical context or procedural descriptions, and ensure that they understand the importance of this control."
+      },
+      {
+        "priority": "high",
+        "control_title": "Automate Content Review",
+        "control": "Implement automated content review tools that can detect and remove historical context or procedural descriptions from content in real-time, reducing the risk of human error."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish Content Review Procedures",
+        "control": "Establish clear procedures for reviewing and editing content to remove historical context or procedural descriptions, including guidelines for what to look for and how to handle exceptions."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Do Not Include Permissions, Allowances, or Discretionary Language",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "Permissions, allowances, and discretionary language must not be included.",
+    "requirement_description": "Permissions, allowances, and discretionary language are not allowed in the requirements.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Review Code for Permissions and Allowances",
+        "control": "Regularly review code for any permissions, allowances, or discretionary language. This includes checking for any direct or indirect references to sensitive data or system resources. Use static code analysis tools to identify potential issues and address them promptly."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement Access Control Lists (ACLs)",
+        "control": "Implement Access Control Lists (ACLs) to restrict access to sensitive data and system resources. Ensure that ACLs are properly configured and regularly reviewed to prevent unauthorized access."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Use Least Privilege Principle",
+        "control": "Implement the least privilege principle to ensure that users and applications only have the necessary permissions and access to perform their tasks. This includes using role-based access control and minimizing the use of privileged accounts."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor System Logs for Suspicious Activity",
+        "control": "Regularly monitor system logs for suspicious activity, including attempts to access sensitive data or system resources without proper authorization. This will help identify potential security issues and prevent unauthorized access."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Use Secure Coding Practices",
+        "control": "Use secure coding practices to prevent the inclusion of permissions, allowances, and discretionary language in code. This includes using secure coding guidelines, code reviews, and testing to identify and address potential security issues."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Do Not Include General Principles Without Specific Mandates",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "General principles without specific mandates must not be included.",
+    "requirement_description": "General principles without specific mandates are not allowed in the requirements.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Specific Compliance Requirements",
+        "control": "Establish clear and specific compliance requirements that are directly related to the organization's goals and objectives. This includes identifying and documenting all relevant laws, regulations, and standards that apply to the organization."
+      },
+      {
+        "priority": "high",
+        "control_title": "Map Compliance Requirements to Business Processes",
+        "control": "Identify and map compliance requirements to specific business processes and systems to ensure that compliance is integrated into the organization's operations. This includes identifying key controls and procedures that support compliance."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Compliance Risk Assessments",
+        "control": "Conduct regular compliance risk assessments to identify and assess potential compliance risks and vulnerabilities. This includes identifying areas where compliance requirements may be unclear or ambiguous."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain a Compliance Calendar",
+        "control": "Maintain a compliance calendar to track and manage compliance deadlines and requirements. This includes identifying key compliance dates and milestones."
+      },
+      {
+        "priority": "high",
+        "control_title": "Establish a Compliance Governance Structure",
+        "control": "Establish a compliance governance structure that includes clear roles and responsibilities for compliance management. This includes identifying a compliance officer or team and establishing a compliance committee."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Provide Compliance Training and Awareness",
+        "control": "Provide regular compliance training and awareness programs to ensure that employees understand their compliance responsibilities and obligations. This includes identifying key compliance topics and providing training on compliance procedures and policies."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Examples of Enforceable Requirements",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "Organizations shall implement access controls.",
+    "requirement_description": "Organizations are required to implement access controls.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Role-Based Access Control (RBAC)",
+        "control": "Assign users to roles and restrict access to resources based on their role. This ensures that users only have access to the resources they need to perform their job functions."
+      },
+      {
+        "priority": "high",
+        "control_title": "Use Strong Authentication and Authorization",
+        "control": "Implement strong authentication and authorization mechanisms, such as multi-factor authentication, to ensure that only authorized users can access the system."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Limit User Privileges",
+        "control": "Limit user privileges to the minimum required to perform their job functions. This reduces the risk of unauthorized access and data breaches."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Access Control Lists (ACLs)",
+        "control": "Use ACLs to restrict access to resources based on user identity, group membership, or other attributes. This ensures that users can only access the resources they are authorized to access."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor and Log Access Attempts",
+        "control": "Monitor and log access attempts to detect and respond to potential security incidents. This helps to identify and address security vulnerabilities in a timely manner."
+      },
+      {
+        "priority": "low",
+        "control_title": "Regularly Review and Update Access Controls",
+        "control": "Regularly review and update access controls to ensure they remain effective and aligned with changing business needs. This helps to prevent access creep and ensures that access controls remain relevant."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Examples to Exclude",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Appendix\n \n \n  Acronyms \n \nAcronyms Full Form\nBCM Business Continuity Management\nBCP Business Continuity Plan\nBIA Business Impact Analysis\nMAO Maximum Acceptable Outage\nMBCO Minimum Business Continuity Objective\nMTPD Maximum Tolerable Period of Disruption\nRTO Recovery Time Objective\nRPO Recovery Point Objective\n   BUSINESS IMPACT ANALYSIS  DOC NO: BCM_BIA_485\n VER NO: 1.0\n6\nwww.hcltech.com Page 6 of\nClassification - Internal",
+    "requirement": "The Act may not be called.",
+    "requirement_description": "The Act must not be called.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Prohibit Use of the Act's Name",
+        "control": "Ensure that all references to the Act are removed from the organization's documentation, code, and systems. Implement a search and replace function to identify and replace the Act's name with a neutral term."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Review and Update Documentation",
+        "control": "Conduct a thorough review of all documentation, including policies, procedures, and user manuals, to ensure that the Act's name is not mentioned. Update any affected documentation to reflect the new naming convention."
+      },
+      {
+        "priority": "low",
+        "control_title": "Monitor System Updates",
+        "control": "Regularly monitor system updates and patches to ensure that they do not reintroduce the Act's name. Implement a process to review and test system updates before deploying them to production."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement Access Controls",
+        "control": "Implement access controls to restrict access to systems and data that contain references to the Act's name. Ensure that only authorized personnel have access to these systems and data."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Audits",
+        "control": "Conduct regular audits to ensure that the organization is in compliance with the requirement. The audits should include a review of documentation, systems, and data to ensure that the Act's name is not mentioned."
+      }
+    ]
+  }
+]

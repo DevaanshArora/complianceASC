@@ -1,0 +1,924 @@
+[
+  {
+    "requirement_title": "Short Title and Commencement",
+    "article_number": "section_1",
+    "priority": "high",
+    "article_text": "THE DIGITAL PERSONAL DATA PROTECTION ACT, 2023\n(NO. 22 OF 2023)\n[11th August, 2023.]\nAn Act to provide for the processing of digital personal data in a manner that\nrecognises both the right of individuals to protect their personal data and the\nneed to process such personal data for lawful purposes and for matters\nconnected therewith or incidental thereto.\nBE it enacted by Parliament in the Seventy-fourth Year of the Republic of India as\nfollows:––\nCHAPTER I\nPRELIMINARY\n1. (1) This Act may be called the Digital Personal Data Protection Act, 2023.\n(2)  It shall come into force on such date as the Central Government may, by notification\nin the Official Gazette, appoint and different dates may be appointed for different provisions\nof this Act and any reference in any such provision to the commencement of this Act shall\nbe construed as a reference to the coming into force of that provision.\nShort title and\ncommencement.\nvlk/kkj.k\nEXTRAORDINARY\nHkkx  II — [k.M 1\nPART II — Section 1\nizkf/kdkj ls izdkf'kr\nPUBLISHED  BY  AUTHORITY\nlañ   25] ubZ fnYyh] 'kqØokj] vxLr 11] 2023@Jko.k 20] 1945 ¼'kd½\nNo. 25] NEW DELHI, FRIDAY, AUGUST 11, 2023/SRAV ANA 20, 1945 (SAKA)\nbl Hkkx esa fHkUu i`\"B la[;k nh tkrh gS ftlls fd ;g vyx ladyu ds :i esa j[kk tk ldsA\nSeparate paging is given to this Part in order that it may be filed as a separate compilation.\nxxxGIDHxxx\nxxxGIDExxx\njftLVªh lañ Mhñ ,yñ —( ,u)04@0007@2003— 23 REGISTERED NO. DL—(N)04/0007/2003—23\nMINISTRY OF LA W AND JUSTICE\n(Legislative Department)\nNew Delhi, the 11th August, 2023/ Sravana 20, 1945  (Saka)\nThe following Act of Parliament received the assent of the President on the\n11th August, 2023 and is hereby published for general information:—\nसी.जी.-डी.एल.-अ.-12082023-248045\nCG-DL-E-12082023-248045",
+    "requirement": "This Act shall be called the Digital Personal Data Protection Act, 2023.",
+    "requirement_description": "The Act shall be officially known as the Digital Personal Data Protection Act, 2023.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Data Protection Policy",
+        "control": "Establish a comprehensive data protection policy that outlines the organization's commitment to protecting personal data, data collection and usage practices, and procedures for handling data breaches."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Classification",
+        "control": "Classify personal data into different categories based on sensitivity and risk, and implement appropriate controls to protect each category, such as encryption, access controls, and data retention policies."
+      },
+      {
+        "priority": "high",
+        "control_title": "Consent Management",
+        "control": "Implement a consent management system that allows individuals to provide informed consent for the collection, use, and disclosure of their personal data, and ensure that consent is obtained prior to collecting sensitive data."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Minimization",
+        "control": "Collect and process only the minimum amount of personal data necessary to achieve the specified purpose, and ensure that data is not collected or stored for longer than necessary."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Access Controls",
+        "control": "Implement access controls to ensure that only authorized personnel can access personal data, and that access is granted based on job function and need-to-know principles."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Retention and Disposal",
+        "control": "Establish data retention and disposal policies that outline the procedures for storing, archiving, and disposing of personal data, and ensure that data is deleted or anonymized when no longer needed."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Data Breach Notification",
+        "control": "Establish a data breach notification procedure that requires prompt notification to affected individuals and regulatory authorities in the event of a data breach, and ensure that notifications are made in a timely and transparent manner."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Data Subject Rights",
+        "control": "Establish procedures for handling data subject rights requests, such as access, correction, and erasure, and ensure that requests are processed in a timely and transparent manner."
+      },
+      {
+        "priority": "low",
+        "control_title": "Data Protection Training",
+        "control": "Provide regular data protection training to employees and contractors to ensure that they understand the organization's data protection policies and procedures, and are aware of their roles and responsibilities in protecting personal data."
+      },
+      {
+        "priority": "low",
+        "control_title": "Data Protection Awareness",
+        "control": "Promote data protection awareness among employees, customers, and partners through various channels, such as posters, emails, and social media, to ensure that everyone understands the importance of protecting personal data."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Commencement",
+    "article_number": "section_1",
+    "priority": "high",
+    "article_text": "THE DIGITAL PERSONAL DATA PROTECTION ACT, 2023\n(NO. 22 OF 2023)\n[11th August, 2023.]\nAn Act to provide for the processing of digital personal data in a manner that\nrecognises both the right of individuals to protect their personal data and the\nneed to process such personal data for lawful purposes and for matters\nconnected therewith or incidental thereto.\nBE it enacted by Parliament in the Seventy-fourth Year of the Republic of India as\nfollows:––\nCHAPTER I\nPRELIMINARY\n1. (1) This Act may be called the Digital Personal Data Protection Act, 2023.\n(2)  It shall come into force on such date as the Central Government may, by notification\nin the Official Gazette, appoint and different dates may be appointed for different provisions\nof this Act and any reference in any such provision to the commencement of this Act shall\nbe construed as a reference to the coming into force of that provision.\nShort title and\ncommencement.\nvlk/kkj.k\nEXTRAORDINARY\nHkkx  II — [k.M 1\nPART II — Section 1\nizkf/kdkj ls izdkf'kr\nPUBLISHED  BY  AUTHORITY\nlañ   25] ubZ fnYyh] 'kqØokj] vxLr 11] 2023@Jko.k 20] 1945 ¼'kd½\nNo. 25] NEW DELHI, FRIDAY, AUGUST 11, 2023/SRAV ANA 20, 1945 (SAKA)\nbl Hkkx esa fHkUu i`\"B la[;k nh tkrh gS ftlls fd ;g vyx ladyu ds :i esa j[kk tk ldsA\nSeparate paging is given to this Part in order that it may be filed as a separate compilation.\nxxxGIDHxxx\nxxxGIDExxx\njftLVªh lañ Mhñ ,yñ —( ,u)04@0007@2003— 23 REGISTERED NO. DL—(N)04/0007/2003—23\nMINISTRY OF LA W AND JUSTICE\n(Legislative Department)\nNew Delhi, the 11th August, 2023/ Sravana 20, 1945  (Saka)\nThe following Act of Parliament received the assent of the President on the\n11th August, 2023 and is hereby published for general information:—\nसी.जी.-डी.एल.-अ.-12082023-248045\nCG-DL-E-12082023-248045",
+    "requirement": "The Act shall come into force on a date appointed by the Central Government.",
+    "requirement_description": "The Act will become effective on a date specified by the Central Government, which may vary for different provisions.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Establishment of the Data Protection Board of India",
+    "article_number": "section_2",
+    "priority": "high",
+    "article_text": "2 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n2. In this Act, unless the context otherwise requires,—\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and  Appellate\nTribunal established under section 14 of the Telecom Regulatory Authority of India\nAct, 1997;\n(b) “automated” means any digital process capable of operating automatically\nin response to instructions given or otherwise for the purpose of processing data;\n(c) “Board” means the Data Protection Board of India established by the Central\nGovernment under section 18;\n(d) “certain legitimate uses” means the uses referred to in section 7;\n(e) “Chairperson” means the Chairperson of the Board;\n(f) “child” means an individual who has not completed the age of eighteen\nyears;\n(g) “Consent Manager” means a person registered with the Board, who acts as\na single point of contact to enable a Data Principal to give, manage, review and\nwithdraw her consent through an accessible, transparent and interoperable platform;\n(h) “data” means a representation of information, facts, concepts, opinions or\ninstructions in a manner suitable for communication, interpretation or processing by\nhuman beings or by automated means;\n(i) “Data Fiduciary” means any person who alone or in conjunction with other\npersons determines the purpose and means of processing of personal data;\n(j) “Data Principal” means the individual to whom the personal data relates and\nwhere such individual is—\n(i) a child, includes the parents or lawful guardian of such a child;\n(ii) a person with disability, includes her lawful guardian, acting on her\nbehalf;\n(k) “Data Processor” means any person who processes personal data on behalf\nof a Data Fiduciary;\n(l) “Data Protection Officer” means an individual appointed by the Significant\nData Fiduciary under clause (a) of sub-section (2) of section 10;\n(m) “digital office” means an office that adopts an online mechanism wherein\nthe proceedings, from receipt of intimation or complaint or reference or directions or\nappeal, as the case may be, to the disposal thereof, are conducted in online or digital\nmode;\n(n) “digital personal data” means personal data in digital form;\n(o) “gain” means—\n(i) a gain in property or supply of services, whether temporary or\npermanent; or\n(ii) an opportunity to earn remuneration or greater remuneration or to\ngain a financial advantage otherwise than by way of legitimate remuneration;\n(p) “loss” means—\n(i) a loss in property or interruption in supply of services, whether\ntemporary or permanent; or\n(ii) a loss of opportunity to earn remuneration or greater remuneration or\nto gain a financial advantage otherwise than by way of legitimate remuneration;\nDefinitions.\n24 of 1997.",
+    "requirement": "The Central Government shall establish the Data Protection Board of India under section 18.",
+    "requirement_description": "The Central Government is required to establish the Data Protection Board of India, which is a critical component of the data protection framework.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Appointment of a Data Protection Officer",
+    "article_number": "section_2",
+    "priority": "high",
+    "article_text": "2 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n2. In this Act, unless the context otherwise requires,—\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and  Appellate\nTribunal established under section 14 of the Telecom Regulatory Authority of India\nAct, 1997;\n(b) “automated” means any digital process capable of operating automatically\nin response to instructions given or otherwise for the purpose of processing data;\n(c) “Board” means the Data Protection Board of India established by the Central\nGovernment under section 18;\n(d) “certain legitimate uses” means the uses referred to in section 7;\n(e) “Chairperson” means the Chairperson of the Board;\n(f) “child” means an individual who has not completed the age of eighteen\nyears;\n(g) “Consent Manager” means a person registered with the Board, who acts as\na single point of contact to enable a Data Principal to give, manage, review and\nwithdraw her consent through an accessible, transparent and interoperable platform;\n(h) “data” means a representation of information, facts, concepts, opinions or\ninstructions in a manner suitable for communication, interpretation or processing by\nhuman beings or by automated means;\n(i) “Data Fiduciary” means any person who alone or in conjunction with other\npersons determines the purpose and means of processing of personal data;\n(j) “Data Principal” means the individual to whom the personal data relates and\nwhere such individual is—\n(i) a child, includes the parents or lawful guardian of such a child;\n(ii) a person with disability, includes her lawful guardian, acting on her\nbehalf;\n(k) “Data Processor” means any person who processes personal data on behalf\nof a Data Fiduciary;\n(l) “Data Protection Officer” means an individual appointed by the Significant\nData Fiduciary under clause (a) of sub-section (2) of section 10;\n(m) “digital office” means an office that adopts an online mechanism wherein\nthe proceedings, from receipt of intimation or complaint or reference or directions or\nappeal, as the case may be, to the disposal thereof, are conducted in online or digital\nmode;\n(n) “digital personal data” means personal data in digital form;\n(o) “gain” means—\n(i) a gain in property or supply of services, whether temporary or\npermanent; or\n(ii) an opportunity to earn remuneration or greater remuneration or to\ngain a financial advantage otherwise than by way of legitimate remuneration;\n(p) “loss” means—\n(i) a loss in property or interruption in supply of services, whether\ntemporary or permanent; or\n(ii) a loss of opportunity to earn remuneration or greater remuneration or\nto gain a financial advantage otherwise than by way of legitimate remuneration;\nDefinitions.\n24 of 1997.",
+    "requirement": "A Significant Data Fiduciary shall appoint a Data Protection Officer under section 10.",
+    "requirement_description": "A Significant Data Fiduciary is required to appoint a Data Protection Officer, who will be responsible for ensuring compliance with data protection regulations.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Appoint a Data Protection Officer",
+        "control": "The Significant Data Fiduciary shall appoint a Data Protection Officer (DPO) who is responsible for overseeing the organization's data protection practices and ensuring compliance with relevant data protection laws and regulations. The DPO shall be a senior-level employee with expertise in data protection and shall report directly to the highest level of management."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Define the DPO's Responsibilities",
+        "control": "The Significant Data Fiduciary shall define the DPO's responsibilities, including but not limited to, data protection risk assessment, data subject rights management, data breach notification, and compliance with data protection laws and regulations. The DPO's responsibilities shall be documented in a written policy and communicated to all employees."
+      },
+      {
+        "priority": "high",
+        "control_title": "Ensure the DPO's Independence",
+        "control": "The Significant Data Fiduciary shall ensure that the DPO operates independently and without undue influence from other departments or management. The DPO shall have unfettered access to all data and systems, and shall be able to report directly to the highest level of management without fear of retribution or reprisal."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Provide Training and Resources",
+        "control": "The Significant Data Fiduciary shall provide the DPO with the necessary training, resources, and budget to perform their duties effectively. This includes but is not limited to, training on data protection laws and regulations, access to data protection tools and technologies, and participation in industry conferences and events."
+      },
+      {
+        "priority": "low",
+        "control_title": "Review and Update the DPO's Role",
+        "control": "The Significant Data Fiduciary shall review and update the DPO's role and responsibilities on a regular basis to ensure that they remain effective and relevant. This includes but is not limited to, reviewing the DPO's performance, updating the DPO's job description, and providing additional training and resources as needed."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Registration with the Board for Consent Managers",
+    "article_number": "section_2",
+    "priority": "high",
+    "article_text": "2 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n2. In this Act, unless the context otherwise requires,—\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and  Appellate\nTribunal established under section 14 of the Telecom Regulatory Authority of India\nAct, 1997;\n(b) “automated” means any digital process capable of operating automatically\nin response to instructions given or otherwise for the purpose of processing data;\n(c) “Board” means the Data Protection Board of India established by the Central\nGovernment under section 18;\n(d) “certain legitimate uses” means the uses referred to in section 7;\n(e) “Chairperson” means the Chairperson of the Board;\n(f) “child” means an individual who has not completed the age of eighteen\nyears;\n(g) “Consent Manager” means a person registered with the Board, who acts as\na single point of contact to enable a Data Principal to give, manage, review and\nwithdraw her consent through an accessible, transparent and interoperable platform;\n(h) “data” means a representation of information, facts, concepts, opinions or\ninstructions in a manner suitable for communication, interpretation or processing by\nhuman beings or by automated means;\n(i) “Data Fiduciary” means any person who alone or in conjunction with other\npersons determines the purpose and means of processing of personal data;\n(j) “Data Principal” means the individual to whom the personal data relates and\nwhere such individual is—\n(i) a child, includes the parents or lawful guardian of such a child;\n(ii) a person with disability, includes her lawful guardian, acting on her\nbehalf;\n(k) “Data Processor” means any person who processes personal data on behalf\nof a Data Fiduciary;\n(l) “Data Protection Officer” means an individual appointed by the Significant\nData Fiduciary under clause (a) of sub-section (2) of section 10;\n(m) “digital office” means an office that adopts an online mechanism wherein\nthe proceedings, from receipt of intimation or complaint or reference or directions or\nappeal, as the case may be, to the disposal thereof, are conducted in online or digital\nmode;\n(n) “digital personal data” means personal data in digital form;\n(o) “gain” means—\n(i) a gain in property or supply of services, whether temporary or\npermanent; or\n(ii) an opportunity to earn remuneration or greater remuneration or to\ngain a financial advantage otherwise than by way of legitimate remuneration;\n(p) “loss” means—\n(i) a loss in property or interruption in supply of services, whether\ntemporary or permanent; or\n(ii) a loss of opportunity to earn remuneration or greater remuneration or\nto gain a financial advantage otherwise than by way of legitimate remuneration;\nDefinitions.\n24 of 1997.",
+    "requirement": "A Consent Manager shall register with the Board.",
+    "requirement_description": "A Consent Manager is required to register with the Board, which will enable them to act as a single point of contact for Data Principals to manage their consent.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Digital Office for Proceedings",
+    "article_number": "section_2",
+    "priority": "medium",
+    "article_text": "2 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n2. In this Act, unless the context otherwise requires,—\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and  Appellate\nTribunal established under section 14 of the Telecom Regulatory Authority of India\nAct, 1997;\n(b) “automated” means any digital process capable of operating automatically\nin response to instructions given or otherwise for the purpose of processing data;\n(c) “Board” means the Data Protection Board of India established by the Central\nGovernment under section 18;\n(d) “certain legitimate uses” means the uses referred to in section 7;\n(e) “Chairperson” means the Chairperson of the Board;\n(f) “child” means an individual who has not completed the age of eighteen\nyears;\n(g) “Consent Manager” means a person registered with the Board, who acts as\na single point of contact to enable a Data Principal to give, manage, review and\nwithdraw her consent through an accessible, transparent and interoperable platform;\n(h) “data” means a representation of information, facts, concepts, opinions or\ninstructions in a manner suitable for communication, interpretation or processing by\nhuman beings or by automated means;\n(i) “Data Fiduciary” means any person who alone or in conjunction with other\npersons determines the purpose and means of processing of personal data;\n(j) “Data Principal” means the individual to whom the personal data relates and\nwhere such individual is—\n(i) a child, includes the parents or lawful guardian of such a child;\n(ii) a person with disability, includes her lawful guardian, acting on her\nbehalf;\n(k) “Data Processor” means any person who processes personal data on behalf\nof a Data Fiduciary;\n(l) “Data Protection Officer” means an individual appointed by the Significant\nData Fiduciary under clause (a) of sub-section (2) of section 10;\n(m) “digital office” means an office that adopts an online mechanism wherein\nthe proceedings, from receipt of intimation or complaint or reference or directions or\nappeal, as the case may be, to the disposal thereof, are conducted in online or digital\nmode;\n(n) “digital personal data” means personal data in digital form;\n(o) “gain” means—\n(i) a gain in property or supply of services, whether temporary or\npermanent; or\n(ii) an opportunity to earn remuneration or greater remuneration or to\ngain a financial advantage otherwise than by way of legitimate remuneration;\n(p) “loss” means—\n(i) a loss in property or interruption in supply of services, whether\ntemporary or permanent; or\n(ii) a loss of opportunity to earn remuneration or greater remuneration or\nto gain a financial advantage otherwise than by way of legitimate remuneration;\nDefinitions.\n24 of 1997.",
+    "requirement": "A digital office shall adopt an online mechanism for conducting proceedings.",
+    "requirement_description": "A digital office is required to adopt an online mechanism for conducting proceedings, which will facilitate efficient and transparent processing of cases.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Processing of Personal Data in Digital Form",
+    "article_number": "section_2",
+    "priority": "high",
+    "article_text": "2 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n2. In this Act, unless the context otherwise requires,—\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and  Appellate\nTribunal established under section 14 of the Telecom Regulatory Authority of India\nAct, 1997;\n(b) “automated” means any digital process capable of operating automatically\nin response to instructions given or otherwise for the purpose of processing data;\n(c) “Board” means the Data Protection Board of India established by the Central\nGovernment under section 18;\n(d) “certain legitimate uses” means the uses referred to in section 7;\n(e) “Chairperson” means the Chairperson of the Board;\n(f) “child” means an individual who has not completed the age of eighteen\nyears;\n(g) “Consent Manager” means a person registered with the Board, who acts as\na single point of contact to enable a Data Principal to give, manage, review and\nwithdraw her consent through an accessible, transparent and interoperable platform;\n(h) “data” means a representation of information, facts, concepts, opinions or\ninstructions in a manner suitable for communication, interpretation or processing by\nhuman beings or by automated means;\n(i) “Data Fiduciary” means any person who alone or in conjunction with other\npersons determines the purpose and means of processing of personal data;\n(j) “Data Principal” means the individual to whom the personal data relates and\nwhere such individual is—\n(i) a child, includes the parents or lawful guardian of such a child;\n(ii) a person with disability, includes her lawful guardian, acting on her\nbehalf;\n(k) “Data Processor” means any person who processes personal data on behalf\nof a Data Fiduciary;\n(l) “Data Protection Officer” means an individual appointed by the Significant\nData Fiduciary under clause (a) of sub-section (2) of section 10;\n(m) “digital office” means an office that adopts an online mechanism wherein\nthe proceedings, from receipt of intimation or complaint or reference or directions or\nappeal, as the case may be, to the disposal thereof, are conducted in online or digital\nmode;\n(n) “digital personal data” means personal data in digital form;\n(o) “gain” means—\n(i) a gain in property or supply of services, whether temporary or\npermanent; or\n(ii) an opportunity to earn remuneration or greater remuneration or to\ngain a financial advantage otherwise than by way of legitimate remuneration;\n(p) “loss” means—\n(i) a loss in property or interruption in supply of services, whether\ntemporary or permanent; or\n(ii) a loss of opportunity to earn remuneration or greater remuneration or\nto gain a financial advantage otherwise than by way of legitimate remuneration;\nDefinitions.\n24 of 1997.",
+    "requirement": "Personal data shall be processed in digital form.",
+    "requirement_description": "Personal data must be processed in digital form, which will ensure that it is easily accessible and manageable.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Digital Data Storage Systems",
+        "control": "Implement digital data storage systems that are designed to handle and process personal data securely, such as encrypted databases or cloud storage services. Ensure that these systems are regularly updated and patched to prevent vulnerabilities."
+      },
+      {
+        "priority": "high",
+        "control_title": "Use Secure Data Transfer Protocols",
+        "control": "Use secure data transfer protocols, such as HTTPS or SFTP, to transfer personal data between systems or to external parties. Ensure that these protocols are configured to encrypt data in transit."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Data Backups",
+        "control": "Conduct regular backups of personal data to prevent data loss in case of system failures or cyber attacks. Ensure that backups are stored securely and can be restored quickly in case of a disaster."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Data Processing Activities",
+        "control": "Document all data processing activities, including the types of data processed, the systems used, and the personnel involved. Ensure that these documents are up-to-date and easily accessible."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement Access Controls and Authentication",
+        "control": "Implement access controls and authentication mechanisms to ensure that only authorized personnel can access and process personal data. Ensure that these controls are regularly reviewed and updated to prevent unauthorized access."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Automated Processing of Data",
+    "article_number": "section_2",
+    "priority": "high",
+    "article_text": "2 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n2. In this Act, unless the context otherwise requires,—\n(a) “Appellate Tribunal” means the Telecom Disputes Settlement and  Appellate\nTribunal established under section 14 of the Telecom Regulatory Authority of India\nAct, 1997;\n(b) “automated” means any digital process capable of operating automatically\nin response to instructions given or otherwise for the purpose of processing data;\n(c) “Board” means the Data Protection Board of India established by the Central\nGovernment under section 18;\n(d) “certain legitimate uses” means the uses referred to in section 7;\n(e) “Chairperson” means the Chairperson of the Board;\n(f) “child” means an individual who has not completed the age of eighteen\nyears;\n(g) “Consent Manager” means a person registered with the Board, who acts as\na single point of contact to enable a Data Principal to give, manage, review and\nwithdraw her consent through an accessible, transparent and interoperable platform;\n(h) “data” means a representation of information, facts, concepts, opinions or\ninstructions in a manner suitable for communication, interpretation or processing by\nhuman beings or by automated means;\n(i) “Data Fiduciary” means any person who alone or in conjunction with other\npersons determines the purpose and means of processing of personal data;\n(j) “Data Principal” means the individual to whom the personal data relates and\nwhere such individual is—\n(i) a child, includes the parents or lawful guardian of such a child;\n(ii) a person with disability, includes her lawful guardian, acting on her\nbehalf;\n(k) “Data Processor” means any person who processes personal data on behalf\nof a Data Fiduciary;\n(l) “Data Protection Officer” means an individual appointed by the Significant\nData Fiduciary under clause (a) of sub-section (2) of section 10;\n(m) “digital office” means an office that adopts an online mechanism wherein\nthe proceedings, from receipt of intimation or complaint or reference or directions or\nappeal, as the case may be, to the disposal thereof, are conducted in online or digital\nmode;\n(n) “digital personal data” means personal data in digital form;\n(o) “gain” means—\n(i) a gain in property or supply of services, whether temporary or\npermanent; or\n(ii) an opportunity to earn remuneration or greater remuneration or to\ngain a financial advantage otherwise than by way of legitimate remuneration;\n(p) “loss” means—\n(i) a loss in property or interruption in supply of services, whether\ntemporary or permanent; or\n(ii) a loss of opportunity to earn remuneration or greater remuneration or\nto gain a financial advantage otherwise than by way of legitimate remuneration;\nDefinitions.\n24 of 1997.",
+    "requirement": "Data shall be processed using automated means.",
+    "requirement_description": "Data must be processed using automated means, which will enable efficient and accurate processing.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Automated Data Processing Policy",
+        "control": "Establish a policy that outlines the use of automated means for data processing, including the types of data that can be processed, the systems and tools used, and the personnel responsible for implementing and maintaining the policy."
+      },
+      {
+        "priority": "high",
+        "control_title": "Automated Data Processing System Design and Implementation",
+        "control": "Design and implement automated data processing systems that are secure, reliable, and scalable, and that meet the organization's data processing requirements. This includes ensuring that systems are properly configured, tested, and validated before deployment."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Automated Data Processing System Maintenance and Updates",
+        "control": "Regularly maintain and update automated data processing systems to ensure they remain secure, reliable, and scalable. This includes applying security patches, updating software, and performing regular backups."
+      },
+      {
+        "priority": "low",
+        "control_title": "Automated Data Processing System Documentation",
+        "control": "Maintain accurate and up-to-date documentation of automated data processing systems, including system architecture, configuration, and usage. This documentation should be accessible to authorized personnel and should be reviewed and updated regularly."
+      },
+      {
+        "priority": "high",
+        "control_title": "Automated Data Processing System Monitoring and Logging",
+        "control": "Implement monitoring and logging mechanisms to track automated data processing system activity, including system performance, errors, and security events. This information should be used to identify and address potential issues before they impact data processing operations."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Automated Data Processing System Testing and Validation",
+        "control": "Regularly test and validate automated data processing systems to ensure they are functioning correctly and meeting the organization's data processing requirements. This includes testing for security vulnerabilities, data integrity, and system performance."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Applicability of the Act",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3\n(q) “Member” means a Member of the Board and includes the Chairperson;\n(r) “notification” means a notification published in the Official Gazette and the\nexpressions “notify” and “notified” shall be construed accordingly;\n(s) “person” includes—\n(i) an individual;\n(ii) a Hindu undivided family;\n(iii) a company;\n(iv) a firm;\n(v) an association of persons or a body of individuals, whether\nincorporated or not;\n(vi) the State; and\n(vii) every artificial juristic person, not falling within any of the preceding\nsub-clauses;\n(t) “personal data” means any data about an individual who is identifiable by or\nin relation to such data;\n(u) “personal data breach” means any unauthorised processing of personal\ndata or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss\nof access to personal data, that compromises the confidentiality, integrity or availability\nof personal data;\n(v) “prescribed” means prescribed by rules made under this Act;\n(w) “proceeding” means any action taken by the Board under the provisions of\nthis Act;\n(x) “processing” in relation to personal data, means a wholly or partly automated\noperation or set of operations performed on digital personal data, and includes\noperations such as collection, recording, organisation, structuring, storage, adaptation,\nretrieval, use, alignment or combination, indexing, sharing, disclosure by transmission,\ndissemination or otherwise making available, restriction, erasure or destruction;\n(y) “she” in relation to an individual includes the reference to such individual\nirrespective of gender;\n(z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data\nFiduciaries as may be notified by the Central Government under section 10;\n(za) “specified purpose” means the purpose mentioned in the notice given by\nthe Data Fiduciary to the Data Principal in accordance with the provisions of this Act\nand the rules made thereunder;  and\n(zb) “State” means the State as defined under article 12 of the Constitution.\n3. Subject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India\nwhere the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of\nIndia, if such processing is in connection with any activity related to offering of\ngoods or services to Data Principals within the territory of India;\nApplication\nof Act.",
+    "requirement": "The Act shall apply to the processing of digital personal data within the territory of India where the personal data is collected.",
+    "requirement_description": "The Act applies to the processing of digital personal data collected within India, either in digital or non-digital form.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Applicability of the Act outside India",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3\n(q) “Member” means a Member of the Board and includes the Chairperson;\n(r) “notification” means a notification published in the Official Gazette and the\nexpressions “notify” and “notified” shall be construed accordingly;\n(s) “person” includes—\n(i) an individual;\n(ii) a Hindu undivided family;\n(iii) a company;\n(iv) a firm;\n(v) an association of persons or a body of individuals, whether\nincorporated or not;\n(vi) the State; and\n(vii) every artificial juristic person, not falling within any of the preceding\nsub-clauses;\n(t) “personal data” means any data about an individual who is identifiable by or\nin relation to such data;\n(u) “personal data breach” means any unauthorised processing of personal\ndata or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss\nof access to personal data, that compromises the confidentiality, integrity or availability\nof personal data;\n(v) “prescribed” means prescribed by rules made under this Act;\n(w) “proceeding” means any action taken by the Board under the provisions of\nthis Act;\n(x) “processing” in relation to personal data, means a wholly or partly automated\noperation or set of operations performed on digital personal data, and includes\noperations such as collection, recording, organisation, structuring, storage, adaptation,\nretrieval, use, alignment or combination, indexing, sharing, disclosure by transmission,\ndissemination or otherwise making available, restriction, erasure or destruction;\n(y) “she” in relation to an individual includes the reference to such individual\nirrespective of gender;\n(z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data\nFiduciaries as may be notified by the Central Government under section 10;\n(za) “specified purpose” means the purpose mentioned in the notice given by\nthe Data Fiduciary to the Data Principal in accordance with the provisions of this Act\nand the rules made thereunder;  and\n(zb) “State” means the State as defined under article 12 of the Constitution.\n3. Subject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India\nwhere the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of\nIndia, if such processing is in connection with any activity related to offering of\ngoods or services to Data Principals within the territory of India;\nApplication\nof Act.",
+    "requirement": "The Act shall also apply to processing of digital personal data outside the territory of India, if such processing is in connection with any activity related to offering of goods or services to Data Principals within the territory of India.",
+    "requirement_description": "The Act applies to the processing of digital personal data outside India if it is related to offering goods or services to individuals within India.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Definition of Personal Data",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3\n(q) “Member” means a Member of the Board and includes the Chairperson;\n(r) “notification” means a notification published in the Official Gazette and the\nexpressions “notify” and “notified” shall be construed accordingly;\n(s) “person” includes—\n(i) an individual;\n(ii) a Hindu undivided family;\n(iii) a company;\n(iv) a firm;\n(v) an association of persons or a body of individuals, whether\nincorporated or not;\n(vi) the State; and\n(vii) every artificial juristic person, not falling within any of the preceding\nsub-clauses;\n(t) “personal data” means any data about an individual who is identifiable by or\nin relation to such data;\n(u) “personal data breach” means any unauthorised processing of personal\ndata or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss\nof access to personal data, that compromises the confidentiality, integrity or availability\nof personal data;\n(v) “prescribed” means prescribed by rules made under this Act;\n(w) “proceeding” means any action taken by the Board under the provisions of\nthis Act;\n(x) “processing” in relation to personal data, means a wholly or partly automated\noperation or set of operations performed on digital personal data, and includes\noperations such as collection, recording, organisation, structuring, storage, adaptation,\nretrieval, use, alignment or combination, indexing, sharing, disclosure by transmission,\ndissemination or otherwise making available, restriction, erasure or destruction;\n(y) “she” in relation to an individual includes the reference to such individual\nirrespective of gender;\n(z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data\nFiduciaries as may be notified by the Central Government under section 10;\n(za) “specified purpose” means the purpose mentioned in the notice given by\nthe Data Fiduciary to the Data Principal in accordance with the provisions of this Act\nand the rules made thereunder;  and\n(zb) “State” means the State as defined under article 12 of the Constitution.\n3. Subject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India\nwhere the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of\nIndia, if such processing is in connection with any activity related to offering of\ngoods or services to Data Principals within the territory of India;\nApplication\nof Act.",
+    "requirement": "Personal data means any data about an individual who is identifiable by or in relation to such data.",
+    "requirement_description": "Personal data refers to any information that can be used to identify an individual.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Data Minimization",
+        "control": "Collect and store only the minimum amount of personal data necessary to achieve the specified purpose. This includes implementing data retention policies and procedures to ensure data is deleted or anonymized when no longer needed."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Anonymization",
+        "control": "Anonymize personal data whenever possible, especially when storing or transmitting data. This includes using techniques such as pseudonymization, tokenization, or encryption to protect individual identities."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Access Controls",
+        "control": "Implement access controls to ensure that only authorized personnel can access personal data. This includes using role-based access controls, multi-factor authentication, and regular reviews of user permissions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Data Subject Consent",
+        "control": "Obtain explicit consent from data subjects before collecting, processing, or sharing their personal data. This includes providing clear and transparent information about data collection, use, and storage practices."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Data Protection by Design",
+        "control": "Implement data protection by design principles when developing new systems, processes, or products that handle personal data. This includes considering data protection requirements from the outset and incorporating them into the design."
+      },
+      {
+        "priority": "low",
+        "control_title": "Data Breach Notification",
+        "control": "Establish procedures for notifying data subjects and relevant authorities in the event of a data breach. This includes having a clear incident response plan and communicating with affected individuals in a timely and transparent manner."
+      },
+      {
+        "priority": "low",
+        "control_title": "Data Inventory",
+        "control": "Maintain an up-to-date inventory of personal data stored, processed, or transmitted by the organization. This includes identifying data types, sources, and storage locations to ensure effective data management and compliance."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Definition of Personal Data Breach",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3\n(q) “Member” means a Member of the Board and includes the Chairperson;\n(r) “notification” means a notification published in the Official Gazette and the\nexpressions “notify” and “notified” shall be construed accordingly;\n(s) “person” includes—\n(i) an individual;\n(ii) a Hindu undivided family;\n(iii) a company;\n(iv) a firm;\n(v) an association of persons or a body of individuals, whether\nincorporated or not;\n(vi) the State; and\n(vii) every artificial juristic person, not falling within any of the preceding\nsub-clauses;\n(t) “personal data” means any data about an individual who is identifiable by or\nin relation to such data;\n(u) “personal data breach” means any unauthorised processing of personal\ndata or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss\nof access to personal data, that compromises the confidentiality, integrity or availability\nof personal data;\n(v) “prescribed” means prescribed by rules made under this Act;\n(w) “proceeding” means any action taken by the Board under the provisions of\nthis Act;\n(x) “processing” in relation to personal data, means a wholly or partly automated\noperation or set of operations performed on digital personal data, and includes\noperations such as collection, recording, organisation, structuring, storage, adaptation,\nretrieval, use, alignment or combination, indexing, sharing, disclosure by transmission,\ndissemination or otherwise making available, restriction, erasure or destruction;\n(y) “she” in relation to an individual includes the reference to such individual\nirrespective of gender;\n(z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data\nFiduciaries as may be notified by the Central Government under section 10;\n(za) “specified purpose” means the purpose mentioned in the notice given by\nthe Data Fiduciary to the Data Principal in accordance with the provisions of this Act\nand the rules made thereunder;  and\n(zb) “State” means the State as defined under article 12 of the Constitution.\n3. Subject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India\nwhere the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of\nIndia, if such processing is in connection with any activity related to offering of\ngoods or services to Data Principals within the territory of India;\nApplication\nof Act.",
+    "requirement": "A personal data breach means any unauthorised processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss of access to personal data.",
+    "requirement_description": "A personal data breach occurs when there is an unauthorised or accidental disclosure, alteration, or loss of access to personal data.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Definition of Processing",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3\n(q) “Member” means a Member of the Board and includes the Chairperson;\n(r) “notification” means a notification published in the Official Gazette and the\nexpressions “notify” and “notified” shall be construed accordingly;\n(s) “person” includes—\n(i) an individual;\n(ii) a Hindu undivided family;\n(iii) a company;\n(iv) a firm;\n(v) an association of persons or a body of individuals, whether\nincorporated or not;\n(vi) the State; and\n(vii) every artificial juristic person, not falling within any of the preceding\nsub-clauses;\n(t) “personal data” means any data about an individual who is identifiable by or\nin relation to such data;\n(u) “personal data breach” means any unauthorised processing of personal\ndata or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss\nof access to personal data, that compromises the confidentiality, integrity or availability\nof personal data;\n(v) “prescribed” means prescribed by rules made under this Act;\n(w) “proceeding” means any action taken by the Board under the provisions of\nthis Act;\n(x) “processing” in relation to personal data, means a wholly or partly automated\noperation or set of operations performed on digital personal data, and includes\noperations such as collection, recording, organisation, structuring, storage, adaptation,\nretrieval, use, alignment or combination, indexing, sharing, disclosure by transmission,\ndissemination or otherwise making available, restriction, erasure or destruction;\n(y) “she” in relation to an individual includes the reference to such individual\nirrespective of gender;\n(z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data\nFiduciaries as may be notified by the Central Government under section 10;\n(za) “specified purpose” means the purpose mentioned in the notice given by\nthe Data Fiduciary to the Data Principal in accordance with the provisions of this Act\nand the rules made thereunder;  and\n(zb) “State” means the State as defined under article 12 of the Constitution.\n3. Subject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India\nwhere the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of\nIndia, if such processing is in connection with any activity related to offering of\ngoods or services to Data Principals within the territory of India;\nApplication\nof Act.",
+    "requirement": "Processing means a wholly or partly automated operation or set of operations performed on digital personal data.",
+    "requirement_description": "Processing refers to any automated operation or set of operations performed on digital personal data, including collection, storage, and disclosure.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Definition of Significant Data Fiduciary",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3\n(q) “Member” means a Member of the Board and includes the Chairperson;\n(r) “notification” means a notification published in the Official Gazette and the\nexpressions “notify” and “notified” shall be construed accordingly;\n(s) “person” includes—\n(i) an individual;\n(ii) a Hindu undivided family;\n(iii) a company;\n(iv) a firm;\n(v) an association of persons or a body of individuals, whether\nincorporated or not;\n(vi) the State; and\n(vii) every artificial juristic person, not falling within any of the preceding\nsub-clauses;\n(t) “personal data” means any data about an individual who is identifiable by or\nin relation to such data;\n(u) “personal data breach” means any unauthorised processing of personal\ndata or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss\nof access to personal data, that compromises the confidentiality, integrity or availability\nof personal data;\n(v) “prescribed” means prescribed by rules made under this Act;\n(w) “proceeding” means any action taken by the Board under the provisions of\nthis Act;\n(x) “processing” in relation to personal data, means a wholly or partly automated\noperation or set of operations performed on digital personal data, and includes\noperations such as collection, recording, organisation, structuring, storage, adaptation,\nretrieval, use, alignment or combination, indexing, sharing, disclosure by transmission,\ndissemination or otherwise making available, restriction, erasure or destruction;\n(y) “she” in relation to an individual includes the reference to such individual\nirrespective of gender;\n(z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data\nFiduciaries as may be notified by the Central Government under section 10;\n(za) “specified purpose” means the purpose mentioned in the notice given by\nthe Data Fiduciary to the Data Principal in accordance with the provisions of this Act\nand the rules made thereunder;  and\n(zb) “State” means the State as defined under article 12 of the Constitution.\n3. Subject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India\nwhere the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of\nIndia, if such processing is in connection with any activity related to offering of\ngoods or services to Data Principals within the territory of India;\nApplication\nof Act.",
+    "requirement": "A Significant Data Fiduciary is any Data Fiduciary or class of Data Fiduciaries notified by the Central Government.",
+    "requirement_description": "A Significant Data Fiduciary is a Data Fiduciary or class of Data Fiduciaries designated by the Central Government.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Definition of Specified Purpose",
+    "article_number": "section_3",
+    "priority": "high",
+    "article_text": "SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3\n(q) “Member” means a Member of the Board and includes the Chairperson;\n(r) “notification” means a notification published in the Official Gazette and the\nexpressions “notify” and “notified” shall be construed accordingly;\n(s) “person” includes—\n(i) an individual;\n(ii) a Hindu undivided family;\n(iii) a company;\n(iv) a firm;\n(v) an association of persons or a body of individuals, whether\nincorporated or not;\n(vi) the State; and\n(vii) every artificial juristic person, not falling within any of the preceding\nsub-clauses;\n(t) “personal data” means any data about an individual who is identifiable by or\nin relation to such data;\n(u) “personal data breach” means any unauthorised processing of personal\ndata or accidental disclosure, acquisition, sharing, use, alteration, destruction or loss\nof access to personal data, that compromises the confidentiality, integrity or availability\nof personal data;\n(v) “prescribed” means prescribed by rules made under this Act;\n(w) “proceeding” means any action taken by the Board under the provisions of\nthis Act;\n(x) “processing” in relation to personal data, means a wholly or partly automated\noperation or set of operations performed on digital personal data, and includes\noperations such as collection, recording, organisation, structuring, storage, adaptation,\nretrieval, use, alignment or combination, indexing, sharing, disclosure by transmission,\ndissemination or otherwise making available, restriction, erasure or destruction;\n(y) “she” in relation to an individual includes the reference to such individual\nirrespective of gender;\n(z) “Significant Data Fiduciary” means any Data Fiduciary or class of Data\nFiduciaries as may be notified by the Central Government under section 10;\n(za) “specified purpose” means the purpose mentioned in the notice given by\nthe Data Fiduciary to the Data Principal in accordance with the provisions of this Act\nand the rules made thereunder;  and\n(zb) “State” means the State as defined under article 12 of the Constitution.\n3. Subject to the provisions of this Act, it shall—\n(a) apply to the processing of digital personal data within the territory of India\nwhere the personal data is collected––\n(i) in digital form; or\n(ii) in non-digital form and digitised subsequently;\n(b) also apply to processing of digital personal data outside the territory of\nIndia, if such processing is in connection with any activity related to offering of\ngoods or services to Data Principals within the territory of India;\nApplication\nof Act.",
+    "requirement": "A specified purpose means the purpose mentioned in the notice given by the Data Fiduciary to the Data Principal.",
+    "requirement_description": "A specified purpose refers to the purpose mentioned in the notice given by the Data Fiduciary to the Data Principal.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Clearly Define the Purpose of Data Collection",
+        "control": "The Data Fiduciary must clearly define the purpose of data collection in the notice given to the Data Principal. This purpose must be specific, concise, and easily understandable by the Data Principal. The purpose must also be aligned with the data processing activities that will be performed by the Data Fiduciary."
+      },
+      {
+        "priority": "high",
+        "control_title": "Obtain Explicit Consent for Data Collection",
+        "control": "The Data Fiduciary must obtain explicit consent from the Data Principal before collecting any data. This consent must be freely given, specific, informed, and unambiguous. The Data Fiduciary must also provide the Data Principal with the option to withdraw their consent at any time."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document the Purpose of Data Collection",
+        "control": "The Data Fiduciary must maintain a record of the purpose of data collection, including the notice given to the Data Principal. This record must be easily accessible and up-to-date. The Data Fiduciary must also ensure that the record is accurate and complete."
+      },
+      {
+        "priority": "low",
+        "control_title": "Review and Update the Purpose of Data Collection",
+        "control": "The Data Fiduciary must regularly review and update the purpose of data collection to ensure that it remains accurate and relevant. This review must be performed at least annually, or whenever there are changes to the data processing activities or the notice given to the Data Principal."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Personal Data Processing for Lawful Purpose",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "4 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(c) not apply to—\n(i) personal data processed by an individual for any personal or domestic\npurpose; and\n(ii) personal data that is made or caused to be made publicly available\nby—\n(A) the Data Principal to whom such personal data relates; or\n(B) any other person who is under an obligation under any law for\nthe time being in force in India to make such personal data publicly\navailable.\nIllustration.\nX, an individual, while blogging her views, has publicly made available her personal\ndata on social media. In such case, the provisions of this Act shall not apply.\nCHAPTER II\nOBLIGATIONS OF DATA FIDUCIARY\n4. (1) A person may process the personal data of a Data Principal only in accordance\nwith the provisions of this Act and for a lawful purpose,—\n(a) for which the Data Principal has given her consent; or\n(b) for certain legitimate uses.\n(2) For the purposes of this section, the expression “lawful purpose” means any\npurpose which is not expressly forbidden by law.\n5. (1) Every request made to a Data Principal under section 6 for consent shall be\naccompanied or preceded by a notice given by the Data Fiduciary to the Data Principal,\ninforming her,—\n  (i) the personal data and the purpose for which the same is proposed to be\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4) of\nsection 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the Board,\nin such manner and as may be prescribed.\nIllustration.\nX, an individual, opens a bank account using the mobile app or website of Y , a bank.\nTo complete the Know-Your-Customer requirements under law for opening of bank account,\nX opts for processing of her personal data by Y in a live, video-based customer identification\nprocess. Y shall accompany or precede the request for the personal data with notice to X,\ndescribing the personal data and the purpose of its processing.\n(2) Where a Data Principal has given her consent for the processing of her personal\ndata before the date of commencement of this Act,—\n(a) the Data Fiduciary shall, as soon as it is reasonably practicable, give to the\nData Principal a notice informing her,––\n(i) the personal data and the purpose for which the same has been\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4)\nof section 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the\nBoard,\nin such manner and as may be prescribed.\nGrounds for\nprocessing\npersonal data.\nNotice.",
+    "requirement": "A person shall process personal data only for a lawful purpose.",
+    "requirement_description": "Personal data can only be processed for a purpose that is not forbidden by law.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Define Lawful Purpose Before Data Collection",
+        "control": "Before collecting personal data, the organization must define the lawful purpose for processing the data. This purpose must be specific, legitimate, and transparent to the data subject. The purpose should be documented and communicated to relevant stakeholders."
+      },
+      {
+        "priority": "high",
+        "control_title": "Obtain Explicit Consent for Processing",
+        "control": "When processing personal data for a specific purpose, the organization must obtain explicit consent from the data subject. This consent must be freely given, specific, informed, and unambiguous. The organization must also provide clear information about the purpose, duration, and scope of the processing."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Lawful Purpose and Processing Activities",
+        "control": "The organization must maintain accurate and up-to-date records of the lawful purpose for processing personal data and the corresponding processing activities. These records must be accessible to relevant stakeholders and auditors."
+      },
+      {
+        "priority": "low",
+        "control_title": "Regularly Review and Update Lawful Purpose",
+        "control": "The organization must regularly review and update the lawful purpose for processing personal data to ensure it remains valid and compliant with applicable laws and regulations. This review must be documented and communicated to relevant stakeholders."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Notice to Data Principal for Consent",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "4 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(c) not apply to—\n(i) personal data processed by an individual for any personal or domestic\npurpose; and\n(ii) personal data that is made or caused to be made publicly available\nby—\n(A) the Data Principal to whom such personal data relates; or\n(B) any other person who is under an obligation under any law for\nthe time being in force in India to make such personal data publicly\navailable.\nIllustration.\nX, an individual, while blogging her views, has publicly made available her personal\ndata on social media. In such case, the provisions of this Act shall not apply.\nCHAPTER II\nOBLIGATIONS OF DATA FIDUCIARY\n4. (1) A person may process the personal data of a Data Principal only in accordance\nwith the provisions of this Act and for a lawful purpose,—\n(a) for which the Data Principal has given her consent; or\n(b) for certain legitimate uses.\n(2) For the purposes of this section, the expression “lawful purpose” means any\npurpose which is not expressly forbidden by law.\n5. (1) Every request made to a Data Principal under section 6 for consent shall be\naccompanied or preceded by a notice given by the Data Fiduciary to the Data Principal,\ninforming her,—\n  (i) the personal data and the purpose for which the same is proposed to be\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4) of\nsection 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the Board,\nin such manner and as may be prescribed.\nIllustration.\nX, an individual, opens a bank account using the mobile app or website of Y , a bank.\nTo complete the Know-Your-Customer requirements under law for opening of bank account,\nX opts for processing of her personal data by Y in a live, video-based customer identification\nprocess. Y shall accompany or precede the request for the personal data with notice to X,\ndescribing the personal data and the purpose of its processing.\n(2) Where a Data Principal has given her consent for the processing of her personal\ndata before the date of commencement of this Act,—\n(a) the Data Fiduciary shall, as soon as it is reasonably practicable, give to the\nData Principal a notice informing her,––\n(i) the personal data and the purpose for which the same has been\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4)\nof section 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the\nBoard,\nin such manner and as may be prescribed.\nGrounds for\nprocessing\npersonal data.\nNotice.",
+    "requirement": "A Data Fiduciary shall provide a notice to the Data Principal before processing personal data for consent.",
+    "requirement_description": "A notice must be given to the Data Principal before processing their personal data for consent.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Notice to Data Principal for Existing Consent",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "4 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(c) not apply to—\n(i) personal data processed by an individual for any personal or domestic\npurpose; and\n(ii) personal data that is made or caused to be made publicly available\nby—\n(A) the Data Principal to whom such personal data relates; or\n(B) any other person who is under an obligation under any law for\nthe time being in force in India to make such personal data publicly\navailable.\nIllustration.\nX, an individual, while blogging her views, has publicly made available her personal\ndata on social media. In such case, the provisions of this Act shall not apply.\nCHAPTER II\nOBLIGATIONS OF DATA FIDUCIARY\n4. (1) A person may process the personal data of a Data Principal only in accordance\nwith the provisions of this Act and for a lawful purpose,—\n(a) for which the Data Principal has given her consent; or\n(b) for certain legitimate uses.\n(2) For the purposes of this section, the expression “lawful purpose” means any\npurpose which is not expressly forbidden by law.\n5. (1) Every request made to a Data Principal under section 6 for consent shall be\naccompanied or preceded by a notice given by the Data Fiduciary to the Data Principal,\ninforming her,—\n  (i) the personal data and the purpose for which the same is proposed to be\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4) of\nsection 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the Board,\nin such manner and as may be prescribed.\nIllustration.\nX, an individual, opens a bank account using the mobile app or website of Y , a bank.\nTo complete the Know-Your-Customer requirements under law for opening of bank account,\nX opts for processing of her personal data by Y in a live, video-based customer identification\nprocess. Y shall accompany or precede the request for the personal data with notice to X,\ndescribing the personal data and the purpose of its processing.\n(2) Where a Data Principal has given her consent for the processing of her personal\ndata before the date of commencement of this Act,—\n(a) the Data Fiduciary shall, as soon as it is reasonably practicable, give to the\nData Principal a notice informing her,––\n(i) the personal data and the purpose for which the same has been\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4)\nof section 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the\nBoard,\nin such manner and as may be prescribed.\nGrounds for\nprocessing\npersonal data.\nNotice.",
+    "requirement": "A Data Fiduciary shall provide a notice to the Data Principal if their personal data was processed before the Act's commencement.",
+    "requirement_description": "A notice must be given to the Data Principal if their personal data was processed before the Act's commencement.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Personal Data Shall Not Be Processed Without Consent or Lawful Purpose",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "4 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(c) not apply to—\n(i) personal data processed by an individual for any personal or domestic\npurpose; and\n(ii) personal data that is made or caused to be made publicly available\nby—\n(A) the Data Principal to whom such personal data relates; or\n(B) any other person who is under an obligation under any law for\nthe time being in force in India to make such personal data publicly\navailable.\nIllustration.\nX, an individual, while blogging her views, has publicly made available her personal\ndata on social media. In such case, the provisions of this Act shall not apply.\nCHAPTER II\nOBLIGATIONS OF DATA FIDUCIARY\n4. (1) A person may process the personal data of a Data Principal only in accordance\nwith the provisions of this Act and for a lawful purpose,—\n(a) for which the Data Principal has given her consent; or\n(b) for certain legitimate uses.\n(2) For the purposes of this section, the expression “lawful purpose” means any\npurpose which is not expressly forbidden by law.\n5. (1) Every request made to a Data Principal under section 6 for consent shall be\naccompanied or preceded by a notice given by the Data Fiduciary to the Data Principal,\ninforming her,—\n  (i) the personal data and the purpose for which the same is proposed to be\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4) of\nsection 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the Board,\nin such manner and as may be prescribed.\nIllustration.\nX, an individual, opens a bank account using the mobile app or website of Y , a bank.\nTo complete the Know-Your-Customer requirements under law for opening of bank account,\nX opts for processing of her personal data by Y in a live, video-based customer identification\nprocess. Y shall accompany or precede the request for the personal data with notice to X,\ndescribing the personal data and the purpose of its processing.\n(2) Where a Data Principal has given her consent for the processing of her personal\ndata before the date of commencement of this Act,—\n(a) the Data Fiduciary shall, as soon as it is reasonably practicable, give to the\nData Principal a notice informing her,––\n(i) the personal data and the purpose for which the same has been\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4)\nof section 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the\nBoard,\nin such manner and as may be prescribed.\nGrounds for\nprocessing\npersonal data.\nNotice.",
+    "requirement": "Personal data shall not be processed without consent or a lawful purpose.",
+    "requirement_description": "Personal data cannot be processed without the Data Principal's consent or a lawful purpose.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Obtain Explicit Consent",
+        "control": "Obtain explicit consent from individuals before collecting, processing, or sharing their personal data. This includes obtaining consent through clear and concise language, providing individuals with the right to withdraw consent at any time, and ensuring that consent is specific, informed, and freely given."
+      },
+      {
+        "priority": "high",
+        "control_title": "Define Lawful Purpose",
+        "control": "Clearly define the lawful purpose for processing personal data and ensure that it aligns with the organization's legitimate interests. This includes identifying the specific purpose, ensuring that it is necessary and proportionate, and documenting the purpose in a transparent and accessible manner."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Data Protection Impact Assessments",
+        "control": "Conduct regular data protection impact assessments (DPIAs) to identify and mitigate potential risks associated with processing personal data. This includes assessing the likelihood and potential impact of data breaches, identifying measures to minimize risks, and documenting the results of the assessment."
+      },
+      {
+        "priority": "low",
+        "control_title": "Provide Data Protection Training",
+        "control": "Provide regular data protection training to employees and contractors to ensure that they understand the importance of processing personal data in accordance with the organization's policies and procedures. This includes training on data protection principles, consent, and the organization's data protection policies and procedures."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement Data Access Controls",
+        "control": "Implement data access controls to ensure that only authorized personnel have access to personal data. This includes implementing role-based access controls, ensuring that access is granted on a need-to-know basis, and regularly reviewing and updating access permissions."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Monitor and Audit Data Processing Activities",
+        "control": "Regularly monitor and audit data processing activities to ensure that personal data is being processed in accordance with the organization's policies and procedures. This includes monitoring data access, data transfers, and data storage, and conducting regular audits to identify and address any issues or non-compliance."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Data Principal Shall Be Informed of Rights",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "4 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(c) not apply to—\n(i) personal data processed by an individual for any personal or domestic\npurpose; and\n(ii) personal data that is made or caused to be made publicly available\nby—\n(A) the Data Principal to whom such personal data relates; or\n(B) any other person who is under an obligation under any law for\nthe time being in force in India to make such personal data publicly\navailable.\nIllustration.\nX, an individual, while blogging her views, has publicly made available her personal\ndata on social media. In such case, the provisions of this Act shall not apply.\nCHAPTER II\nOBLIGATIONS OF DATA FIDUCIARY\n4. (1) A person may process the personal data of a Data Principal only in accordance\nwith the provisions of this Act and for a lawful purpose,—\n(a) for which the Data Principal has given her consent; or\n(b) for certain legitimate uses.\n(2) For the purposes of this section, the expression “lawful purpose” means any\npurpose which is not expressly forbidden by law.\n5. (1) Every request made to a Data Principal under section 6 for consent shall be\naccompanied or preceded by a notice given by the Data Fiduciary to the Data Principal,\ninforming her,—\n  (i) the personal data and the purpose for which the same is proposed to be\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4) of\nsection 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the Board,\nin such manner and as may be prescribed.\nIllustration.\nX, an individual, opens a bank account using the mobile app or website of Y , a bank.\nTo complete the Know-Your-Customer requirements under law for opening of bank account,\nX opts for processing of her personal data by Y in a live, video-based customer identification\nprocess. Y shall accompany or precede the request for the personal data with notice to X,\ndescribing the personal data and the purpose of its processing.\n(2) Where a Data Principal has given her consent for the processing of her personal\ndata before the date of commencement of this Act,—\n(a) the Data Fiduciary shall, as soon as it is reasonably practicable, give to the\nData Principal a notice informing her,––\n(i) the personal data and the purpose for which the same has been\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4)\nof section 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the\nBoard,\nin such manner and as may be prescribed.\nGrounds for\nprocessing\npersonal data.\nNotice.",
+    "requirement": "A Data Fiduciary shall inform the Data Principal of their rights.",
+    "requirement_description": "The Data Principal must be informed of their rights, including how to exercise them.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Data Principal Shall Be Informed of Complaint Procedure",
+    "article_number": "section_4",
+    "priority": "high",
+    "article_text": "4 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(c) not apply to—\n(i) personal data processed by an individual for any personal or domestic\npurpose; and\n(ii) personal data that is made or caused to be made publicly available\nby—\n(A) the Data Principal to whom such personal data relates; or\n(B) any other person who is under an obligation under any law for\nthe time being in force in India to make such personal data publicly\navailable.\nIllustration.\nX, an individual, while blogging her views, has publicly made available her personal\ndata on social media. In such case, the provisions of this Act shall not apply.\nCHAPTER II\nOBLIGATIONS OF DATA FIDUCIARY\n4. (1) A person may process the personal data of a Data Principal only in accordance\nwith the provisions of this Act and for a lawful purpose,—\n(a) for which the Data Principal has given her consent; or\n(b) for certain legitimate uses.\n(2) For the purposes of this section, the expression “lawful purpose” means any\npurpose which is not expressly forbidden by law.\n5. (1) Every request made to a Data Principal under section 6 for consent shall be\naccompanied or preceded by a notice given by the Data Fiduciary to the Data Principal,\ninforming her,—\n  (i) the personal data and the purpose for which the same is proposed to be\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4) of\nsection 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the Board,\nin such manner and as may be prescribed.\nIllustration.\nX, an individual, opens a bank account using the mobile app or website of Y , a bank.\nTo complete the Know-Your-Customer requirements under law for opening of bank account,\nX opts for processing of her personal data by Y in a live, video-based customer identification\nprocess. Y shall accompany or precede the request for the personal data with notice to X,\ndescribing the personal data and the purpose of its processing.\n(2) Where a Data Principal has given her consent for the processing of her personal\ndata before the date of commencement of this Act,—\n(a) the Data Fiduciary shall, as soon as it is reasonably practicable, give to the\nData Principal a notice informing her,––\n(i) the personal data and the purpose for which the same has been\nprocessed;\n  (ii) the manner in which she may exercise her rights under sub-section (4)\nof section 6 and section 13; and\n (iii) the manner in which the Data Principal may make a complaint to the\nBoard,\nin such manner and as may be prescribed.\nGrounds for\nprocessing\npersonal data.\nNotice.",
+    "requirement": "A Data Fiduciary shall inform the Data Principal of the complaint procedure.",
+    "requirement_description": "The Data Principal must be informed of the procedure to make a complaint.",
+    "controls": []
+  },
+  {
+    "requirement_title": "Data Fiduciary to Cease Processing Personal Data",
+    "article_number": "section_6",
+    "priority": "high",
+    "article_text": "Illustration.\nX, an individual, is the user of an online shopping app or website operated by Y , an\ne-commerce service provider. X consents to the processing of her personal data by Y for the\npurpose of fulfilling her supply order and places an order for supply of a good while making\npayment for the same. If X withdraws her consent, Y may stop enabling X to use the app or\nwebsite for placing orders, but may not stop the processing for supply of the goods already\nordered and paid for by X.\n(6) If a Data Principal withdraws her consent to the processing of personal data under\nsub-section (5), the Data Fiduciary shall, within a reasonable time, cease and cause its Data\nProcessors to cease processing the personal data of such Data Principal unless such\nprocessing without her consent is required or authorised under the provisions of this Act\nor the rules made thereunder or any other law for the time being in force in India.\nConsent.",
+    "requirement": "The Data Fiduciary shall cease processing personal data within a reasonable time after consent withdrawal.",
+    "requirement_description": "The Data Fiduciary must stop processing personal data of a Data Principal who has withdrawn their consent, unless processing is required or authorized by law.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Automated Consent Withdrawal Processing",
+        "control": "Automate the process of ceasing data processing within a reasonable time after consent withdrawal. This can be achieved through the use of APIs, scripts, or other automated tools that can detect consent withdrawal and initiate the necessary actions to stop data processing."
+      },
+      {
+        "priority": "high",
+        "control_title": "Establish a Consent Withdrawal Notification Process",
+        "control": "Develop a notification process to inform the Data Fiduciary and relevant stakeholders when consent is withdrawn. This process should include a clear timeline for ceasing data processing and any necessary actions to be taken."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Define a Reasonable Timeframe for Ceasing Data Processing",
+        "control": "Establish a clear and reasonable timeframe for ceasing data processing after consent withdrawal. This timeframe should be communicated to stakeholders and included in the notification process."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Consent Withdrawal Procedures",
+        "control": "Maintain up-to-date documentation of the consent withdrawal procedures, including the notification process, automated processing, and any other relevant details. This documentation should be accessible to relevant stakeholders."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Audits to Ensure Compliance",
+        "control": "Regularly audit the consent withdrawal process to ensure that it is functioning as intended and that data processing is ceased within the established timeframe. This should include reviewing logs, testing the automated process, and verifying that stakeholders are notified."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Erase Personal Data upon Withdrawal of Consent",
+    "article_number": "section_10",
+    "priority": "high",
+    "article_text": "(7) A Data Fiduciary shall, unless retention is necessary for compliance with any law\nfor the time being in force,—\n(a) erase personal data, upon the Data Principal withdrawing her consent or as\nGeneral\nobligations of\nData\nFiduciary.\n53 of 2005.",
+    "requirement": "A Data Fiduciary shall erase personal data upon the Data Principal withdrawing her consent.",
+    "requirement_description": "Data Fiduciaries must delete personal data when the Data Principal withdraws their consent.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Automated Data Deletion Process",
+        "control": "Implement an automated process to erase personal data upon receipt of a withdrawal of consent from the Data Principal. This process should be triggered by a notification or request from the Data Principal, and should be executed in a timely manner to ensure compliance with the requirement."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Retention and Deletion Policy",
+        "control": "Establish and maintain a clear data retention and deletion policy that outlines the procedures for erasing personal data upon withdrawal of consent. This policy should be communicated to all stakeholders, including employees, contractors, and third-party vendors."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Data Principal Notification Process",
+        "control": "Develop a process to notify the Data Principal of their right to withdraw consent and have their personal data erased. This notification should be clear, concise, and easily accessible, and should include instructions on how to submit a withdrawal of consent."
+      },
+      {
+        "priority": "low",
+        "control_title": "Data Deletion Record Keeping",
+        "control": "Maintain records of all data deletions, including the date and time of deletion, the type of data deleted, and the reason for deletion. These records should be retained for a specified period of time, as required by applicable laws and regulations."
+      },
+      {
+        "priority": "high",
+        "control_title": "Employee Training and Awareness",
+        "control": "Provide regular training and awareness programs for employees on the importance of erasing personal data upon withdrawal of consent. This training should include information on the procedures for data deletion, the consequences of non-compliance, and the importance of maintaining confidentiality and data security."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Personal Data Processing for Research, Archiving, or Statistical Purposes",
+    "article_number": "section_16",
+    "priority": "high",
+    "article_text": "12 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(b) necessary for research, archiving or statistical purposes if the personal data\nis not to be used to take any decision specific to a Data Principal and such processing\nis carried on in accordance with such standards as may be prescribed.\n(3) The Central Government may, having regard to the volume and nature of personal\ndata processed, notify certain Data Fiduciaries or class of Data Fiduciaries, including startups,\nas Data Fiduciaries to whom the provisions of section 5, sub-sections ( 3) and ( 7) of\nsection 8 and sections 10 and 11 shall not apply.\nExplanation.— For the purposes of this sub-section, the term “startup” means a\nprivate limited company or a partnership firm or a limited liability partnership incorporated\nin India, which is eligible to be and is recognised as such in accordance with the criteria and\nprocess notified by the department to which matters relating to startups are allocated in the\nCentral Government.\n(4)  In respect of processing by the State or any instrumentality of the State, the\nprovisions of sub-section (7) of section 8 and sub-section (3) of section 12 and, where such\nprocessing is for a purpose that does not include making of a decision that affects the Data\nPrincipal, sub-section (2) of section 12 shall not apply.\n(5) The Central Government may, before expiry of five years from the date of\ncommencement of this Act, by notification, declare that any provision of this Act shall not\napply to such Data Fiduciary or classes of Data Fiduciaries for such period as may be\nspecified in the notification.",
+    "requirement": "Personal data shall not be used to take any decision specific to a Data Principal for research, archiving, or statistical purposes.",
+    "requirement_description": "Personal data can be processed for research, archiving, or statistical purposes, but it cannot be used to make decisions that affect the data principal.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Data Anonymization",
+        "control": "Anonymize personal data before using it for research, archiving, or statistical purposes. This can be achieved through techniques such as data masking, tokenization, or pseudonymization."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Minimization",
+        "control": "Only collect and process the minimum amount of personal data necessary for research, archiving, or statistical purposes. Avoid collecting sensitive or unnecessary data."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Data Access Controls",
+        "control": "Implement role-based access controls to ensure that only authorized personnel have access to personal data for research, archiving, or statistical purposes. Limit access to the minimum necessary for each role."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Data Retention Schedules",
+        "control": "Establish and enforce data retention schedules for personal data used for research, archiving, or statistical purposes. Ensure that data is deleted or anonymized when no longer needed."
+      },
+      {
+        "priority": "low",
+        "control_title": "Data Usage Documentation",
+        "control": "Maintain accurate and up-to-date documentation of how personal data is used for research, archiving, or statistical purposes. This documentation should include the purpose, scope, and duration of the data usage."
+      },
+      {
+        "priority": "high",
+        "control_title": "Data Subject Rights",
+        "control": "Ensure that Data Principals have the right to object to the use of their personal data for research, archiving, or statistical purposes. Provide a mechanism for Data Principals to exercise this right."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Exemption for Certain Data Fiduciaries",
+    "article_number": "section_16",
+    "priority": "high",
+    "article_text": "12 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(b) necessary for research, archiving or statistical purposes if the personal data\nis not to be used to take any decision specific to a Data Principal and such processing\nis carried on in accordance with such standards as may be prescribed.\n(3) The Central Government may, having regard to the volume and nature of personal\ndata processed, notify certain Data Fiduciaries or class of Data Fiduciaries, including startups,\nas Data Fiduciaries to whom the provisions of section 5, sub-sections ( 3) and ( 7) of\nsection 8 and sections 10 and 11 shall not apply.\nExplanation.— For the purposes of this sub-section, the term “startup” means a\nprivate limited company or a partnership firm or a limited liability partnership incorporated\nin India, which is eligible to be and is recognised as such in accordance with the criteria and\nprocess notified by the department to which matters relating to startups are allocated in the\nCentral Government.\n(4)  In respect of processing by the State or any instrumentality of the State, the\nprovisions of sub-section (7) of section 8 and sub-section (3) of section 12 and, where such\nprocessing is for a purpose that does not include making of a decision that affects the Data\nPrincipal, sub-section (2) of section 12 shall not apply.\n(5) The Central Government may, before expiry of five years from the date of\ncommencement of this Act, by notification, declare that any provision of this Act shall not\napply to such Data Fiduciary or classes of Data Fiduciaries for such period as may be\nspecified in the notification.",
+    "requirement": "Certain Data Fiduciaries, including startups, shall not be subject to the provisions of section 5, sub-sections (3) and (7) of section 8, and sections 10 and 11.",
+    "requirement_description": "The Central Government can exempt certain Data Fiduciaries, including startups, from specific provisions of the Act.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Exemptions for Certain Data Fiduciaries",
+        "control": "Identify and categorize data fiduciaries that are exempt from provisions of section 5, sub-sections (3) and (7) of section 8, and sections 10 and 11. Develop and implement procedures to ensure that these exempt data fiduciaries are not subject to the provisions of the mentioned sections."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Verify Exemption Status of Data Fiduciaries",
+        "control": "Establish a process to verify the exemption status of data fiduciaries on a regular basis. This includes reviewing and updating the list of exempt data fiduciaries, and ensuring that all relevant stakeholders are aware of the exemptions."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Exemption Procedures",
+        "control": "Maintain accurate and up-to-date documentation of the procedures for exempting data fiduciaries from the provisions of section 5, sub-sections (3) and (7) of section 8, and sections 10 and 11. This documentation should include the criteria for exemption, the process for verifying exemption status, and any relevant policies or procedures."
+      },
+      {
+        "priority": "high",
+        "control_title": "Monitor and Report on Exemption Compliance",
+        "control": "Establish a process to monitor and report on the compliance of exempt data fiduciaries with the provisions of the mentioned sections. This includes regular audits and reviews to ensure that exempt data fiduciaries are not subject to the provisions of the mentioned sections."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Exemption for State or Instrumentality Processing",
+    "article_number": "section_16",
+    "priority": "high",
+    "article_text": "12 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(b) necessary for research, archiving or statistical purposes if the personal data\nis not to be used to take any decision specific to a Data Principal and such processing\nis carried on in accordance with such standards as may be prescribed.\n(3) The Central Government may, having regard to the volume and nature of personal\ndata processed, notify certain Data Fiduciaries or class of Data Fiduciaries, including startups,\nas Data Fiduciaries to whom the provisions of section 5, sub-sections ( 3) and ( 7) of\nsection 8 and sections 10 and 11 shall not apply.\nExplanation.— For the purposes of this sub-section, the term “startup” means a\nprivate limited company or a partnership firm or a limited liability partnership incorporated\nin India, which is eligible to be and is recognised as such in accordance with the criteria and\nprocess notified by the department to which matters relating to startups are allocated in the\nCentral Government.\n(4)  In respect of processing by the State or any instrumentality of the State, the\nprovisions of sub-section (7) of section 8 and sub-section (3) of section 12 and, where such\nprocessing is for a purpose that does not include making of a decision that affects the Data\nPrincipal, sub-section (2) of section 12 shall not apply.\n(5) The Central Government may, before expiry of five years from the date of\ncommencement of this Act, by notification, declare that any provision of this Act shall not\napply to such Data Fiduciary or classes of Data Fiduciaries for such period as may be\nspecified in the notification.",
+    "requirement": "The provisions of sub-section (7) of section 8 and sub-section (3) of section 12 shall not apply to processing by the State or any instrumentality of the State.",
+    "requirement_description": "The provisions of the Act do not apply to processing by the State or any instrumentality of the State, except in cases where a decision affects the data principal.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Verify State or Instrumentality Status",
+        "control": "Implement a process to verify whether the data processor is the State or any instrumentality of the State. This can be done by checking the organization's charter, registration, or other official documents to confirm its status as a State entity."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Exemption from Compliance",
+        "control": "Maintain a record of all instances where the provisions of sub-section (7) of section 8 and sub-section (3) of section 12 are exempted due to processing by the State or any instrumentality of the State. This record should include the date, description of the processing activity, and the relevant documentation supporting the exemption."
+      },
+      {
+        "priority": "low",
+        "control_title": "Train Personnel on Exemption",
+        "control": "Provide training to personnel involved in data processing to ensure they understand the exemption provisions and can identify when they apply. This training should cover the relevant sections of the law and the procedures for verifying State or instrumentality status."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement Access Controls",
+        "control": "Implement access controls to ensure that only authorized personnel have access to sensitive information and systems. This includes implementing role-based access controls, authentication, and authorization mechanisms to prevent unauthorized access to data processing systems."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Temporary Exemption for Data Fiduciaries",
+    "article_number": "section_16",
+    "priority": "high",
+    "article_text": "12 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n(b) necessary for research, archiving or statistical purposes if the personal data\nis not to be used to take any decision specific to a Data Principal and such processing\nis carried on in accordance with such standards as may be prescribed.\n(3) The Central Government may, having regard to the volume and nature of personal\ndata processed, notify certain Data Fiduciaries or class of Data Fiduciaries, including startups,\nas Data Fiduciaries to whom the provisions of section 5, sub-sections ( 3) and ( 7) of\nsection 8 and sections 10 and 11 shall not apply.\nExplanation.— For the purposes of this sub-section, the term “startup” means a\nprivate limited company or a partnership firm or a limited liability partnership incorporated\nin India, which is eligible to be and is recognised as such in accordance with the criteria and\nprocess notified by the department to which matters relating to startups are allocated in the\nCentral Government.\n(4)  In respect of processing by the State or any instrumentality of the State, the\nprovisions of sub-section (7) of section 8 and sub-section (3) of section 12 and, where such\nprocessing is for a purpose that does not include making of a decision that affects the Data\nPrincipal, sub-section (2) of section 12 shall not apply.\n(5) The Central Government may, before expiry of five years from the date of\ncommencement of this Act, by notification, declare that any provision of this Act shall not\napply to such Data Fiduciary or classes of Data Fiduciaries for such period as may be\nspecified in the notification.",
+    "requirement": "The Central Government may declare a temporary exemption for Data Fiduciaries from specific provisions of the Act.",
+    "requirement_description": "The Central Government can grant temporary exemptions to Data Fiduciaries from specific provisions of the Act.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Clear Exemption Policy",
+        "control": "Data Fiduciaries must establish a clear policy outlining the conditions under which they will seek temporary exemptions from specific provisions of the Act. This policy should be communicated to all stakeholders, including employees, customers, and business partners."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Document Exemption Requests and Approvals",
+        "control": "Data Fiduciaries must maintain a record of all exemption requests, including the specific provisions of the Act being exempted, the reasons for the exemption, and the approval process. These records should be retained for a minimum of 5 years."
+      },
+      {
+        "priority": "low",
+        "control_title": "Notify Affected Parties of Exemptions",
+        "control": "Data Fiduciaries must notify all affected parties, including customers and business partners, of any temporary exemptions granted. This notification should include the specific provisions of the Act being exempted and the duration of the exemption."
+      },
+      {
+        "priority": "high",
+        "control_title": "Regularly Review and Update Exemption Policies",
+        "control": "Data Fiduciaries must regularly review and update their exemption policies to ensure they remain compliant with the Act and any changes to the Act. This review should be conducted at least annually, or as needed."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Provide Training on Exemption Policies",
+        "control": "Data Fiduciaries must provide training to all employees on the exemption policies and procedures. This training should be conducted at least annually, or as needed, and should cover the conditions under which exemptions can be sought and the approval process."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Penalties for Significant Breach",
+    "article_number": "section_22",
+    "priority": "high",
+    "article_text": "CHAPTER VIII\nP\nENALTIES AND ADJUDICATION\n33. (1) If the Board determines on conclusion of an inquiry that breach of the provisions\nof this Act or the rules made thereunder by a person is significant, it may, after giving the\nOrders passed\nby Appellate\nTribunal to be\nexecutable as\ndecree.\nAlternate\ndispute\nresolution.\nVoluntary\nundertaking.\nPenalties.\n24 of 1997.\n24 of 1997.",
+    "requirement": "The Board shall determine penalties for significant breaches.",
+    "requirement_description": "The Board must impose penalties for significant breaches of the Act or its rules, as determined by an inquiry.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Breach Classification Framework",
+        "control": "Develop a clear and comprehensive framework to classify breaches as significant or non-significant. This framework should be based on factors such as the severity of the breach, the potential impact on stakeholders, and the level of risk involved."
+      },
+      {
+        "priority": "high",
+        "control_title": "Define Penalties for Significant Breaches",
+        "control": "Establish clear and specific penalties for significant breaches, including financial penalties, disciplinary actions, and other consequences. These penalties should be communicated to all stakeholders, including employees, customers, and partners."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Establish a Breach Review Process",
+        "control": "Develop a process to review and investigate significant breaches, including the identification of root causes, the assessment of damage, and the implementation of corrective actions. This process should be documented and communicated to all stakeholders."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Breach Penalties and Review Process",
+        "control": "Maintain up-to-date documentation of breach penalties and the review process, including the classification framework, penalty definitions, and review procedures. This documentation should be accessible to all stakeholders and reviewed regularly to ensure compliance with the Board's requirements."
+      },
+      {
+        "priority": "high",
+        "control_title": "Communicate Breach Penalties and Review Process to Stakeholders",
+        "control": "Communicate breach penalties and the review process to all stakeholders, including employees, customers, and partners. This communication should be clear, concise, and timely, and should include information on the classification framework, penalty definitions, and review procedures."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Penalties for Significant Breach (Alternate Dispute Resolution)",
+    "article_number": "section_22",
+    "priority": "high",
+    "article_text": "CHAPTER VIII\nP\nENALTIES AND ADJUDICATION\n33. (1) If the Board determines on conclusion of an inquiry that breach of the provisions\nof this Act or the rules made thereunder by a person is significant, it may, after giving the\nOrders passed\nby Appellate\nTribunal to be\nexecutable as\ndecree.\nAlternate\ndispute\nresolution.\nVoluntary\nundertaking.\nPenalties.\n24 of 1997.\n24 of 1997.",
+    "requirement": "Alternate dispute resolution mechanisms shall be used for significant breaches.",
+    "requirement_description": "Alternate dispute resolution mechanisms must be used to resolve significant breaches of the Act or its rules.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish Alternate Dispute Resolution (ADR) Policy",
+        "control": "Develop and implement a clear ADR policy that outlines the procedures for resolving significant breaches. The policy should include details on the types of disputes that will be resolved through ADR, the timeframe for resolving disputes, and the roles and responsibilities of all parties involved."
+      },
+      {
+        "priority": "high",
+        "control_title": "Designate ADR Coordinator",
+        "control": "Appoint a dedicated ADR coordinator who will be responsible for managing the ADR process, including scheduling meetings, facilitating communication between parties, and ensuring that all disputes are resolved in a timely and fair manner."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Provide Training on ADR Procedures",
+        "control": "Provide regular training sessions for all employees on the ADR policy and procedures, including the roles and responsibilities of the ADR coordinator and the steps involved in resolving disputes through ADR."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain ADR Records",
+        "control": "Keep accurate and up-to-date records of all ADR proceedings, including meeting minutes, correspondence, and resolutions. These records should be stored securely and made available for auditing purposes."
+      },
+      {
+        "priority": "high",
+        "control_title": "Establish Escalation Procedures",
+        "control": "Develop and implement clear escalation procedures for significant breaches that cannot be resolved through ADR. This may include involving senior management, legal counsel, or other stakeholders as necessary."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Penalties for Significant Breach (Voluntary Undertaking)",
+    "article_number": "section_22",
+    "priority": "high",
+    "article_text": "CHAPTER VIII\nP\nENALTIES AND ADJUDICATION\n33. (1) If the Board determines on conclusion of an inquiry that breach of the provisions\nof this Act or the rules made thereunder by a person is significant, it may, after giving the\nOrders passed\nby Appellate\nTribunal to be\nexecutable as\ndecree.\nAlternate\ndispute\nresolution.\nVoluntary\nundertaking.\nPenalties.\n24 of 1997.\n24 of 1997.",
+    "requirement": "Voluntary undertakings shall be accepted for significant breaches.",
+    "requirement_description": "Organizations may accept voluntary undertakings for significant breaches of the Act or its rules.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Clear Acceptance Policy for Voluntary Undertakings",
+        "control": "Develop and document a clear policy outlining the acceptance criteria for voluntary undertakings related to significant breaches. This policy should be communicated to all relevant stakeholders and updated regularly to reflect changes in the organization's risk tolerance and regulatory requirements."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Define Roles and Responsibilities for Accepting Voluntary Undertakings",
+        "control": "Clearly define the roles and responsibilities of individuals involved in the acceptance process, including the person responsible for reviewing and accepting voluntary undertakings. Ensure that these roles and responsibilities are documented and communicated to all relevant stakeholders."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain a Record of Accepted Voluntary Undertakings",
+        "control": "Establish a system to maintain a record of all accepted voluntary undertakings, including the date of acceptance, the terms of the undertaking, and any subsequent actions taken. This record should be retained for a minimum of [insert time period] and made available for audit and review purposes."
+      },
+      {
+        "priority": "high",
+        "control_title": "Conduct Regular Reviews of Accepted Voluntary Undertakings",
+        "control": "Schedule regular reviews of accepted voluntary undertakings to ensure that they remain effective and compliant with regulatory requirements. These reviews should be documented and used to identify areas for improvement and update the organization's policies and procedures as needed."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Communicate Accepted Voluntary Undertakings to Relevant Stakeholders",
+        "control": "Ensure that all relevant stakeholders, including employees, customers, and regulatory bodies, are informed of accepted voluntary undertakings and their terms. This communication should be timely and transparent to maintain trust and confidence in the organization."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Penalties for Significant Breach (Penalties)",
+    "article_number": "section_22",
+    "priority": "high",
+    "article_text": "CHAPTER VIII\nP\nENALTIES AND ADJUDICATION\n33. (1) If the Board determines on conclusion of an inquiry that breach of the provisions\nof this Act or the rules made thereunder by a person is significant, it may, after giving the\nOrders passed\nby Appellate\nTribunal to be\nexecutable as\ndecree.\nAlternate\ndispute\nresolution.\nVoluntary\nundertaking.\nPenalties.\n24 of 1997.\n24 of 1997.",
+    "requirement": "Penalties shall be imposed for significant breaches.",
+    "requirement_description": "Penalties must be imposed for significant breaches of the Act or its rules.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Establish a Breach Response Policy",
+        "control": "Develop and implement a comprehensive breach response policy that outlines procedures for identifying, containing, and mitigating significant breaches. The policy should include roles and responsibilities, communication protocols, and incident reporting requirements."
+      },
+      {
+        "priority": "high",
+        "control_title": "Designate a Breach Response Team",
+        "control": "Appoint a dedicated breach response team with clear roles and responsibilities to handle significant breaches. The team should include representatives from relevant departments, such as IT, security, and compliance."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement a Breach Notification Process",
+        "control": "Develop and implement a breach notification process that includes procedures for notifying affected parties, regulatory bodies, and other stakeholders in the event of a significant breach."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Conduct Regular Breach Risk Assessments",
+        "control": "Perform regular risk assessments to identify potential breach scenarios and vulnerabilities. This will help to identify areas for improvement and ensure that the organization is prepared to respond to significant breaches."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Provide Training and Awareness",
+        "control": "Provide regular training and awareness programs for employees on breach response procedures, incident reporting, and data protection best practices. This will help to ensure that employees are equipped to respond effectively in the event of a significant breach."
+      },
+      {
+        "priority": "low",
+        "control_title": "Maintain a Breach Incident Log",
+        "control": "Maintain a log of all significant breaches, including details of the breach, response actions taken, and lessons learned. This will help to track trends and identify areas for improvement in the organization's breach response procedures."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Omit Section 43A of the Information Technology Act, 2000",
+    "article_number": "section_26",
+    "priority": "high",
+    "article_text": "20 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n“(i) the Appellate Tribunal under the Information Technology Act, 2000;\n(ii) the Appellate Tribunal under the Airports Economic Regulatory Authority\nof  India Act, 2008; and\n(iii) the Appellate Tribunal under the Digital Personal Data Protection\nAct, 2023.”.\n(2) The Information Technology Act, 2000 shall be amended in the following manner,\nnamely:—\n(a) section 43A shall be omitted;\n(b) in section 81, in the proviso, after the words and figures “the Patents\nAct, 1970”, the words and figures “or the Digital Personal Data Protection Act, 2023”\nshall be inserted; and\n(c) in section 87, in sub-section (2), clause (ob) shall be omitted.\n(3) In section 8 of the Right to Information Act, 2005, in sub-section (1), for clause (j),\nthe following clause shall be substituted, namely:—\n“(j) information which relates to personal information;”.\n21 of 2000.\n27 of 2008.\n21 of 2000.\n39 of 1970.\n22 of 2005.",
+    "requirement": "Section 43A of the Information Technology Act, 2000 shall be omitted.",
+    "requirement_description": "The section 43A of the Information Technology Act, 2000 is to be removed.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Implement Access Controls to Prevent Unauthorized Access",
+        "control": "Implement access controls to prevent unauthorized access to the organization's computer systems and networks. This includes implementing firewalls, intrusion detection and prevention systems, and ensuring that all access is logged and monitored."
+      },
+      {
+        "priority": "high",
+        "control_title": "Conduct Regular Vulnerability Assessments and Penetration Testing",
+        "control": "Conduct regular vulnerability assessments and penetration testing to identify and address potential security weaknesses in the organization's computer systems and networks."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Incident Response Plan",
+        "control": "Implement an incident response plan to quickly respond to and contain security incidents, including unauthorized access or data breaches. The plan should include procedures for reporting, containment, eradication, recovery, and post-incident activities."
+      },
+      {
+        "priority": "low",
+        "control_title": "Provide Security Awareness Training to Employees",
+        "control": "Provide regular security awareness training to employees to educate them on the importance of security and the potential risks associated with unauthorized access or data breaches."
+      },
+      {
+        "priority": "high",
+        "control_title": "Implement Data Encryption",
+        "control": "Implement data encryption to protect sensitive data in transit and at rest. This includes encrypting data stored on computers, networks, and mobile devices, as well as encrypting data transmitted over the internet."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Implement Account Monitoring and Management",
+        "control": "Implement account monitoring and management to ensure that all user accounts are properly managed and monitored. This includes implementing account lockout policies, password policies, and ensuring that all accounts are regularly reviewed and updated."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Insert Digital Personal Data Protection Act, 2023 in Section 81 of the Information Technology Act, 2000",
+    "article_number": "section_26",
+    "priority": "high",
+    "article_text": "20 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n“(i) the Appellate Tribunal under the Information Technology Act, 2000;\n(ii) the Appellate Tribunal under the Airports Economic Regulatory Authority\nof  India Act, 2008; and\n(iii) the Appellate Tribunal under the Digital Personal Data Protection\nAct, 2023.”.\n(2) The Information Technology Act, 2000 shall be amended in the following manner,\nnamely:—\n(a) section 43A shall be omitted;\n(b) in section 81, in the proviso, after the words and figures “the Patents\nAct, 1970”, the words and figures “or the Digital Personal Data Protection Act, 2023”\nshall be inserted; and\n(c) in section 87, in sub-section (2), clause (ob) shall be omitted.\n(3) In section 8 of the Right to Information Act, 2005, in sub-section (1), for clause (j),\nthe following clause shall be substituted, namely:—\n“(j) information which relates to personal information;”.\n21 of 2000.\n27 of 2008.\n21 of 2000.\n39 of 1970.\n22 of 2005.",
+    "requirement": "In Section 81 of the Information Technology Act, 2000, insert \"or the Digital Personal Data Protection Act, 2023\" after \"the Patents Act, 1970\".",
+    "requirement_description": "The Digital Personal Data Protection Act, 2023 is to be included in the proviso of Section 81 of the Information Technology Act, 2000.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Review and Update Legislation References",
+        "control": "Review all relevant sections of the Information Technology Act, 2000, and update the references to include the Digital Personal Data Protection Act, 2023. This includes inserting 'or the Digital Personal Data Protection Act, 2023' after 'the Patents Act, 1970' in Section 81."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Communicate Changes to Stakeholders",
+        "control": "Notify all relevant stakeholders, including employees, customers, and partners, about the changes made to Section 81 of the Information Technology Act, 2000, to include the Digital Personal Data Protection Act, 2023. This includes providing training and documentation to ensure understanding of the changes."
+      },
+      {
+        "priority": "low",
+        "control_title": "Document Changes and Rationale",
+        "control": "Maintain a record of the changes made to Section 81 of the Information Technology Act, 2000, including the rationale behind the update. This includes documenting the impact of the Digital Personal Data Protection Act, 2023, on the organization's operations and policies."
+      },
+      {
+        "priority": "high",
+        "control_title": "Conduct Compliance Audits",
+        "control": "Conduct regular compliance audits to ensure that the organization is meeting the updated requirements of Section 81 of the Information Technology Act, 2000, including the inclusion of the Digital Personal Data Protection Act, 2023. This includes reviewing policies, procedures, and controls to ensure they are effective and up-to-date."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Omit Clause (ob) of Sub-section (2) of Section 87 of the Information Technology Act, 2000",
+    "article_number": "section_26",
+    "priority": "high",
+    "article_text": "20 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n“(i) the Appellate Tribunal under the Information Technology Act, 2000;\n(ii) the Appellate Tribunal under the Airports Economic Regulatory Authority\nof  India Act, 2008; and\n(iii) the Appellate Tribunal under the Digital Personal Data Protection\nAct, 2023.”.\n(2) The Information Technology Act, 2000 shall be amended in the following manner,\nnamely:—\n(a) section 43A shall be omitted;\n(b) in section 81, in the proviso, after the words and figures “the Patents\nAct, 1970”, the words and figures “or the Digital Personal Data Protection Act, 2023”\nshall be inserted; and\n(c) in section 87, in sub-section (2), clause (ob) shall be omitted.\n(3) In section 8 of the Right to Information Act, 2005, in sub-section (1), for clause (j),\nthe following clause shall be substituted, namely:—\n“(j) information which relates to personal information;”.\n21 of 2000.\n27 of 2008.\n21 of 2000.\n39 of 1970.\n22 of 2005.",
+    "requirement": "Clause (ob) of Sub-section (2) of Section 87 of the Information Technology Act, 2000 shall be omitted.",
+    "requirement_description": "Clause (ob) of Sub-section (2) of Section 87 of the Information Technology Act, 2000 is to be removed.",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Review and Update Compliance Documentation",
+        "control": "Review and update the compliance documentation to reflect the omission of Clause (ob) of Sub-section (2) of Section 87 of the Information Technology Act, 2000. This includes updating policies, procedures, and guidelines to ensure they are compliant with the revised requirements."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Communicate Changes to Stakeholders",
+        "control": "Communicate the changes to stakeholders, including employees, customers, and partners, to ensure they are aware of the updated compliance requirements. This includes providing training and awareness programs to ensure understanding and adherence to the revised requirements."
+      },
+      {
+        "priority": "low",
+        "control_title": "Update Compliance Training Programs",
+        "control": "Update compliance training programs to reflect the changes in compliance requirements. This includes revising training materials, updating training sessions, and ensuring that all employees are aware of the updated requirements."
+      },
+      {
+        "priority": "high",
+        "control_title": "Conduct Risk Assessment and Gap Analysis",
+        "control": "Conduct a risk assessment and gap analysis to identify potential risks and gaps in compliance with the revised requirements. This includes identifying areas where additional controls or procedures may be required to ensure compliance."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Update Compliance Reports and Certifications",
+        "control": "Update compliance reports and certifications to reflect the changes in compliance requirements. This includes revising audit reports, updating compliance certifications, and ensuring that all relevant stakeholders are aware of the updated status."
+      }
+    ]
+  },
+  {
+    "requirement_title": "Substitute Clause (j) in Section 8 of the Right to Information Act, 2005",
+    "article_number": "section_26",
+    "priority": "high",
+    "article_text": "20 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II—\n“(i) the Appellate Tribunal under the Information Technology Act, 2000;\n(ii) the Appellate Tribunal under the Airports Economic Regulatory Authority\nof  India Act, 2008; and\n(iii) the Appellate Tribunal under the Digital Personal Data Protection\nAct, 2023.”.\n(2) The Information Technology Act, 2000 shall be amended in the following manner,\nnamely:—\n(a) section 43A shall be omitted;\n(b) in section 81, in the proviso, after the words and figures “the Patents\nAct, 1970”, the words and figures “or the Digital Personal Data Protection Act, 2023”\nshall be inserted; and\n(c) in section 87, in sub-section (2), clause (ob) shall be omitted.\n(3) In section 8 of the Right to Information Act, 2005, in sub-section (1), for clause (j),\nthe following clause shall be substituted, namely:—\n“(j) information which relates to personal information;”.\n21 of 2000.\n27 of 2008.\n21 of 2000.\n39 of 1970.\n22 of 2005.",
+    "requirement": "Substitute clause (j) in Section 8 of the Right to Information Act, 2005 with \"information which relates to personal information\".",
+    "requirement_description": "Clause (j) in Section 8 of the Right to Information Act, 2005 is to be replaced with \"information which relates to personal information\".",
+    "controls": [
+      {
+        "priority": "high",
+        "control_title": "Update Section 8 of the Right to Information Act, 2005",
+        "control": "Update clause (j) in Section 8 of the Right to Information Act, 2005 to read 'information which relates to personal information'. This change should be made in all official publications and digital platforms."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Communicate Changes to Stakeholders",
+        "control": "Notify all stakeholders, including government officials, citizens, and other interested parties, about the changes made to Section 8 of the Right to Information Act, 2005. This should be done through official channels, such as press releases, website updates, and social media."
+      },
+      {
+        "priority": "low",
+        "control_title": "Review and Update Related Policies",
+        "control": "Review and update all related policies, procedures, and guidelines to reflect the changes made to Section 8 of the Right to Information Act, 2005. This includes policies related to data protection, privacy, and information disclosure."
+      },
+      {
+        "priority": "high",
+        "control_title": "Train Staff on New Requirements",
+        "control": "Provide training to all staff members who handle information requests and responses, on the new requirements and procedures related to personal information. This includes training on data protection, privacy, and information disclosure."
+      },
+      {
+        "priority": "medium",
+        "control_title": "Monitor Compliance",
+        "control": "Establish a monitoring system to ensure that the changes made to Section 8 of the Right to Information Act, 2005 are being implemented correctly. This includes regular audits and reviews to ensure compliance with the new requirements."
+      }
+    ]
+  }
+]

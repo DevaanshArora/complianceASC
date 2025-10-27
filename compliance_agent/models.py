@@ -6,7 +6,7 @@ from datetime import datetime
 class ControlSuggestion(BaseModel):
     priority: str = Field(..., description="Priority level: high, medium, or low")
     control_title: str = Field(..., description="Descriptive title for the control")
-    control: str = Field(..., description="Detailed control description")
+    control: Optional[str] = Field(None, description="Detailed control description")
 
 
 class ComplianceRequirement(BaseModel):
